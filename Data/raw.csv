@@ -1,0 +1,1311 @@
+N,Fecha colapso,Nombre,Tipo de Puente,Causa principal,Material,Colapso,Estado,Pais
+1,1945,Ludendorff,Armadura,Ataque terrorista,Acero,Total,Servicio,Alemania
+2,2012,Rio Beaver,Trestle,Ataque terrorista,"Madera, Hormig�n armado, acero",Total,Servicio,Canada
+3,2024,Red,Viga,Ataque terrorista,Hormig�n armado,Total,Servicio,Canada
+4,1997,La Granja,No definido,Ataque terrorista,Hormig�n armado,Total,Servicio,Colombia
+5,1997,La Conguta,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+6,1997,No nombre,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+7,1997,Villartega,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+8,"Diciembre, 1998",Viao,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+9,"Abril, 1999",Tasido,No definido,Ataque terrorista,Hormig�n armado,Total,Servicio,Colombia
+10,"Abril, 2000",El Caminito,No definido,Ataque terrorista,Acero,Parcial,Servicio,Colombia
+11,"Abril, 2000",Costa Rica,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+12,"Marzo, 2000",Cubugon,No definido,Ataque terrorista,Hormig�n armado,Parcial,Servicio,Colombia
+13,"Abril, 2000",La Honda,No definido,Ataque terrorista,Hormig�n armado,Total,Servicio,Colombia
+14,"Mayo, 2000",Ponton Cuchuca,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+15,"Julio, 2000",Ponton,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+16,"Junio, 2000",Colorado,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+17,"Septiembre, 2000",Ponton Tolima,No definido,Ataque terrorista,Acero,Parcial,Servicio,Colombia
+18,"Junio, 2001",Rio Negro,No definido,Ataque terrorista,Hormig�n armado,Parcial,Servicio,Colombia
+19,"Agosto, 2000",Penjamo,No definido,Ataque terrorista,Hormig�n armado,Parcial,Servicio,Colombia
+20,"Noviembre, 2000",Molino Viejo,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+21,"Febrero, 2001",El Mango,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+22,"Febrero, 2001",Paso a desnivel,No definido,Ataque terrorista,No definido,Parcial,Servicio,Colombia
+23,"Febrero, 2001",El Caminito,No definido,Ataque terrorista,Acero,Parcial,Servicio,Colombia
+24,1984,Cuscatl�n,Suspension,Ataque terrorista,Hormig�n armado,Total,Servicio,El Salvador
+25,2002,Rafiganj,Armadura,Ataque terrorista,No definido,Total,Servicio,India
+26,2015,Kudzum,No definido,Ataque terrorista,Hormig�n armado,Total,Servicio,Nigeria
+27,2014,Dilichim,No definido,Ataque terrorista,No definido,Total,Servicio,Nigeria
+28,2015,Mubi,No definido,Ataque terrorista,No definido,Total,Servicio,Nigeria
+29,2014,Biu Highway,No definido,Ataque terrorista,No definido,Total,Servicio,Nigeria
+30,2014,Gwoza Bama,No definido,Ataque terrorista,No definido,Total,Servicio,Nigeria
+31,2014,Nbulu river,No definido,Ataque terrorista,No definido,Total,Servicio,Nigeria
+32,2014,Katarko,No definido,Ataque terrorista,Hormig�n armado,Total,Servicio,Nigeria
+33,1970,Britannia,Viga,Ataque terrorista,No definido,Total,Servicio,Reino Unido
+34,1992,Staples Corner,No definido,Ataque terrorista,No definido,Parcial,Servicio,Reino Unido
+35,1905,Egyptian,Suspension,Ataque terrorista,Piedra,Total,Servicio,Rusia
+36,No date,Sin nombre,Suspension,Ataque terrorista,Acero,Parcial,Servicio,Turquia
+37,No date,Sin nombre,Armadura,Ataque terrorista,Acero,Total,Servicio,Turquia
+38,No date,Sin nombre,Armadura,Ataque terrorista,Acero,Total,Servicio,Turquia
+39,No date,Sin nombre,Armadura,Ataque terrorista,Acero,Total,Servicio,Turquia
+40,No date,Sin nombre,Armadura,Ataque terrorista,Acero,Total,Servicio,Turquia
+41,1861,Missouri,No definido,Ataque terrorista,No definido,Parcial,Servicio,USA
+42,1966,Heiligenstedten,Atirantado,Colision,Hormig�n armado,Total,Servicio,Alemania
+43,1998,Eschede,No definido,Colision,No definido,Total,Servicio,Alemania
+44,2015,Friesenbr�cke,Armadura,Colision,Acero,Total,Servicio,Alemania
+45,1837,Donaustauf,No definido,Colision,No definido,Parcial,Servicio,Alemania
+46,1869,Hammer,Armadura,Colision,Acero,Parcial,Servicio,Alemania
+47,1908,Herrenbr�cke,Colgante,Colision,Madera,Parcial,Servicio,Alemania
+48,1947,Bremen,No definido,Colision,No definido,Total,Servicio,Alemania
+49,1979,Over A2,Viga,Colision,Hormig�n armado,Total,Servicio,Alemania
+50,1979,Over A3,Viga,Colision,Hormig�n armado,Total,Servicio,Alemania
+51,1979,Over A1,Viga,Colision,Hormig�n armado,Parcial,Servicio,Alemania
+52,1980,Dortmund-Ems,Suspension,Colision,Hormig�n armado,Total,Servicio,Alemania
+53,1981,Mittl. Ring,Viga,Colision,Hormig�n armado,Total,Servicio,Alemania
+54,1998,Eschede,Viga,Colision,Hormig�n armado,Total,Servicio,Alemania
+55,1999,Wuppertal Schwebebahn,Armadura,Colision,Acero,Parcial,Servicio,Alemania
+56,1825,Nienburg Bridge,Atirantado,Colision,Hormig�n armado,Total,Servicio,Alemania
+57,1942,Stubenrauch Bridge,Armadura,Colision,Acero,Parcial,Servicio,Alemania
+58,1945,Oder bridge,Armadura,Colision,Acero,Total,Servicio,Alemania
+59,1945,Laasan Bridge,Arco,Colision,Acero,Total,Servicio,Alemania
+60,1947,Freeman Bridge,Arco,Colision,Acero,Total,Servicio,Alemania
+61,2005,Kattwykbr�cke,Arco,Colision,Acero,Parcial,Servicio,Alemania
+62,1975,Tasman,Viga,Colision,Hormig�n armado,Total,Servicio,Australia
+63,1977,Granville,Sobrepaso,Colision,Hormig�n armado,Total,Servicio,Australia
+64,1975,Tasman,Viga,Colision,Hormig�n armado,Parcial,Servicio,Australia
+65,1938,Tasman Bridge,Viga,Colision,Acero,Parcial,Servicio,Australia
+66,1977,Granville Bridge,Atirantado,Colision,Acero,Total,Servicio,Australia
+67,1974,Luttre,Armadura,Colision,Hormig�n armado,Parcial,Servicio,Belgica
+68,2007,Highway 325,Viga,Colision,Hormig�n armado,Parcial,Servicio,China
+69,2008,Jintang,Atirantado,Colision,Hormig�n armado,Parcial,Construccion,China
+70,2011,Chengdu Kunming,Viga,Colision,Hormig�n armado,Total,Servicio,China
+71,2024,Lixinsha,Viga,Colision,Hormig�n armado,Parcial,Servicio,China
+72,2007,Foshan,Viga,Colision,Hormig�n armado,Parcial,Servicio,China
+73,"Mayo, 1993",El Limon,No definido,Colision,Hormig�n armado,Total,Servicio,Colombia
+74,"Noviembre, 1994",San Luis,No definido,Colision,Acero,Total,Servicio,Colombia
+75,"Junio, 1994",Avirama,No definido,Colision,No definido,Total,Servicio,Colombia
+76,"Junio, 1994",Itaibe,No definido,Colision,No definido,Total,Servicio,Colombia
+77,"Junio, 1994",Juntas,No definido,Colision,No definido,Total,Servicio,Colombia
+78,"Junio, 1994",Naranjal,No definido,Colision,Hormig�n armado,Total,Servicio,Colombia
+79,"Junio, 1994",Nolasco,No definido,Colision,No definido,Total,Servicio,Colombia
+80,"Junio, 1994",Moras,No definido,Colision,Hormig�n armado,Total,Servicio,Colombia
+81,"Junio, 1994",Cohentando,No definido,Colision,No definido,Total,Servicio,Colombia
+82,"Junio, 1994",Ricaurte,No definido,Colision,Madera,Total,Servicio,Colombia
+83,"Junio, 1994",Simbola,No definido,Colision,No definido,Total,Servicio,Colombia
+84,"Junio, 1994",Capri,No definido,Colision,Hormig�n armado,Total,Servicio,Colombia
+85,"Junio, 1994",La Troja,No definido,Colision,Hormig�n armado,Total,Servicio,Colombia
+86,"Junio, 1994",Itaibe,No definido,Colision,No definido,Total,Servicio,Colombia
+87,"Junio, 1994",Nolasco,No definido,Colision,No definido,Total,Servicio,Colombia
+88,1997,Matanzas,No definido,Colision,Acero,Total,Servicio,Colombia
+89,2012,Limfjord,Viga,Colision,Acero,Parcial,Servicio,Dinamarca
+90,1935,Copenhagen,Armadura,Colision,Acero,Parcial,Servicio,Dinamarca
+91,1947,Great Belt Fixed Link,Viga,Colision,Hormig�n armado,Parcial,Servicio,Dinamarca
+92,1938,Ferdan Bridge,Viga,Colision,Hormig�n armado,Parcial,Servicio,Egipto
+93,2010,Laajasalo,Viga,Colision,Hormig�n armado,Total,Servicio,Finlandia
+94,1907,Ponts de C�,Armadura,Colision,Acero,Parcial,Servicio,Francia
+95,1977,Beki,Armadura,Colision,Acero,Total,Servicio,India
+96,2002,Rafiganj Rail Bridge,Atirantado,Colision,Acero,Total,Servicio,India
+97,2003,Cahir,Armadura,Colision,Acero,Total,Servicio,Irlanda
+98,2017,Ramat Elhanan,No definido,Colision,Hormig�n armado,Parcial,Servicio,Israel
+99,2006,Nimule,No definido,Colision,No definido,Total,Servicio,Kenia
+100,1963,Kristiansund,Viga,Colision,Hormig�n armado,Parcial,Servicio,Noruega
+101,2000,Chagres,Viga,Colision,No definido,Parcial,Servicio,Panama
+102,1999,Rio Chiriqu�,Suspension,Colision,Acero,Total,Servicio,Panama
+103,1952,Harrow and Wealdstone,No definido,Colision,No definido,Total,Servicio,Reino Unido
+104,1957,St. Johns station,Armadura,Colision,Acero,Total,Servicio,Reino Unido
+105,1960,Severn,Arco,Colision,Hierro Fundido,Total,Servicio,Reino Unido
+106,1922,Sheppey,Viga,Colision,No definido,Parcial,Servicio,Reino Unido
+107,1957,St John�s,Viga,Colision,Hormig�n armado,Parcial,Servicio,Reino Unido
+108,1975,M62,Suspension,Colision,Hormig�n armado,Total,Servicio,Reino Unido
+109,2005,Codsall,Suspension,Colision,"Madera, acero",Total,Servicio,Reino Unido
+110,2011,Severn Railway Bridge,Armadura,Colision,Acero,Parcial,Servicio,Reino Unido
+111,2008,St�denka bridge,Viga,Colision,Acero,Total,Servicio,Republica Checa
+112,1980,Alm�bron,Arco,Colision,Acero,Parcial,Servicio,Suecia
+113,1977,Gothenburg Harbour,No definido,Colision,No definido,Parcial,Servicio,Suecia
+114,1980,Alm� Sound,Arco,Colision,Hormig�n armado,Total,Servicio,Suecia
+115,1980,Tjorn,Viga,Colision,No definido,Total,Servicio,Suecia
+116,1980,Alm� Bridge,Armadura,Colision,Hormig�n armado,Total,Construccion,Suecia
+117,1891,M�nchenstein Bridge,Arco,Colision,Acero,Total,Servicio,Suiza
+118,No date,Sin nombre,Viga,Colision,Hormig�n armado,Total,Servicio,Turquia
+119,No date,Sin nombre,Viga,Colision,Hormig�n armado,Total,Servicio,Turquia
+120,No date,Sin nombre,Viga,Colision,Hormig�n armado,Total,Servicio,Turquia
+121,No date,Sin nombre,Viga,Colision,Hormig�n armado,Total,Servicio,Turquia
+122,No date,Sin nombre,Viga,Colision,Hormig�n armado,Parcial,Servicio,Turquia
+123,No date,Sin nombre,Viga,Colision,Hormig�n armado,Parcial,Servicio,Turquia
+124,No date,Sin nombre,Viga,Colision,Hormig�n armado,Parcial,Servicio,Turquia
+125,No date,Sin nombre,Viga,Colision,Hormig�n armado,Parcial,Servicio,Turquia
+126,No date,Sin nombre,Viga,Colision,Hormig�n armado,Parcial,Servicio,Turquia
+127,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+128,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+129,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+130,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+131,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+132,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+133,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+134,No date,Sin nombre,Viga,Colision,Acero,Total,Servicio,Turquia
+135,No date,Sin nombre,Viga,Colision,Acero,Parcial,Servicio,Turquia
+136,No date,Sin nombre,Viga,Colision,Acero,Parcial,Servicio,Turquia
+137,No date,Sin nombre,Viga,Colision,Acero,Parcial,Servicio,Turquia
+138,2005,128th Avenue Bridge,Armadura,Colision,Madera,Total,Servicio,USA
+139,2005,128th Avenue Bridge,Arco,Colision,Madera,Total,Servicio,USA
+140,1930,Butler Bridge,Armadura,Colision,Acero,Total,Servicio,USA
+141,1947,Drake's Creek Bridge,Arco,Colision,Acero,Total,Servicio,USA
+142,1949,Jelly�s Ferry Road Bridge,Armadura,Colision,Acero,Total,Servicio,USA
+143,1957,Fassett Street Bridge,Arco,Colision,Acero,Total,Servicio,USA
+144,1957,Ashtabula River Bridge,Arco,Colision,Acero,Total,Servicio,USA
+145,1988,Calumet River Bridge,Arco,Colision,Acero,Total,Servicio,USA
+146,1993,Big Bayou Canot,Armadura,Colision,Acero,Total,Servicio,USA
+147,2013,Skagit River,Arco,Colision,Acero,Total,Servicio,USA
+148,2018,Brown Station Way,Armadura,Colision,Acero,Total,Servicio,USA
+149,1974,I-40 bridge,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+150,No date,Benjamin Harrison Memorial,Atirantado,Colision,Hormig�n armado,Parcial,Servicio,USA
+151,No date,Sealy Bridge,Atirantado,Colision,Hormig�n armado,Parcial,Servicio,USA
+152,1946,14th Street bridge,Atirantado,Colision,Hormig�n armado,Parcial,Servicio,USA
+153,1953,Bolton Road Bridge,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+154,1972,"Sidney Lanier Bridge,",Atirantado,Colision,Hormig�n armado,Parcial,Servicio,USA
+155,2007,Manchac Bridge,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+156,2010,Queen Isabel Causeway,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+157,1877,Emery Crossing Road Overpass,Viga,Colision,Acero,Parcial,Servicio,USA
+158,1884,Hamilton Street Bridge,Arco,Colision,Acero,Parcial,Servicio,USA
+159,1900,Webster Street Bridge,Arco,Colision,Acero,Parcial,Servicio,USA
+160,1906,Huey P. Long Bridge,Armadura,Colision,Acero,Parcial,Servicio,USA
+161,1945,John Grace Memorial,Arco,Colision,Acero,Parcial,Servicio,USA
+162,1957,Sunshine Skyway Bridge,Arco,Colision,Acero,Parcial,Servicio,USA
+163,2005,Judge William Seeber Bridge,Armadura,Colision,Acero,Parcial,Servicio,USA
+164,2011,Eggner's Ferry Bridge,Arco,Colision,Acero,Parcial,Servicio,USA
+165,2011,Bridge in Shepherdsville near Louisville,Armadura,Colision,Acero,Parcial,Servicio,USA
+166,2011,Tobin Bridge,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+167,1891,Sidney Lanier Bridge,Armadura,Colision,Acero,Parcial,Servicio,USA
+168,1942,Chesapeake Bay Bridge,Arco,Colision,Acero,Parcial,Servicio,USA
+169,1905,Michigan,Armadura,Colision,Acero,Parcial,Servicio,USA
+170,1946,South Carolina,Armadura,Colision,Acero,Parcial,Servicio,USA
+171,1980,Florida,Viga,Colision,Acero,Parcial,Servicio,USA
+172,1924,Oregon,Armadura,Colision,Acero,Parcial,Servicio,USA
+173,1989,Kentucky,Armadura,Colision,Acero,Parcial,Servicio,USA
+174,2001,Texas,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+175,2002,Oklahoma,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+176,2012,Hawaii,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+177,2013,Missouri,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+178,1939,New York,Viga,Colision,Hormig�n armado,Parcial,Construccion,USA
+179,1879,Missouri,Armadura,Colision,Hierro fundido,Parcial,Servicio,USA
+180,2012,Kentucky,Armadura,Colision,Hormig�n armado,Parcial,Servicio,USA
+181,2016,Oklahoma,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+182,2021,Georgia,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+183,1970,Maryland,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+184,1972,Maryland,Viga,Colision,Hormig�n armado,Parcial,Servicio,USA
+185,1976,Louisiana,Atirantado,Colision,Hormig�n armado,Parcial,Servicio,USA
+186,1993,Alabama,Armadura,Colision,Hormig�n armado,Parcial,Servicio,USA
+187,1936,Virginia,No definido,Colision,Madera,Parcial,Servicio,USA
+188,1964,Louisiana,No definido,Colision,No definido,Parcial,Servicio,USA
+189,1972,Georgia,Puente movible,Colision,No definido,Parcial,Servicio,USA
+190,1977,Virginia,Puente movible,Colision,No definido,Parcial,Servicio,USA
+191,1993,Louisiana,No definido,Colision,No definido,Parcial,Servicio,USA
+192,2009,Mississippi,Puente movible,Colision,No definido,Parcial,Servicio,USA
+193,2009,Michigan,Viga,Colision,No definido,Parcial,Servicio,USA
+194,1945,Massachusetts,Colgante,Colision,No definido,Parcial,Servicio,USA
+195,1946,South Carolina,No definido,Colision,No definido,Parcial,Servicio,USA
+196,1964,Utah,No definido,Colision,No definido,Parcial,Servicio,USA
+197,1974,Oregon,No definido,Colision,No definido,Parcial,Servicio,USA
+198,1977,New Jersey,No definido,Colision,No definido,Parcial,Servicio,USA
+199,1990,North Carolina,No definido,Colision,No definido,Parcial,Servicio,USA
+200,2023,Montana,Armadura,Colision,Acero,Total,Servicio,USA
+201,2024,Maryland,Armadura,Colision,Acero,Total,Servicio,USA
+202,1937,Virginia,Armadura,Colision,Acero,Total,Servicio,USA
+203,1947,Maine,Armadura,Colision,Acero,Total,Servicio,USA
+204,1978,Louisiana,Armadura,Colision,Acero,Total,Servicio,USA
+205,1979,Alabama,Armadura,Colision,Acero,Total,Servicio,USA
+206,1942,Maryland,Puente movible,Colision,Hormig�n armado,Total,Servicio,USA
+207,1999,Maryland,Viga,Colision,Hormig�n armado,Total,Servicio,USA
+208,1886,New York,Armadura,Colision,Hierro fundido,Total,Servicio,USA
+209,1892,Illinois,Armadura,Colision,Hierro fundido,Total,Servicio,USA
+210,1897,South Carolina,Armadura,Colision,Hierro fundido,Total,Servicio,USA
+211,1980,Wisconsin,Armadura,Colision,Hormig�n armado,Total,Servicio,USA
+212,2001,New Jersey,Armadura,Colision,Hormig�n armado,Total,Servicio,USA
+213,2004,Kansas,Armadura,Colision,Hormig�n armado,Total,Servicio,USA
+214,1859,Indiana,Armadura,Colision,Madera,Total,Servicio,USA
+215,1873,Rhode Island,Viga,Colision,No definido,Total,Servicio,USA
+216,1935,Virginia,No definido,Colision,No definido,Total,Servicio,USA
+217,1993,Alabama,Viga,Colision,No definido,Total,Servicio,USA
+218,1937,Oregon,Viga,Colision,No definido,Total,Servicio,USA
+219,2002,Texas,No definido,Colision,No definido,Total,Servicio,USA
+220,1964,Rafael Urdaneta,Viga,Colision,Hormig�n armado,Parcial,Servicio,Venezuela
+221,1964,Maracaibo,Atirantado,Colision,Hormig�n armado,Parcial,Servicio,Venezuela
+222,1964,General Rafael Urdaneta Bridge,Atirantado,Colision,Hormig�n armado,Parcial,Construccion,Venezuela
+223,2019,Rio Moju,Viga,Colision,Hormig�n armado,Total,Servicio,Brasil
+224,1896,Point Ellice,No definido,Colision,No definido,Total,Servicio,Canada
+225,2013,Wanup train,Trestle,Colision,Acero,Total,Servicio,Canada
+226,1927,Second Narrows,Viga,Colision,No definido,Parcial,Servicio,Canada
+227,1975,Fraser,No definido,Colision,No definido,Parcial,Servicio,Canada
+228,1974,Bridge 12,Armadura,Colision,Acero,Total,Servicio,Canada
+229,2016,Second Narrows Bridge in,Armadura,Colision,Acero,Parcial,Servicio,Canada
+230,1983,Ulyanovsk,Viga,Colision,No definido,Parcial,Servicio,Rusia
+231,2004,Leningradskoye Shosse,No definido,Colision,No definido,Parcial,Servicio,Rusia
+232,1967,Ohio,Viga,Corrosion,Hormig�n armado,Total,Servicio,USA
+233,1983,Connecticut,Viga,Corrosion,Hormig�n armado,Parcial,Servicio,USA
+234,1985,Ynys-y-Gwas,Viga,Corrosion,Hormig�n armado,Total,Servicio,Reino Unido
+235,1992,Schelde,No definido,Corrosion,No definido,Total,Servicio,Belgica
+236,2005,Pennsylvania,Viga,Corrosion,Hormig�n armado,Parcial,Servicio,USA
+237,2005,Maryland,Arco,Corrosion,Hormig�n armado,Total,Servicio,USA
+238,2017,Troja,Suspension,Corrosion,Hormig�n armado,Total,Servicio,Republica Checa
+239,1953,Whangaehu,Viga,Debris hidraulico,Hormig�n armado,Total,Servicio,Nueva Zelanda
+240,1995,Virginia,Viga,Debris hidraulico,Acero,Total,Servicio,USA
+241,1887,Alabama,Armadura,Debris hidraulico,Hierro fundido,Total,Servicio,USA
+242,2004,South Carolina,Viga,Debris hidraulico,Hormig�n armado,Total,Servicio,USA
+243,1825,Saalebr�cke bei M�nchen-Nienburg,Atirantado,Deficiencia constructiva,No definido,Parcial,Servicio,Alemania
+244,1940,Theodor Heuss,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Alemania
+245,1945,Deutz,Suspension,Deficiencia constructiva,Acero,Total,Construccion,Alemania
+246,1971,Koblenz,Viga,Deficiencia constructiva,Hormig�n armado,Total,Servicio,Alemania
+247,2024,Carola,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Alemania
+248,1926,Gartz,Arco,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Alemania
+249,1936,Hardenbergstrasse,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Alemania
+250,1938,Valley,No definido,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Alemania
+251,1940,Frankenthal,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Alemania
+252,1945,Hindenburg,No definido,Deficiencia constructiva,No definido,Parcial,Servicio,Alemania
+253,1973,Vorland,No definido,Deficiencia constructiva,No definido,Parcial,Servicio,Alemania
+254,1974,Brohtalbridge,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Alemania
+255,1984,Lohr-Wertheim,Armadura,Deficiencia constructiva,Acero,Total,Construccion,Alemania
+256,1985,Czerny,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Alemania
+257,1938,Vierendeelbridge,No definido,Deficiencia constructiva,Hormig�n armado,Total,Servicio,Belgica
+258,2014,Belo Horizonte,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Brasil
+259,1907,Quebec,Armadura y en voladizo,Deficiencia constructiva,Acero,Total,Construccion,Canada
+260,1916,Quebec,Armadura y en voladizo,Deficiencia constructiva,Acero,Total,Servicio,Canada
+261,1951,Duplessis,No definido,Deficiencia constructiva,Acero,Total,Servicio,Canada
+262,1958,Ironworkers Memorial,Armadura y en voladizo,Deficiencia constructiva,Acero,Total,Construccion,Canada
+263,1966,Heron Road,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Canada
+264,2004,Big Nickel,No definido,Deficiencia constructiva,No definido,Total,Construccion,Canada
+265,2006,De la Concorde,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Canada
+266,2016,Rio Nipigon,Atirantado,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Canada
+267,1951,Duplessis,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Canada
+268,2007,Tuo,No definido,Deficiencia constructiva,No definido,Total,Construccion,China
+269,2007,Fenghuang,No definido,Deficiencia constructiva,No definido,Total,Construccion,China
+270,"Octubre, 1997",Maizaro,No definido,Deficiencia constructiva,Hormig�n armado,Total,Servicio,Colombia
+271,1999,Calle 26 y Avenida 68,No definido,Deficiencia constructiva,No definido,Parcial,Servicio,Colombia
+272,2000,Tobia-Grande Puerto Salgar,No definido,Deficiencia constructiva,Hormig�n armado,Total,Servicio,Colombia
+273,1937,Rio Kasai,No definido,Deficiencia constructiva,No definido,Total,Construccion,Congo
+274,1992,Haengju,Atirantado,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Corea
+275,2006,E45,Viga,Deficiencia constructiva,No definido,Total,Servicio,Dinamarca
+276,2014,Copenhagen,No definido,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Dinamarca
+277,2010,Zamora,No definido,Deficiencia constructiva,Acero,Total,Construccion,Ecuador
+278,2011,Pichincha,No definido,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Ecuador
+279,2013,El Oro,No definido,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Ecuador
+280,2005,Almu��car,No definido,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Espa�a
+281,1928,K�revere Bridge,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Estonia
+282,1846,Barentin,Armadura,Deficiencia constructiva,Acero,Total,Construccion,Francia
+283,1985,Sully-sur-Loire,Suspension,Deficiencia constructiva,Hormig�n armado,Total,Servicio,Francia
+284,2007,Flyover,No definido,Deficiencia constructiva,No definido,Total,Construccion,India
+285,2009,Kota Chambal,No definido,Deficiencia constructiva,No definido,Total,Construccion,India
+286,2014,Surat,Atirantado,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,India
+287,2016,Vivekananda,Viga,Deficiencia constructiva,Acero,Total,Construccion,India
+288,2019,CST pedestrian,No definido,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,India
+289,2023,Mizoram,Armadura,Deficiencia constructiva,Acero,Total,Construccion,India
+290,2022,Julto Pul,Suspension,Deficiencia constructiva,No definido,Total,Servicio,India
+291,1991,Astram Line,Armadura,Deficiencia constructiva,Acero,Total,Construccion,Japon
+292,1979,Ayato,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Japon
+293,2017,Sigiri,Viga,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Kenia
+294,1974,Makahali,No definido,Deficiencia constructiva,No definido,Total,Servicio,Nepal
+295,2016,Agbokim,No definido,Deficiencia constructiva,No definido,Total,Servicio,Nigeria
+296,2012,Odili,No definido,Deficiencia constructiva,No definido,Total,Servicio,Nigeria
+297,2006,Eziama bridge,No definido,Deficiencia constructiva,No definido,Total,Servicio,Nigeria
+298,1967,Willemstad,Viga,Deficiencia constructiva,Acero,Total,Construccion,Paises Bajos
+299,2007,Shershah,Viga,Deficiencia constructiva,No definido,Parcial,Servicio,Pakistan
+300,2006,Yekaterinburg,No definido,Deficiencia constructiva,No definido,Total,Construccion,Rusia
+301,1925,Mozyrow,Armadura,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Rusia
+302,2015,Grayston,Atirantado,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Sudafrica
+303,1939,Sand�,Arco,Deficiencia constructiva,Hormig�n armado,Total,Construccion,Suecia
+304,1873,Payerne,Armadura,Deficiencia constructiva,Acero,Total,Construccion,Suiza
+305,1883,T�ss,Armadura,Deficiencia constructiva,Acero,Total,Construccion,Suiza
+306,No date,Sin nombre,Arco,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Turquia
+307,No date,Sin nombre,Arco,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Turquia
+308,No date,Sin nombre,Colgante,Deficiencia constructiva,Acero,Total,Servicio,Turquia
+309,No date,Sin nombre,Viga,Deficiencia constructiva,Acero,Total,Servicio,Turquia
+310,No date,Sin nombre,Viga,Deficiencia constructiva,Acero,Parcial,Servicio,Turquia
+311,No date,Sin nombre,Suspension,Deficiencia constructiva,Acero,Total,Servicio,Turquia
+312,No date,Sin nombre,Suspension,Deficiencia constructiva,Acero,Parcial,Servicio,Turquia
+313,No date,Sin nombre,Suspension,Deficiencia constructiva,Acero,Parcial,Servicio,Turquia
+314,2015,Pennsylvania,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,USA
+315,2003,California,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,USA
+316,2009,California,No definido,Deficiencia constructiva,No definido,Parcial,Servicio,USA
+317,1927,New Jersey,Suspension,Deficiencia constructiva,No definido,Parcial,Construccion,USA
+318,1970,Florida,No definido,Deficiencia constructiva,No definido,Parcial,Servicio,USA
+319,2004,Colorado,No definido,Deficiencia constructiva,Hormig�n armado,Total,Construccion,USA
+320,1887,Massachusetts,Viga,Deficiencia constructiva,Hierro fundido,Total,Servicio,USA
+321,1887,Massachusetts - Bussey,Armadura,Deficiencia constructiva,Hierro fundido,Total,Servicio,USA
+322,2002,New York,No definido,Deficiencia constructiva,Hormig�n armado,Total,Construccion,USA
+323,1981,Missouri,Suspension,Deficiencia constructiva,Madera,Total,Servicio,USA
+324,2015,Ohio,No definido,Deficiencia constructiva,No definido,Total,Construccion,USA
+325,2010,Gungahlin,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Construccion,Australia
+326,1879,Tay rail,Viga,Deficiencia constructiva,Hierro Fundido,Total,Servicio,Reino Unido
+327,1882,Inverythan,Viga,Deficiencia constructiva,Hierro Fundido,Total,Servicio,Reino Unido
+328,1884,Camberwell,Viga,Deficiencia constructiva,Hierro Fundido,Total,Servicio,Reino Unido
+329,1967,Bickton Meadows,Viga,Deficiencia constructiva,Hormig�n armado,Parcial,Servicio,Reino Unido
+330,1894,Stargard RC,Arco,Deficiencia estructural,Hormig�n armado,Colapso,Construccion,Alemania
+331,1902,Cornelius,No definido,Deficiencia estructural,No definido,Total,Construccion,Alemania
+332,1905,Heidelberg,Armadura,Deficiencia estructural,Acero,Parcial,Construccion,Alemania
+333,1923,Flensburg,Arco,Deficiencia estructural,Piedra,Total,Construccion,Alemania
+334,1954,Kaiserslautern,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+335,1956,Nordbr�cke,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Alemania
+336,1960,Leda,Armadura,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Alemania
+337,1961,Limburg,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+338,1963,Heidingsfeld,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+339,1966,Vorland Rees-Kalkar,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+340,1968,A2,No definido,Deficiencia estructural,No definido,Parcial,Servicio,Alemania
+341,1971,Wenigsen,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Alemania
+342,1971,Koblenz,Viga,Deficiencia estructural,Acero,Parcial,Construccion,Alemania
+343,1972,Hangbr�cke,Viga,Deficiencia estructural,No definido,Parcial,Construccion,Alemania
+344,1973,Zeulenroda,Viga,Deficiencia estructural,Acero,Parcial,Construccion,Alemania
+345,1974,Kempten,No definido,Deficiencia estructural,No definido,Total,Construccion,Alemania
+346,1977,Bad Cannstatt,Armadura,Deficiencia estructural,Madera,Total,Construccion,Alemania
+347,1982,Sin nombre,Armadura,Deficiencia estructural,Acero,Total,Construccion,Alemania
+348,1982,Dedensen,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Alemania
+349,1985,Grosshessenlohe,Armadura,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+350,1988,Aschaffenburg,No definido,Deficiencia estructural,No definido,Total,Construccion,Alemania
+351,1995,Cologne-Wahn Airport,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Alemania
+352,1970,West Gate,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Australia
+353,1962,King street,No definido,Deficiencia estructural,No definido,Parcial,Servicio,Australia
+354,1891,Bergbr�cke,Armadura,Deficiencia estructural,Hierro fundido,Total,Construccion,Austria
+355,1969,Fourth Danube,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Austria
+356,1970,Soboth,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Austria
+357,1975,Tauern,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Austria
+358,1982,Rhine,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Austria
+359,1978,Mathabhanga,Viga,Deficiencia estructural,Hormig�n armado,Total,Servicio,Bangladesh
+360,1966,Boudewijnsnelweg,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Belgica
+361,1940,Herenthalsoolen,Arco,Deficiencia estructural,Acero,Parcial,Servicio,Belgica
+362,1940,Haulille,Arco,Deficiencia estructural,Acero,Parcial,Servicio,Belgica
+363,1970,Niteroi,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Brasil
+364,1971,Paulo de Fronton,Armadura,Deficiencia estructural,Hormig�n armado,Total,Construccion,Brasil
+365,2004,Mungo,Viga,Deficiencia estructural,Acero,Parcial,Servicio,Cameroon
+366,1857,Desjardins,Viga,Deficiencia estructural,Acero,Total,Servicio,Canada
+367,2000,Boulevard du Souvenir,Viga,Deficiencia estructural,Hormig�n armado,Total,Servicio,Canada
+368,1916,Quebec,Armadura,Deficiencia estructural,Acero,Parcial,Construccion,Canada
+369,1957,Dawson-Creek,Suspension,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Canada
+370,1958,Second Narrows,Viga,Deficiencia estructural,No definido,Total,Construccion,Canada
+371,1966,Rideau,Arco,Deficiencia estructural,Hormig�n armado,Total,Construccion,Canada
+372,1982,Elwood,Arco,Deficiencia estructural,Hormig�n armado,Total,Construccion,Canada
+373,1984,Sept-Iles,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Canada
+374,2006,Boulevard de la Concorde,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Canada
+375,2009,Hongqi,Viga,Deficiencia estructural,No definido,Total,Servicio,China
+376,2012,Guangchang Hedong,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,China
+377,2018,Zheijang,No definido,Deficiencia estructural,No definido,Total,Servicio,China
+378,1999,Chongjng,Arco,Deficiencia estructural,Acero,Total,Servicio,China
+379,2005,Xiaojianshan,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,China
+380,"Octubre, 1993",Samana,No definido,Deficiencia estructural,Hormig�n armado,Total,Servicio,Colombia
+381,"Junio, 1994",Los Angeles,No definido,Deficiencia estructural,Hormig�n armado,Total,Servicio,Colombia
+382,"Junio, 1995",Heredia,No definido,Deficiencia estructural,Hormig�n armado,Total,Servicio,Colombia
+383,"Enero, 1996",Pescadero,No definido,Deficiencia estructural,Acero,Total,Servicio,Colombia
+384,"Abril, 1998",Recio,No definido,Deficiencia estructural,No definido,Parcial,Servicio,Colombia
+385,1999,Autonorte y 122,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Colombia
+386,2018,Chirajara,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Colombia
+387,1994,Seongsu,Arco,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Corea
+388,2007,Sin nombre,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Corea
+389,1981,Cheju,Suspension,Deficiencia estructural,Hormig�n armado,Total,Construccion,Corea
+390,1994,Sungsu,Armadura,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Corea
+391,1972,Fiskeb�kbroen,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Dinamarca
+392,1971,Ringsted,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Dinamarca
+393,2006,Aalborg,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Dinamarca
+394,2006,Zamora,No definido,Deficiencia Estructural,Hormig�n armado,Parcial,Servicio,Ecuador
+395,2009,Pichincha,No definido,Deficiencia Estructural,Hormig�n armado,Total,Construccion,Ecuador
+396,2010,Guayas,No definido,Deficiencia Estructural,Hormig�n armado,Parcial,Construccion,Ecuador
+397,2010,Guayas,No definido,Deficiencia Estructural,Hormig�n armado,Parcial,Servicio,Ecuador
+398,2011,Manabi,No definido,Deficiencia Estructural,Hormig�n armado,Total,Construccion,Ecuador
+399,2014,Napo,No definido,Deficiencia Estructural,Acero,Total,Servicio,Ecuador
+400,1982,Brenes,No definido,Deficiencia estructural,No definido,Total,Servicio,Espa�a
+401,2010,Myllysilta,No definido,Deficiencia estructural,No definido,Parcial,Servicio,Finlandia
+402,1881,Miramont,Armadura,Deficiencia estructural,Acero,Total,Construccion,Francia
+403,1978,Bihar,No definido,Deficiencia estructural,No definido,Total,Construccion,India
+404,2004,Dombivli,No definido,Deficiencia estructural,No definido,Total,Construccion,India
+405,1996,Grogol,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Indonesia
+406,2004,Suramadu,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Indonesia
+407,1997,Maccabiah,Viga,Deficiencia estructural,Hormig�n armado,Total,Servicio,Israel
+408,2017,Camerano,No definido,Deficiencia estructural,No definido,Total,Servicio,Italia
+409,2018,Ponte Morandi,Atirantado,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Italia
+410,2020,Caprigliola,Arco,Deficiencia estructural,Hormig�n armado,Total,Servicio,Italia
+411,1984,Tama,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Japon
+412,1991,Hiroshima,No definido,Deficiencia estructural,No definido,Total,Construccion,Japon
+413,1967,Mexico City,Viga,Deficiencia estructural,No definido,Total,Construccion,Mexico
+414,2013,E6 at Lade,No definido,Deficiencia estructural,No definido,Total,Construccion,Noruega
+415,2016,Perkolo,Armadura,Deficiencia estructural,Acero y madera,Total,Servicio,Noruega
+416,2022,Tretten,Armadura,Deficiencia estructural,Acero y madera,Total,Servicio,Noruega
+417,1967,Willemstad,Viga,Deficiencia estructural,Acero,Total,Construccion,Paises Bajos
+418,1996,Koror Babeldaob,Atirantado,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Palau
+419,1847,Dee bridge,Viga,Deficiencia estructural,Hierro Fundido,Total,Servicio,Reino Unido
+420,1970,Cleddau,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,Reino Unido
+421,1849,Britannia,Armadura,Deficiencia estructural,Hierro Fundido,Parcial,Construccion,Reino Unido
+422,1892,Strathglass,Armadura,Deficiencia estructural,Hierro Fundido,Total,Construccion,Reino Unido
+423,1959,Barton,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Reino Unido
+424,1962,Fife,No definido,Deficiencia estructural,No definido,Parcial,Construccion,Reino Unido
+425,1967,Calder,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Reino Unido
+426,1970,Cleddau,No definido,Deficiencia estructural,No definido,Total,Construccion,Reino Unido
+427,1972,A329,No definido,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,Reino Unido
+428,1892,Ljubitschewo,Viga,Deficiencia estructural,No definido,Parcial,Construccion,Serbia
+429,1893,Morava,No definido,Deficiencia estructural,No definido,Total,Servicio,Serbia
+430,1998,Injaka,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Sudafrica
+431,1959,Goteborg,Arco,Deficiencia estructural,No definido,Parcial,Construccion,Suecia
+432,1884,Salez,Armadura,Deficiencia estructural,Acero,Total,Construccion,Suiza
+433,1913,G�tikhausen,Armadura,Deficiencia estructural,Acero,Total,Construccion,Suiza
+434,1973,Illarsaz,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Suiza
+435,1973,Valengin,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,Suiza
+436,No date,Sin nombre,Armadura,Deficiencia estructural,Madera,Total,Servicio,Turquia
+437,No date,Sin nombre,Armadura,Deficiencia estructural,Madera,Total,Servicio,Turquia
+438,No date,Sin nombre,Viga,Deficiencia estructural,Hormig�n armado,Total,Servicio,Turquia
+439,1882,New Jersey,Trestle,Deficiencia estructural,Acero,Parcial,Servicio,USA
+440,1927,Ohio,Armadura,Deficiencia estructural,Acero,Parcial,Construccion,USA
+441,1965,Kansas,Arco,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,USA
+442,1972,California,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+443,1887,Virginia,Armadura,Deficiencia estructural,Hierro fundido,Parcial,Construccion,USA
+444,1949,West Virginia,Armadura,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+445,1975,Minnesota,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Servicio,USA
+446,1982,Indiana,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+447,1982,Michigan,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+448,1985,Colorado,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+449,1988,Washington,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+450,1989,California,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+451,2004,Nebraska,Viga,Deficiencia estructural,Hormig�n armado,Parcial,Construccion,USA
+452,2020,Florida,No definido,Deficiencia estructural,No definido,Parcial,Servicio,USA
+453,1982,New York,No definido,Deficiencia estructural,No definido,Parcial,Construccion,USA
+454,1987,Texas,No definido,Deficiencia estructural,No definido,Parcial,Construccion,USA
+455,1993,New Hampshire,Armadura,Deficiencia estructural,Acero,Total,Construccion,USA
+456,1911,California,Arco,Deficiencia estructural,Acero,Total,Construccion,USA
+457,1995,California,Armadura,Deficiencia estructural,Hormig�n armado,Total,Servicio,USA
+458,2018,Florida,Armadura,Deficiencia estructural,Hormig�n armado,Total,Servicio,USA
+459,1892,Georgia,Suspension,Deficiencia estructural,Hierro fundido,Total,Construccion,USA
+460,1894,Ohio,Armadura,Deficiencia estructural,Hierro fundido,Total,Servicio,USA
+461,2007,Minnesota,Arco,Deficiencia estructural,Hormig�n armado,Total,Servicio,USA
+462,1952,Massachusetts,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,USA
+463,1989,Maryland,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,USA
+464,1995,Tennessee,Viga,Deficiencia estructural,Hormig�n armado,Total,Construccion,USA
+465,1921,Pennsylvania,Viga,Deficiencia estructural,Madera,Total,Servicio,USA
+466,1950,Oregon,Armadura,Deficiencia estructural,Madera,Total,Servicio,USA
+467,1970,Illinois,No definido,Deficiencia estructural,No definido,Total,Servicio,USA
+468,1974,Welland  Canal,Armadura,Deficiencia operacional,Acero,Total,Servicio,Canada
+469,1966,Aachen,Armadura,Erosion,Hormig�n armado,Total,Servicio,Belgica
+470,2021,Mexico City Metro,Viga,Erosion,Hormig�n armado,Parcial,Servicio,Mexico
+471,2021,Salmysh,Viga,Erosion,Hormig�n armado,Parcial,Servicio,Rusia
+472,1904,Colorado,Viga,Erosion,Madera,Total,Servicio,USA
+473,1970,A1,Atirantado,Falla aerodinamica,Hormig�n armado,Total,Servicio,Alemania
+474,1833,"Chain suspension br. In Nassau, wooden deck",Armadura,Falla aerodinamica,Acero,Total,Servicio,Alemania
+475,1923,Kiaochow,Arco,Falla aerodinamica,Acero,Parcial,Servicio,China
+476,1997,Second Yibin Bridge,Armadura,Falla aerodinamica,Hormig�n armado,Total,Servicio,China
+477,1850,Angers,Suspension,Falla aerodinamica,Madera,Total,Servicio,Francia
+478,1907,La rasse,Armadura,Falla aerodinamica,Acero,Total,Construccion,Francia
+479,1884,Viaduc d�Evaux-les-Bains,Armadura,Falla aerodinamica,Acero,Total,Servicio,Francia
+480,1986,Amarube,No definido,Falla aerodinamica,No definido,Parcial,Servicio,Japon
+481,1879,Firth of Tay,Armadura,Falla aerodinamica,Hierro Fundido,Parcial,Servicio,Reino Unido
+482,2018,Tay Bridge,Viga,Falla aerodinamica,Acero,Parcial,Servicio,Reino Unido
+483,1996,Chain suspension bridge,Suspension,Falla aerodinamica,Acero,Parcial,Servicio,Reino Unido
+484,1965,Bangs,Arco,Falla aerodinamica,Madera,Total,Construccion,Suiza
+485,1881,Tehama Bridge,Arco,Falla aerodinamica,Madera,Total,Servicio,USA
+486,1963,Hoskins Covered Bridge,Armadura,Falla aerodinamica,Madera,Total,Servicio,USA
+487,2003,Kinzua Bridge,Arco,Falla aerodinamica,Madera,Total,Servicio,USA
+488,2006,Hoover Dam Bypass,Arco,Falla aerodinamica,Hormig�n armado,Total,Servicio,USA
+489,1893,Big Four,Arco,Falla aerodinamica,Acero,Total,Servicio,USA
+490,1864,Lewiston-Queenstown suspension bridge,Suspension,Falla aerodinamica,Acero,Total,Servicio,USA
+491,1877,Omaha Railroad Bridge,Armadura,Falla aerodinamica,Acero,Total,Servicio,USA
+492,1906,Utica Swing Bridge,Arco,Falla aerodinamica,Acero,Total,Servicio,USA
+493,1938,Honeymoon Bridge,Arco,Falla aerodinamica,Acero,Total,Servicio,USA
+494,1940,Tacoma Narrows Bridge,Suspension,Falla aerodinamica,Acero,Total,Servicio,USA
+495,1944,Chester Bridge,Arco,Falla aerodinamica,Acero,Total,Servicio,USA
+496,1946,Wailuku River Bridge,Arco,Falla aerodinamica,Acero,Total,Servicio,USA
+497,1952,Island Park Bridge,Armadura,Falla aerodinamica,Acero,Total,Servicio,USA
+498,1967,Silver Bridge,Suspension,Falla aerodinamica,Acero,Total,Servicio,USA
+499,2004,Burr Oak Bridge,Armadura,Falla aerodinamica,Acero,Total,Servicio,USA
+500,2018,44th Street Bridge,Atirantado,Falla aerodinamica,Acero,Total,Servicio,USA
+501,1980,Newcastle Bridge,Armadura,Falla aerodinamica,Acero,Parcial,Servicio,USA
+502,2015,Hurricane Creek Bridge,Arco,Falla aerodinamica,Acero,Parcial,Servicio,USA
+503,No date,Elrod Bridge,Armadura,Falla aerodinamica,Acero,Parcial,Servicio,USA
+504,1893,Kentucky,Armadura,Falla aerodinamica,Hierro fundido,Parcial,Construccion,USA
+505,1854,West Virginia,Suspension,Falla aerodinamica,No definido,Parcial,Servicio,USA
+506,1979,Washington,Colgante,Falla aerodinamica,No definido,Parcial,Servicio,USA
+507,1940,Washington,Suspension,Falla aerodinamica,Hormig�n armado,Total,Servicio,USA
+508,1944,Illinois,Armadura,Falla aerodinamica,Hormig�n armado,Total,Servicio,USA
+509,1956,Ohio,No definido,Falla aerodinamica,No definido,Total,Servicio,USA
+510,2010,Guaiba,Viga,Falla electrica,Hormig�n armado,Parcial,Servicio,Brasil
+511,1974,Zell am See,Colgante,Falta de mantenimiento,Madera,Total,Servicio,Austria
+512,1976,Reichsbr�cke,Viga,Falta de mantenimiento,Hormig�n armado,Total,Servicio,Austria
+513,1976,Voralberg,Colgante,Falta de mantenimiento,Madera,Total,Servicio,Austria
+514,2024,Juscelino de Oliveira,Viga,Falta de mantenimiento,Hormig�n armado,Total,Servicio,Brasil
+515,2003,McBride,Trestle,Falta de mantenimiento,Madera,Total,Servicio,Canada
+516,2019,Nanfang�ao,Viga,Falta de mantenimiento,Hormig�n armado,Total,Servicio,China
+517,"Enero, 1996",Purnio,No definido,Falta de mantenimiento,Hormig�n armado,Total,Construccion,Colombia
+518,2006,Pastaza,No definido,Falta de Mantenimiento,Madera,Total,Servicio,Ecuador
+519,2013,Zamora,No definido,Falta de Mantenimiento,Acero,Total,Servicio,Ecuador
+520,2014,Manabi,No definido,Falta de Mantenimiento,Madera,Parcial,Servicio,Ecuador
+521,2017,Manabi,No definido,Falta de Mantenimiento,Acero,Parcial,Servicio,Ecuador
+522,2019,Esmeraldas,No definido,Falta de Mantenimiento,Acero,Parcial,Servicio,Ecuador
+523,2021,Manabi,No definido,Falta de Mantenimiento,Hormig�n armado,Total,Servicio,Ecuador
+524,2021,Morona Santiago,No definido,Falta de Mantenimiento,Acero,Total,Servicio,Ecuador
+525,2022,Guayas,No definido,Falta de Mantenimiento,Acero,Parcial,Servicio,Ecuador
+526,2022,Pastaza,No definido,Falta de Mantenimiento,Acero,Parcial,Servicio,Ecuador
+527,2003,Daman,No definido,Falta de mantenimiento,No definido,Total,Servicio,India
+528,2011,Kutai Kartanegara,Suspension,Falta de mantenimiento,Hormig�n armado,Total,Construccion,Indonesia
+529,2016,Lecco,Viga,Falta de mantenimiento,Hormig�n armado,Parcial,Servicio,Italia
+530,2018,Wukari-Jalingo road,No definido,Falta de mantenimiento,Hormig�n armado,Parcial,Servicio,Nigeria
+531,2005,Nuhaka,Armadura,Falta de mantenimiento,Acero,Total,Servicio,Nueva Zelanda
+532,1952,Bury Knowsley,Viga,Falta de mantenimiento,Madera,Total,Servicio,Reino Unido
+533,2024,Paninsky,No definido,Falta de mantenimiento,Hormig�n armado,Total,Servicio,Rusia
+534,1983,Connecticut,No definido,Falta de mantenimiento,Hormig�n armado,Parcial,Servicio,USA
+535,2022,Pennsylvania,Viga,Falta de mantenimiento,Hormig�n armado,Total,Servicio,USA
+536,1980,Maracaibo,Atirantado,Falta de mantenimiento,Hormig�n armado,Parcial,Servicio,Venezuela
+537,2014,Rio Acaragua,Viga,Fatiga,Hormig�n armado,Total,Servicio,Argentina
+538,2024,Sanhui,Arco,Fatiga,No definido,Parcial,Servicio,China
+539,2025,Cabagan-Santa Maria,Arco,Fatiga,Hormig�n armado,Parcial,Servicio,Filipinas
+540,2001,Rio Kadalundi,No definido,Fatiga,No definido,Total,Servicio,India
+541,2006,Bhagalpur,No definido,Fatiga,Hormig�n armado,Total,Servicio,India
+542,2016,Rio Savitri,Arco,Fatiga,Piedra,Parcial,Servicio,India
+543,2017,Rio Sanvordem,Viga,Fatiga,Acero,Parcial,Servicio,India
+544,2018,Siliguri,No definido,Fatiga,No definido,Parcial,Servicio,India
+545,1882,Inverythan,Armadura,Fatiga,Hierro Fundido,Total,Servicio,Reino Unido
+546,1891,Norwood Junction,Armadura,Fatiga,Hierro Fundido,Total,Servicio,Reino Unido
+547,2017,B1187,Viga,Fatiga,Hormig�n armado,Parcial,Servicio,Sudafrica
+548,2007,Mississippi,Viga,Fatiga,Hormig�n armado,Parcial,Servicio,USA
+549,1920,Wisconsin,Armadura,Fatiga,Acero,Total,Servicio,USA
+550,1912,Pennsylvania,Armadura,Fatiga,Acero,Total,Servicio,USA
+551,1876,Ohio,Armadura,Fatiga,Hierro fundido,Total,Servicio,USA
+552,1967,Ohio,Suspension,Fatiga,Hormig�n armado,Total,Servicio,USA
+553,1817,Grenzwald Bridge,Atirantado,Fuego,Hormig�n armado,Parcial,Servicio,Alemania
+554,1825,Bill Williams Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+555,1833,Hedong Cable-Stayed,Atirantado,Fuego,Acero,Parcial,Servicio,China
+556,1836,Belle Isle,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+557,1850,Indianapolis,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+558,1852,Elkridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+559,1854,California Avenue Overpass,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+560,1864,Valdosta,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+561,1875,Charilaos Trikoupis Bridge,Atirantado,Fuego,Acero,Parcial,Servicio,Grecia
+562,1875,M4 Sud�frica,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Sudafrica
+563,1875,Portageville Railroad Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+564,1875,New York,Viga,Fuego,Madera,Total,Servicio,USA
+565,1881,Autobahn 57,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Alemania
+566,1881,Morelos,No definido,Fuego,No definido,Total,Servicio,Mexico
+567,1884,Zakim Bridge,Atirantado,Fuego,Acero,Parcial,Servicio,USA
+568,1887,Illinois,Armadura,Fuego,Madera,Total,Servicio,USA
+569,1891,Liberty Bridge,Armadura,Fuego,Acero,Parcial,Servicio,USA
+570,1893,General W.K. Wilson Jr. Bridge,Viga,Fuego,Acero,Parcial,Servicio,USA
+571,1905,Belle Isle,Armadura,Fuego,Acero,Total,Servicio,USA
+572,1905,I-30 in Forth Worth,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+573,1906,Zolotoy Bridge,Atirantado,Fuego,Acero,Parcial,Servicio,Rusia
+574,1912,I-75 Big slough Canal,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+575,1912,Queensboro Bridge ,Arco,Fuego,Acero,Parcial,Servicio,USA
+576,1913,Riderwood,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+577,1913,Walt Whitman,Suspension,Fuego,Acero,Parcial,Servicio,USA
+578,1916,Pulaski Skyway,Arco,Fuego,Acero,Parcial,Servicio,USA
+579,1923,RI37 Expressway,Viga,Fuego,Acero,Parcial,Servicio,USA
+580,1926,Queensboro Bridge ,Armadura,Fuego,Acero,Parcial,Servicio,USA
+581,1930,Harrisburg (2),Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+582,1930,Harlem River Bridge,Arco,Fuego,Acero,Parcial,Servicio,USA
+583,1933,Puente sobre el canal de Castilla,Arco,Fuego,Acero,Parcial,Servicio,Espa�a
+584,1940,Rosario,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Argentina
+585,1941,Iowa,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+586,1944,Xupu Bridge,Atirantado,Fuego,Acero,Parcial,Servicio,China
+587,1945,Opatovice,Arco,Fuego,Acero,Parcial,Servicio,Republica Checa
+588,1945,"U.S. 175 at Bexar Street, Dallas",Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+589,1945,North Little Rock,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+590,1947,Pasarela F1,Armadura,Fuego,Acero,Parcial,Servicio,Espa�a
+591,1949,Birmingham 2002,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+592,1949,Brooklyn Bridge,Suspension,Fuego,Acero,Parcial,Servicio,USA
+593,1949,Tappan Zee Bridge,Arco,Fuego,Acero,Parcial,Servicio,USA
+594,1952,Delville Covered Bridge,Arco,Fuego,Madera,Parcial,Servicio,USA
+595,1952,Throgs Neck Bridge,Suspension,Fuego,Acero,Parcial,Servicio,USA
+596,1953,Queensboro Bridge ,Armadura,Fuego,Acero,Parcial,Servicio,USA
+597,1957,Eko Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Nigeria
+598,1957,Britannia Tubular Bridge,Armadura,Fuego,Acero,Parcial,Servicio,Reino Unido
+599,1957,Brooklyn-Queens Expressway 08,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+600,1963,Cedar Bridge,Arco,Fuego,Hormig�n armado,Parcial,Servicio,Reino Unido
+601,1963,Cedar Bridge,Armadura,Fuego,Hormig�n armado,Parcial,Servicio,USA
+602,1963,Bayway ramp,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+603,1963,Brucknen Expressway,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+604,1964,Franklin (I),Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+605,1964,Bartow,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+606,1965,Ambassador Bridge,Armadura,Fuego,Acero,Parcial,Servicio,USA
+607,1967,Millersville,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+608,1972,Atterbury Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Sudafrica
+609,1972,Puyallup River,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+610,1972,Manhattan Bridge,Suspension,Fuego,Acero,Parcial,Servicio,USA
+611,1976,Tchesch,Viga,Fuego,Hormig�n armado,Total,Servicio,Republica Checa
+612,1977,Sao Paolo,Viga,Fuego,No definido,Total,Servicio,Brasil
+613,1977,Manatee,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+614,1980,Hagerstown,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+615,1982,Belle Vernon Bridge,Arco,Fuego,Acero,Parcial,Servicio,USA
+616,1987,I-285 over GA400,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+617,1987,Big Four,Arco,Fuego,Acero,Parcial,Servicio,USA
+618,1988,Chesapeake Bay Bridge,Arco,Fuego,Acero,Total,Servicio,USA
+619,1989,Jeffersoncity,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+620,1989,Burbank,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+621,1993,Alexandra Bridge,Arco,Fuego,Acero,Parcial,Servicio,Canada
+622,1993,Kapellbr�cke,No definido,Fuego,Madera,Parcial,Servicio,Suiza
+623,1993,Birmingham 2004,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+624,1995,Sweetwater,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+625,1999,Highway M1,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Reino Unido
+626,1999,Chester Creek,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+627,1999,Norfolk Southern Train,Arco,Fuego,Acero,Parcial,Servicio,USA
+628,1999,Gilmore Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+629,2001,Georgia,No definido,Fuego,Hormig�n armado,Parcial,Servicio,USA
+630,2002,Montebello,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+631,2002,Kansas,Arco,Fuego,Madera,Total,Servicio,USA
+632,2003,Grand Rapids,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+633,2004,Frankenlust township bridge,Arco,Fuego,Madera,Parcial,Servicio,USA
+634,2004,Brooklyn Bridge ,Suspension,Fuego,Acero,Parcial,Servicio,USA
+635,2004,Connecticut,Viga,Fuego,No definido,Parcial,Servicio,USA
+636,2005,Wiehltalbr�cke,Viga,Fuego,Acero,Parcial,Servicio,Alemania
+637,2005,Brooklyn Bridge Jul. 13,Suspension,Fuego,Acero,Parcial,Servicio,USA
+638,2005,California,Arco,Fuego,Madera,Parcial,Servicio,USA
+639,2006,Franklin (II),Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+640,2007,Port St. Lucie,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+641,2007,California,No definido,Fuego,Hormig�n armado,Parcial,Servicio,USA
+642,2007,California,No definido,Fuego,Hormig�n armado,Parcial,Servicio,USA
+643,2009,Washington County,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+644,2010,Kapellbr�cke Bridge,Atirantado,Fuego,Madera,Parcial,Servicio,Suiza
+645,2013,Patullo Bridge,Armadura,Fuego,Madera,Parcial,Servicio,Canada
+646,2013,Dismal Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+647,2013,Queensboro Bridge ,Arco,Fuego,Acero,Parcial,Servicio,USA
+648,2015,Robbinsville,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+649,2017,Pont du Mathilde,Viga ,Fuego,Hormig�n armado,Parcial,Servicio,Francia
+650,2017,I-270/I-70,Viga ,Fuego,Hormig�n armado,Parcial,Servicio,USA
+651,2017,Harrisburg (1),Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+652,2017,Queensboro Bridge ,Armadura,Fuego,Acero,Parcial,Servicio,USA
+653,2017,Georgia,Viga,Fuego,Hormig�n armado,Total,Construccion,USA
+654,2018,Norwalk River Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+655,2018,Stop thirty Road,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+656,2018,Coronado Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+657,2018,Bay Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+658,2018,Benjamin Franklin Bridge,Suspension,Fuego,Acero,Parcial,Servicio,USA
+659,2023,Pennsylvania,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+660,No date,Jose Urquiza,Atirantado,Fuego,Acero,Parcial,Servicio,Argentina
+661,No date,Mungo River bridge,Armadura,Fuego,Acero,Total,Servicio,Cameroon
+662,No date,Sanguenay's Dubuc Bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Canada
+663,No date,Guokeng Town,Viga,Fuego,Hormig�n armado,Parcial,Servicio,China
+664,No date,Zhuoshui Fengyu Bridge,Arco,Fuego,Madera,Total,Servicio,China
+665,No date,Al-Sheikh Mansour bridge,Viga,Fuego,Hormig�n armado,Total,Servicio,Egipto
+666,No date,Puente del Arenal,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Espa�a
+667,No date,Puente de Ventas,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Espa�a
+668,No date,Puente de Ventas,Viga,Fuego,Hormig�n armado,Parcial,Construccion,Espa�a
+669,No date,Mezcala,Atirantado,Fuego,Acero,Parcial,Servicio,Mexico
+670,No date,Puente Santa Rosa,Viga,Fuego,Hormig�n armado,Parcial,Servicio,Peru
+671,No date,Lazienkovski Bridge,Viga,Fuego,Acero,Parcial,Servicio,Polonia
+672,No date,East London,Viga,Fuego,Acero,Parcial,Servicio,Reino Unido
+673,No date,Howard Avenue,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+674,No date,Hazel Park,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+675,No date,MacArthur Maze,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+676,No date,Valdese,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+677,No date,US50 Cheat River Covered Bridge,Armadura,Fuego,Hormig�n armado,Total,Servicio,USA
+678,No date,NYS Thruway,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+679,No date,The Jeffries Ford Covered Bridge,Arco,Fuego,Madera,Total,Servicio,USA
+680,No date,Old Bridgeton Covered Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+681,No date,Brookside Train Trestle,Arco,Fuego,Madera,Total,Servicio,USA
+682,No date,Delta Covered Bridge,Arco,Fuego,Madera,Total,Servicio,USA
+683,No date,Gudgeonville Covered Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+684,No date,Dewey Bridge Grand County,Suspension,Fuego,Madera,Total,Servicio,USA
+685,No date,160th Street Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+686,No date,Dumbarton Rail Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+687,No date,Pico Rivera,Arco,Fuego,Madera,Total,Servicio,USA
+688,No date,Viaduct San Saba,Arco,Fuego,Madera,Total,Servicio,USA
+689,No date,Turkey Creek Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+690,No date,Whites Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+691,No date,SR 241 Dry Creek Bridge,Armadura,Fuego,Madera,Total,Servicio,USA
+692,No date,Highway 310 and U.S. 175,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+693,No date,I-85,Viga,Fuego,Hormig�n armado,Total,Servicio,USA
+694,No date,Ranchero Overpass,Viga,Fuego,Acero,Total,Servicio,USA
+695,No date,Elysian Park,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+696,No date,St. Petersburg,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+697,No date,Denville,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+698,No date,Little Black River,Arco,Fuego,Acero,Parcial,Servicio,USA
+699,No date,Ethanol Baltimore,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+700,No date,Commerce,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+701,No date,Davison Township,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+702,No date,I-65 Franklin,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+703,No date,Eastex Freeway with North Loop,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+704,No date,Lime Kiln Overpass,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+705,No date,I-91 North Meriden,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+706,No date,Ballard bridge,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+707,No date,Overpass Cypress/Spring,Viga,Fuego,Hormig�n armado,Parcial,Servicio,USA
+708,,James Street Swing Bridge,Arco,Fuego,Acero,Parcial,Servicio,Canada
+709,1979,Rottachtal,Viga,Grietas,Hormig�n armado,Parcial,Construccion,Alemania
+710,1976,Reichsbr�cke,Viga,Grietas,Hormig�n armado,Total,Servicio,Austria
+711,1979,Illinois,Viga,Grietas,Hormig�n armado,Parcial,Construccion,USA
+712,1982,Indiana,No definido,Grietas,Hormig�n armado,Total,Construccion,USA
+713,1947,Bremen,No definido,Hielo,No definido,Total,Servicio,Alemania
+714,1911,Romanov,Viga,Hielo,No definido,Total,Construccion,Rusia
+715,1938,New York,Arco,Hielo,Acero,Total,Servicio,USA
+716,2018,Zamboanga,Colgante,Hongos,Madera,Parcial,Servicio,Filipinas
+717,1884,Douarnenez,No definido,Huracan,No definido,Total,Construccion,Francia
+718,1884,Evaux,No definido,Huracan,No definido,Total,Construccion,Francia
+719,1964,Pamban,Viga,Huracan,Hormig�n armado,Total,Servicio,India
+720,1091,London bridge,Viga,Huracan,Madera,Total,Servicio,Reino Unido
+721,1839,Menai Strait,Suspension,Huracan,No definido,Total,Servicio,Reino Unido
+722,1852,Roche Bernard,Suspension,Huracan,Piedra,Total,Servicio,Suiza
+723,2003,Pennsylvania,Armadura,Huracan,Acero,Parcial,Servicio,USA
+724,2007,Mississippi,Arco,Huracan,Acero,Parcial,Servicio,USA
+725,2022,Florida,Viga,Huracan,Hormig�n armado,Parcial,Servicio,USA
+726,2004,Florida,No definido,Huracan,No definido,Parcial,Servicio,USA
+727,1971,Maryland,Armadura,Huracan,Acero,Total,Servicio,USA
+728,1972,Maryland,Armadura,Huracan,Acero,Total,Servicio,USA
+729,2004,Virginia,Viga,Huracan,Acero,Total,Construccion,USA
+730,1972,Maryland,Viga,Huracan,Hormig�n armado,Total,Servicio,USA
+731,1854,Ohio,Suspension,Huracan,Hierro fundido,Total,Servicio,USA
+732,1864,New York,Suspension,Huracan,Hierro fundido,Total,Servicio,USA
+733,1972,Maryland,No definido,Huracan,No definido,Total,Servicio,USA
+734,1342,Judith,Arco,Inundacion,Piedra,Parcial,Servicio,Republica Checa
+735,1813,Steinbogen-Bridge,Viga,Inundacion,No definido,Total,Servicio,Alemania
+736,1849,Ness,Viga,Inundacion,Piedra,Total,Servicio,Reino Unido
+737,1863,Mississippi,Trestle,Inundacion,No definido,Parcial,Servicio,USA
+738,1876,Elbe,Armadura,Inundacion,Acero,Parcial,Servicio,Alemania
+739,1881,Iowa,Trestle,Inundacion,Madera,Parcial,Servicio,USA
+740,1882,Osijek,Viga,Inundacion,Madera,Total,Servicio,Croacia
+741,1888,Kentucky,Armadura,Inundacion,Hierro fundido,Total,Servicio,USA
+742,1889,Pennsylvania,No definido,Inundacion,Piedra,Total,Servicio,USA
+743,1897,Maddur,No definido,Inundacion,No definido,Parcial,Servicio,India
+744,1902,Mangapatnan,No definido,Inundacion,No definido,Total,Servicio,India
+745,1904,Colorado,Viga,Inundacion,Madera,Total,Servicio,USA
+746,1906,Oklahoma,Trestle,Inundacion,Madera,Total,Servicio,USA
+747,1910,Prinzregenten,No definido,Inundacion,No definido,Total,Servicio,Alemania
+748,1914,Baddengorm Burn,No definido,Inundacion,No definido,Total,Servicio,Reino Unido
+749,1915,Washington,Armadura,Inundacion,Acero,Total,Servicio,USA
+750,1926,Fremantle ,No definido,Inundacion,Acero,Parcial,Construccion,Australia
+751,1934,Seta,Viga,Inundacion,Acero,Parcial,Servicio,Japon
+752,1946,Washington,Arco,Inundacion,Hormig�n armado,Total,Servicio,USA
+753,1947,Bremen,No definido,Inundacion,No definido,Total,Servicio,Alemania
+754,1947,Koblenz,No definido,Inundacion,No definido,Total,Servicio,Alemania
+755,1951,Kansas,Losa,Inundacion,Hormig�n armado,Total,Servicio,USA
+756,1953,Walouru,Armadura,Inundacion,Acero,Total,Servicio,Nueva Zelanda
+757,1959,Salzburg,Viga,Inundacion,No definido,Total,Servicio,Austria
+758,1960,Crediton,No definido,Inundacion,No definido,Parcial,Servicio,Reino Unido
+759,1962,Iowa,Viga,Inundacion,No definido,Parcial,Servicio,USA
+760,1963,Beaver Dam,No definido,Inundacion,Hormig�n armado,Total,Servicio,Canada
+761,1969,Esslingen,Viga,Inundacion,Hormig�n armado,Parcial,Construccion,Alemania
+762,1971,Charles III,Arco,Inundacion,Piedra,Parcial,Servicio,Espa�a
+763,1972,Hillerod,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,Dinamarca
+764,1973,Bulls,No definido,Inundacion,No definido,Parcial,Servicio,Nueva Zelanda
+765,1973,Drimsallie,Armadura,Inundacion,Hormig�n armado,Parcial,Servicio,Reino Unido
+766,1975,Vranje,Arco,Inundacion,Hormig�n armado,Total,Servicio,Serbia
+767,1977,Turin-Milan,Viga,Inundacion,Hormig�n armado,Total,Servicio,Italia
+768,1978,Arizona,Viga,Inundacion,Hormig�n armado,Total,Servicio,USA
+769,1979,Arizona,No definido,Inundacion,No definido,Parcial,Servicio,USA
+770,1981,British Columbia,No definido,Inundacion,No definido,Parcial,Servicio,Canada
+771,1981,New York,Armadura,Inundacion,Acero,Total,Servicio,USA
+772,1982,Arkansas,Armadura,Inundacion,Acero,Parcial,Servicio,USA
+773,1982,Arkansas,Armadura,Inundacion,Acero,Total,Servicio,USA
+774,1983,Puente colgante Santa Fe,Suspension,Inundacion,Acero,Total,Servicio,Argentina
+775,1984,Madya Pradesh,Armadura,Inundacion,Hormig�n armado,Total,Servicio,India
+776,1985,West Virginia,Armadura,Inundacion,Acero,Total,Construccion,USA
+777,1985,West Virginia,Viga,Inundacion,Acero,Total,Servicio,USA
+778,1985,Virginia,Armadura,Inundacion,No definido,Total,Construccion,USA
+779,1987,Glanrhyd,No definido,Inundacion,No definido,Total,Servicio,Reino Unido
+780,1987,Glanrhyd,Armadura,Inundacion,Hormig�n armado,Total,Servicio,Reino Unido
+781,1987,Reuss,Arco,Inundacion,Piedra,Total,Servicio,Suiza
+782,1987,Maine,Viga,Inundacion,Hormig�n armado,Total,Servicio,USA
+783,1987,Maine,Armadura,Inundacion,Madera,Total,Servicio,USA
+784,1987,New York,No definido,Inundacion,No definido,Total,Servicio,USA
+785,1988,Quilon,Armadura,Inundacion,Acero,Total,Servicio,India
+786,1989,Los Mochis,Armadura,Inundacion,Hormig�n armado,Total,Servicio,Mexico
+787,1989,Ness viaduct,Arco,Inundacion,Ladrillo,Total,Servicio,Reino Unido
+788,1990,Washington,No definido,Inundacion,No definido,Total,Servicio,USA
+789,1993,Cicero,No definido,Inundacion,No definido,Parcial,Servicio,Italia
+790,1993,Ngailithia,Arco,Inundacion,Piedra,Total,Servicio,Kenia
+791,1995,Braz,Armadura,Inundacion,Hormig�n armado,Total,Servicio,Austria
+792,1996,Maryland,Viga,Inundacion,Acero,Total,Servicio,USA
+793,1996,Virginia,Viga,Inundacion,Acero,Total,Servicio,USA
+794,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+795,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+796,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+797,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+798,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+799,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+800,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+801,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+802,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+803,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+804,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+805,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+806,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+807,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+808,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+809,1999,Hebei,No definido,Inundacion,No definido,Total,Servicio,China
+810,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+811,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+812,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+813,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+814,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+815,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+816,1999,Hebei,Armadura,Inundacion,Acero,Total,Servicio,China
+817,1999,Hebei,Armadura,Inundacion,Hormig�n armado,Total,Servicio,China
+818,1999,Hebei,Armadura,Inundacion,Acero,Total,Servicio,China
+819,1999,Hebei,Armadura,Inundacion,Hormig�n armado,Total,Servicio,China
+820,1999,Hebei,Armadura,Inundacion,Hormig�n armado,Total,Servicio,China
+821,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+822,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+823,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+824,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+825,1999,Hebei,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+826,2000,Chimborazo,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+827,2000,New Magalora,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,Espa�a
+828,2001,Luzhai,No definido,Inundacion,No definido,Parcial,Servicio,China
+829,2001,Pichincha,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+830,2002,Sin nombre,No definido,Inundacion,No definido,Parcial,Servicio,Alemania
+831,2002,Thurnberg,No definido,Inundacion,No definido,Parcial,Servicio,Austria
+832,2002,Engelstein,No definido,Inundacion,No definido,Parcial,Servicio,Austria
+833,2002,Salzburg,No definido,Inundacion,No definido,Parcial,Servicio,Austria
+834,2002,Pichincha,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+835,2002,Morona Santiago,No definido,Inundacion,Madera,Total,Servicio,Ecuador
+836,2003,Pont de Giers,No definido,Inundacion,No definido,Parcial,Servicio,Francia
+837,2004,Texas,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,USA
+838,2004,Florida,Viga,Inundacion,Hormig�n armado,Parcial,Construccion,USA
+839,2004,North Carolina,No definido,Inundacion,No definido,Total,Servicio,USA
+840,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+841,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+842,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+843,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+844,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+845,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+846,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+847,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+848,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+849,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+850,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+851,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+852,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+853,2004,Zambia,No definido,Inundacion,No definido,Parcial,Servicio,Zambia
+854,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+855,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+856,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+857,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+858,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+859,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+860,2004,Zambia,Viga,Inundacion,No definido,Parcial,Servicio,Zambia
+861,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+862,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+863,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+864,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+865,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+866,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+867,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+868,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+869,2004,Zambia,Viga,Inundacion,No definido,Total,Servicio,Zambia
+870,2005,Charters Towers,No definido,Inundacion,No definido,Total,Servicio,Australia
+871,2005,Veligonda,Armadura,Inundacion,Acero,Total,Servicio,India
+872,2005,Kulai,Arco,Inundacion,Hormig�n armado,Total,Servicio,Malasia
+873,2005,Nukkei,No definido,Inundacion,Hormig�n armado,Total,Servicio,Nigeria
+874,2006,Run Pathani,No definido,Inundacion,No definido,Total,Servicio,Pakistan
+875,2006,New York,Viga,Inundacion,No definido,Total,Servicio,USA
+876,2006,Caracas-La Guaira,Viga,Inundacion,No definido,Total,Servicio,Venezuela
+877,2008,Somerton,Viga,Inundacion,Madera,Parcial,Servicio,Australia
+878,2008,Los Rios,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+879,2008,Iowa,Viga,Inundacion,Acero,Parcial,Servicio,USA
+880,2009,SS9,Viga,Inundacion,No definido,Total,Servicio,Italia
+881,2009,Northside,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+882,2009,Navvies,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+883,2009,Camerton,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+884,2009,Memorial Gardens,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+885,2009,Low Lorton,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+886,2009,Little Briathwaite,No definido,Inundacion,Arenisca,Total,Servicio,Reino Unido
+887,2009,Crane,Armadura,Inundacion,Hormig�n armado,Parcial,Servicio,Reino Unido
+888,2010,Manabi,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+889,2010,Kwalkwalawa,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+890,2012,Manabi,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+891,2012,Imiringi,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+892,2012,Abakpa-Nike,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+893,2012,Shendam,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+894,2012,Minnesota,Atirantado,Inundacion,Madera,Total,Servicio,USA
+895,2013,Tallon,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,Australia
+896,2013,Azuay,No definido,Inundacion,Madera,Total,Servicio,Ecuador
+897,2013,Los Rios,No definido,Inundacion,Acero,Parcial,Servicio,Ecuador
+898,2013,Napo,No definido,Inundacion,Acero,Parcial,Servicio,Ecuador
+899,2013,Yar�randa,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+900,2013,Odo pako,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+901,2013,Eguho-Ebonyi,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+902,2014,Tungurahua,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+903,2014,Tungurahua,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+904,2014,Tungurahua,No definido,Inundacion,Acero,Parcial,Servicio,Ecuador
+905,2014,Dubaina river,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+906,2015,Himera,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,Italia
+907,2015,Dubban Fulani,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+908,2015,Ufuma,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+909,2015,Nkpor,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+910,2015,Gusau,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+911,2015,Skjeggestad,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,Noruega
+912,2015,Tadcaster,Viga,Inundacion,Piedra,Parcial,Servicio,Reino Unido
+913,2015,Virginia,No definido,Inundacion,Madera,Total,Servicio,USA
+914,2016,Chibiri,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+915,2016,Atuwara river,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+916,2017,Pastaza,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+917,2017,Puente Eme,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+918,2017,Bebou Bomaji,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+919,2017,Iyaji river,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+920,2017,Alagbado,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+921,2017,Pandaragi,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+922,2017,Tatabu,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+923,2017,Idi-Iroko,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+924,2017,Emelogu,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+925,2017,Uwaka,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+926,2017,Dangana,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+927,2018,Imbabura,No definido,Inundacion,Acero,Total,Servicio,Ecuador
+928,2018,Gulbim Boka,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+929,2018,Wukari-Jalingo road,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+930,2018,Mararraban Gassol Bembal,No definido,Inundacion,No definido,Total,Servicio,Nigeria
+931,2018,Karamin-rami,No definido,Inundacion,No definido,Parcial,Servicio,Nigeria
+932,2018,Budila-Brasov,Viga,Inundacion,Hormig�n armado,Total,Servicio,Rumania
+933,2019,Pichincha,No definido,Inundacion,Acero,Parcial,Servicio,Ecuador
+934,2019,Napo,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+935,2019,Viadotto Madonna,Viga,Inundacion,Hormig�n armado,Total,Servicio,Italia
+936,2020,Morona Santiago,No definido,Inundacion,Hormig�n armado,Parcial,Servicio,Ecuador
+937,2020,Zamora,No definido,Inundacion,Madera,Total,Servicio,Ecuador
+938,2020,Murmansk,Viga,Inundacion,Acero,Total,Servicio,Rusia
+939,2022,Pichincha,No definido,Inundacion,Hormig�n armado,Total,Servicio,Ecuador
+940,2022,Carchi,No definido,Inundacion,Acero,Parcial,Servicio,Ecuador
+941,2023,Modak,Viga,Inundacion,Hormig�n armado,Total,Servicio,India
+942,2024,Shangluo,Viga,Inundacion,Hormig�n armado,Parcial,Servicio,China
+943,2024,Yakang,Viga,Inundacion,Hormig�n armado,Total,Servicio,China
+944,2024,Ponte di Visletto,Arco,Inundacion,No definido,Parcial,Servicio,Suiza
+945,2024,Phong Ch�u,Armadura,Inundacion,Acero,Total,Servicio,Vietnam
+946,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+947,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+948,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+949,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+950,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+951,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+952,No date,Sin nombre,Arco,Inundacion,Piedra,Total,Servicio,Turquia
+953,No date,Sin nombre,Arco,Inundacion,Piedra,Parcial,Servicio,Turquia
+954,No date,Sin nombre,Arco,Inundacion,Piedra,Parcial,Servicio,Turquia
+955,No date,Sin nombre,Arco,Inundacion,Madera,Total,Servicio,Turquia
+956,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+957,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+958,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+959,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+960,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+961,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+962,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+963,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+964,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+965,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+966,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+967,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+968,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+969,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+970,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+971,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+972,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+973,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+974,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+975,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+976,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+977,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+978,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+979,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+980,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+981,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+982,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+983,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+984,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+985,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+986,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+987,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+988,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+989,No date,Sin nombre,Viga,Inundacion,Hormig�n armado,Total,Servicio,Turquia
+990,1960,Valdivia,No definido,Sismo,No definido,Parcial,Servicio,Chile
+991,1997,Yang-Ping,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+992,1999,Wu-Shi,Viga,Sismo,Hormig�n armado,Total,Servicio,China
+993,1999,I-Chang,Viga,Sismo,Hormig�n armado,Total,Servicio,China
+994,2017,Chang-Geng,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+995,No date,Ling-Wei,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+996,No date,Mao-Luo-Shi,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+997,No date,Shuong-Tung,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+998,No date,Shi-Nan,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+999,No date,Yen-Feng,Viga,Sismo,Hormig�n armado,Parcial,Servicio,China
+1000,2016,Guayas,No definido,Sismo,Hormig�n armado,Total,Servicio,Ecuador
+1001,2016,Guayas,No definido,Sismo,Hormig�n armado,Parcial,Servicio,Ecuador
+1002,2019,Azuay,No definido,Sismo,Hormig�n armado,Parcial,Servicio,Ecuador
+1003,1976,Agua Caliente,Viga,Sismo,Acero,Parcial,Servicio,Guatemala
+1004,1995,Kobe Route,Viga,Sismo,Hormig�n armado,Parcial,Servicio,Japon
+1005,1891,Biwajima,Viga,Sismo,Madera,Total,Servicio,Japon
+1006,1964,Showa,No definido,Sismo,No definido,Parcial,Servicio,Japon
+1007,1995,Nishihomiya,No definido,Sismo,No definido,Parcial,Servicio,Japon
+1008,1995,Hanshin,Viga,Sismo,Hormig�n armado,Total,Servicio,Japon
+1009,1936,Akashi Kaikyo Bridge,Suspension,Sismo,Acero,Parcial,Servicio,Japon
+1010,1964,Showa Bridge,Atirantado,Sismo,Acero,Total,Servicio,Japon
+1011,1995,Hanshin Expressway,Atirantado,Sismo,Hormig�n armado,Total,Servicio,Japon
+1012,1998,Piura,No definido,Sismo,No definido,Total,Servicio,Peru
+1013,No date,Sin nombre,Viga,Sismo,No definido,Total,Servicio,Turquia
+1014,No date,Sin nombre,Viga,Sismo,No definido,Total,Servicio,Turquia
+1015,1989,California Cypress Freeway Overpass,Viga,Sismo,Hormig�n armado,Total,Servicio,USA
+1016,1963,San Francisco�Oakland Bay Bridge,Armadura,Sismo,Acero,Parcial,Servicio,USA
+1017,1989,California,Armadura,Sismo,Acero,Parcial,Servicio,USA
+1018,1994,California,Viga,Sismo,Hormig�n armado,Parcial,Servicio,USA
+1019,1980,California,Viga,Sismo,Hormig�n armado,Parcial,Servicio,USA
+1020,1971,California,Viga,Sismo,Hormig�n armado,Parcial,Servicio,USA
+1021,1992,California,Viga,Sismo,Hormig�n armado,Parcial,Servicio,USA
+1022,1994,California,Viga,Sismo,Hormig�n armado,Total,Servicio,USA
+1023,1989,California,Viga,Sismo,Hormig�n armado,Total,Servicio,USA
+1024,1892,Nidda,Armadura,Sobrecarga,Acero,Total,Servicio,Alemania
+1025,1973,Redwitz,No definido,Sobrecarga,Hormig�n armado,Parcial,Servicio,Alemania
+1026,2002,Rio Chubut,Suspension,Sobrecarga,Madera,Total,Servicio,Argentina
+1027,1962,King street,No definido,Sobrecarga,No definido,Parcial,Servicio,Australia
+1028,2009,Devonshire street,No definido,Sobrecarga,Hormig�n armado,Total,Servicio,Australia
+1029,1886,Salzburg-Tiroler Bah,Armadura,Sobrecarga,Hierro fundido,Parcial,Servicio,Austria
+1030,1982,Brajamanbari,No definido,Sobrecarga,No definido,Total,Servicio,Bangladesh
+1031,2008,Kalapara,No definido,Sobrecarga,No definido,Total,Servicio,Bangladesh
+1032,1971,Rio de Janeiro,Viga,Sobrecarga,Hormig�n armado,Total,Construccion,Brasil
+1033,1978,Beloslav,Colgante,Sobrecarga,No definido,Total,Servicio,Bulgaria
+1034,1996,Elhovo,Suspension,Sobrecarga,No definido,Total,Servicio,Bulgaria
+1035,2007,Nyong,No definido,Sobrecarga,No definido,Total,Servicio,Cameroon
+1036,2020,Tittle,Armadura,Sobrecarga,Acero,Total,Servicio,Canada
+1037,2003,Aubrey Cosens,Suspension,Sobrecarga,Hormig�n armado,Parcial,Servicio,Canada
+1038,1896,Victoria,Armadura,Sobrecarga,Acero,Total,Servicio,Canada
+1039,1875,Puente entre Valparaiso y Santiago,No definido,Sobrecarga,No definido,Total,Servicio,Chile
+1040,2016,Tolten,Suspension,Sobrecarga,Acero,Parcial,Servicio,Chile
+1041,2007,Water,No definido,Sobrecarga,No definido,Parcial,Servicio,China
+1042,2011,Gongguan,No definido,Sobrecarga,No definido,Total,Servicio,China
+1043,2011,Qiantag,Armadura,Sobrecarga,Hormig�n armado,Parcial,Servicio,China
+1044,2011,Baihe,No definido,Sobrecarga,No definido,Total,Servicio,China
+1045,2012,Yangmingtan,Suspension,Sobrecarga,Hormig�n armado,Parcial,Servicio,China
+1046,2019,Route 312,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,China
+1047,1991,Xi�an,No definido,Sobrecarga,No definido,Total,Servicio,China
+1048,2004,Tianzhuangtai,No definido,Sobrecarga,No definido,Parcial,Servicio,China
+1049,2007,Yuncun,No definido,Sobrecarga,No definido,Total,Servicio,China
+1050,"Agosto, 1996",Rio Sevilla,No definido,Sobrecarga,Acero,Total,Servicio,Colombia
+1051,"Octubre, 1998",Apure,No definido,Sobrecarga,No definido,Parcial,Servicio,Colombia
+1052,"Septiembre, 1999",Argelino Duran Quintero,No definido,Sobrecarga,Hormig�n armado,Parcial,Servicio,Colombia
+1053,2009,Tarcoles,Suspension,Sobrecarga,No definido,Total,Servicio,Costa Rica
+1054,2005,Guayas,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1055,2007,Sucumbios,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1056,2009,Los Rios,No definido,Sobrecarga,Madera,Total,Servicio,Ecuador
+1057,2010,Zamora,No definido,Sobrecarga,Madera,Parcial,Servicio,Ecuador
+1058,2013,Zamora,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1059,2015,Ca�ar,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1060,2017,Manabi,No definido,Sobrecarga,Madera,Parcial,Servicio,Ecuador
+1061,2017,Pichincha,No definido,Sobrecarga,Acero,Parcial,Servicio,Ecuador
+1062,2017,Guayas,No definido,Sobrecarga,Acero,Parcial,Servicio,Ecuador
+1063,2017,Guayas,No definido,Sobrecarga,Acero,Parcial,Servicio,Ecuador
+1064,2018,Los Rios,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1065,2018,El Oro,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1066,2018,Guayas,No definido,Sobrecarga,Hormig�n armado,Total,Servicio,Ecuador
+1067,2019,Guayas,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1068,2020,Azuay,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1069,2020,Guayas,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1070,2020,Zamora,No definido,Sobrecarga,Acero,Total,Servicio,Ecuador
+1071,2021,Pichincha,No definido,Sobrecarga,Acero,Parcial,Servicio,Ecuador
+1072,1927,Jalon,No definido,Sobrecarga,No definido,Total,Servicio,Espa�a
+1073,1978,San Sebastian,Armadura,Sobrecarga,Madera,Total,Servicio,Espa�a
+1074,2022,Loay-Clarin,Armadura,Sobrecarga,Hormig�n armado,Total,Servicio,Filipinas
+1075,1972,Naga City,Armadura,Sobrecarga,"Madera, acero",Total,Servicio,Filipinas
+1076,1977,Sin nombre,Armadura,Sobrecarga,Hormig�n armado,Parcial,Servicio,Filipinas
+1077,1983,Cebu,Suspension,Sobrecarga,Madera,Total,Servicio,Filipinas
+1078,2023,Espoo,Viga,Sobrecarga,No definido,Total,Servicio,Finlandia
+1079,2019,Pont de Mirepoix,Viga,Sobrecarga,Hormig�n armado,Total,Servicio,Francia
+1080,1931,Bordeaux,Suspension,Sobrecarga,Hormig�n armado,Total,Construccion,Francia
+1081,2007,Sin nombre,No definido,Sobrecarga,No definido,Total,Servicio,Guinea
+1082,1877,Uschgorod,Armadura,Sobrecarga,Madera,Total,Servicio,Hungria
+1083,2018,Majerhat,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,India
+1084,1977,Assam,Armadura,Sobrecarga,Hormig�n armado,Total,Servicio,India
+1085,1977,Punjab,No definido,Sobrecarga,No definido,Total,Servicio,India
+1086,2016,Yellow Love,Suspension,Sobrecarga,Madera,Total,Servicio,Indonesia
+1087,2004,Cipunegara,No definido,Sobrecarga,No definido,Total,Servicio,Indonesia
+1088,2007,Ballinager,Armadura,Sobrecarga,Acero,Total,Servicio,Irlanda
+1089,1997,Yarkon,No definido,Sobrecarga,No definido,Total,Servicio,Israel
+1090,312,Milvian,No definido,Sobrecarga,Madera,Total,Servicio,Italia
+1091,1444,Rialto,Viga,Sobrecarga,Madera,Total,Servicio,Italia
+1092,1894,Paularo,No definido,Sobrecarga,No definido,Total,Servicio,Italia
+1093,1807,Eitai Bashi,Viga,Sobrecarga,Madera,Total,Servicio,Japon
+1094,1949,Inotani Wire,Suspension,Sobrecarga,No definido,Total,Servicio,Japon
+1095,1988,Sultan Abdul Halim,Colgante,Sobrecarga,Madera,Total,Servicio,Malasia
+1096,2005,Tapijulapa,Suspension,Sobrecarga,"Madera, acero",Total,Servicio,Mexico
+1097,2018,Pathein-Chaung Thar,Suspension,Sobrecarga,Hormig�n armado,Total,Servicio,Myanmar
+1098,2007,Chhinchu,Suspension,Sobrecarga,No definido,Total,Servicio,Nepal
+1099,2014,Ndi Ebe Abam,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1100,2010,Mbio Ekene,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1101,2017,Owa Abbi,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1102,2013,WRPC,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1103,2013,Ovu river,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1104,2015,Ikem,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1105,2018,Urasi,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1106,2012,Ohan,No definido,Sobrecarga,No definido,Total,Servicio,Nigeria
+1107,1275,Sint Servaasbrug,No definido,Sobrecarga,Madera,Total,Servicio,Paises Bajos
+1108,1981,Sin nombre,Suspension,Sobrecarga,Madera,Total,Servicio,Peru
+1109,1809,Ponte das Barcas,Viga,Sobrecarga,Madera,Parcial,Servicio,Portugal
+1110,1831,Broughton,Suspension,Sobrecarga,Hierro Fundido,Parcial,Servicio,Reino Unido
+1111,1845,Yarmouth,Suspension,Sobrecarga,Hormig�n armado,Total,Servicio,Reino Unido
+1112,1860,Bull,Viga,Sobrecarga,Hierro Fundido,Total,Servicio,Reino Unido
+1113,1861,Wootton,Armadura,Sobrecarga,Hierro Fundido,Total,Servicio,Reino Unido
+1114,1891,Norwood Junction,Viga,Sobrecarga,Hierro Fundido,Total,Servicio,Reino Unido
+1115,1845,Yarmouth,Suspension,Sobrecarga,No definido,Total,Servicio,Reino Unido
+1116,1898,Blackwall,Armadura,Sobrecarga,Hierro Fundido,Total,Servicio,Reino Unido
+1117,1978,Bristol,Suspension,Sobrecarga,Hormig�n armado,Parcial,Servicio,Reino Unido
+1118,1977,Pushkino,Viga,Sobrecarga,No definido,Total,Servicio,Rusia
+1119,2022,Ov?ar Banja,Suspension,Sobrecarga,No definido,Total,Servicio,Serbia
+1120,1968,Titograd,Colgante,Sobrecarga,No definido,Total,Servicio,Serbia
+1121,1891,M�nchenstein,Armadura,Sobrecarga,Hierro fundido,Total,Servicio,Suiza
+1122,1852,Peney,Suspension,Sobrecarga,No definido,Total,Construccion,Suiza
+1123,No date,Sin nombre,Viga,Sobrecarga,Acero,Parcial,Servicio,Turquia
+1124,No date,Sin nombre,Viga,Sobrecarga,Acero,Parcial,Servicio,Turquia
+1125,No date,Sin nombre,Viga,Sobrecarga,Hormig�n armado,Total,Servicio,Turquia
+1126,No date,Sin nombre,Viga,Sobrecarga,Hormig�n armado,Total,Servicio,Turquia
+1127,No date,Sin nombre,Viga,Sobrecarga,Hormig�n armado,Total,Servicio,Turquia
+1128,No date,Sin nombre,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,Turquia
+1129,No date,Sin nombre,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,Turquia
+1130,No date,Sin nombre,Arco,Sobrecarga,Hormig�n armado,Parcial,Servicio,Turquia
+1131,2013,Washington,Armadura,Sobrecarga,Acero,Parcial,Servicio,USA
+1132,2000,North Carolina,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,USA
+1133,2024,Maine,No definido,Sobrecarga,Hormig�n armado,Parcial,Servicio,USA
+1134,1973,New York,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,USA
+1135,2000,Wisconsin,Viga,Sobrecarga,Hormig�n armado,Parcial,Servicio,USA
+1136,1855,Missouri,Trestle,Sobrecarga,Madera,Parcial,Construccion,USA
+1137,1976,Kentucky,No definido,Sobrecarga,No definido,Parcial,Servicio,USA
+1138,2004,Kansas,No definido,Sobrecarga,No definido,Parcial,Servicio,USA
+1139,1893,Massachusetts,Armadura,Sobrecarga,Acero,Total,Servicio,USA
+1140,1965,Missouri,Suspension,Sobrecarga,Acero,Total,Servicio,USA
+1141,1986,New York,Viga,Sobrecarga,Acero,Total,Servicio,USA
+1142,2019,Arkansas,Armadura,Sobrecarga,Acero,Total,Servicio,USA
+1143,1937,Colorado,Armadura,Sobrecarga,Acero,Total,Servicio,USA
+1144,1979,Kentucky,Armadura,Sobrecarga,Acero,Total,Servicio,USA
+1145,1979,Indiana,Armadura,Sobrecarga,Acero,Total,Servicio,USA
+1146,2000,North Carolina,Suspension,Sobrecarga,Hormig�n armado,Total,Servicio,USA
+1147,1873,Illinois,Armadura,Sobrecarga,Hierro fundido,Total,Servicio,USA
+1148,1876,Ohio,Armadura,Sobrecarga,Hierro fundido,Total,Servicio,USA
+1149,1893,Pennsylvania,Armadura,Sobrecarga,Hierro fundido,Total,Construccion,USA
+1150,1858,New York,Trestle,Sobrecarga,No definido,Total,Servicio,USA
+1151,1989,Arkansas,Suspension,Sobrecarga,No definido,Total,Servicio,USA
+1152,2007,Washington,No definido,Sobrecarga,No definido,Total,Servicio,USA
+1153,2025,Oregon,Viga,Sobrecarga,No definido,Total,Servicio,USA
+1154,1947,California,No definido,Sobrecarga,No definido,Total,Servicio,USA
+1155,2004,Arkansas,No definido,Sobrecarga,No definido,Total,Servicio,USA
+1156,1913,Rega,Arco,Socavon,Hormig�n armado,Total,Servicio,Alemania
+1157,1913,Prerow,Armadura,Socavon,Acero,Total,Servicio,Alemania
+1158,1925,Aller,Arco,Socavon,Hormig�n armado,Parcial,Servicio,Alemania
+1159,1913,River Rega Bridge,Armadura,Socavon,Hormig�n armado,Total,Servicio,Alemania
+1160,No date,Elbe River Bridge,Arco,Socavon,Acero,Parcial,Servicio,Alemania
+1161,1995,Puente Marcial Candioti Bridge,Suspension,Socavon,Acero,Parcial,Servicio,Argentina
+1162,1982,Traun,Armadura,Socavon,Acero,Parcial,Servicio,Austria
+1163,1990,Kufstein,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Austria
+1164,No date,Motorway bridge nr.,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Austria
+1165,1966,Nette,No definido,Socavon,No definido,Total,Servicio,Belgica
+1166,2013,CPR Bonnybrook,Armadura,Socavon,Acero,Parcial,Servicio,Canada
+1167,1963,Beaver Dam Bridge,Atirantado,Socavon,Hormig�n armado,Total,Servicio,Canada
+1168,2004,Loncomilla,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Chile
+1169,2018,Cancura,No definido,Socavon,Hormig�n armado,Parcial,Servicio,Chile
+1170,1986,Cobaria,No definido,Socavon,No definido,Parcial,Servicio,Colombia
+1171,"Mayo, 1994",El Secreto,No definido,Socavon,Acero,Total,Servicio,Colombia
+1172,"Mayo, 1994",Guillermo Leon Valencia,No definido,Socavon,Acero,Parcial,Servicio,Colombia
+1173,"Junio, 1994",Barranca de Upia,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1174,"Julio, 1994",Rio Casanare,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1175,"Julio, 1994",Rio Carare,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1176,"Noviembre, 1994",Rio Pato,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1177,"Junio, 1994",El Guajiro,No definido,Socavon,Hormig�n armado,Total,Construccion,Colombia
+1178,"Abril, 1996",Sabandija,No definido,Socavon,Acero,Total,Servicio,Colombia
+1179,"Noviembre, 1996",Jorge Gaitan Duran,No definido,Socavon,Acero,Total,Servicio,Colombia
+1180,"Noviembre, 1999",La Gomez,No definido,Socavon,Hormig�n armado,Parcial,Construccion,Colombia
+1181,"Julio, 2000",Guaduas-Cabezas,No definido,Socavon,No definido,Parcial,Servicio,Colombia
+1182,"Septiembre, 2000",Tobasia,No definido,Socavon,No definido,Total,Servicio,Colombia
+1183,2000,Unete,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1184,2004,Banadia,No definido,Socavon,Hormig�n armado,Total,Servicio,Colombia
+1185,2009,Sava Bridge,Atirantado,Socavon,Acero,Total,Servicio,Croacia
+1186,2014,Bolivar,No definido,Socavon,Hormig�n armado,Parcial,Servicio,Ecuador
+1187,2015,Guayas,No definido,Socavon,Hormig�n armado,Parcial,Servicio,Ecuador
+1188,2015,Los Rios,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1189,2016,Chimborazo,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1190,2017,Pichincha,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1191,2018,Pichincha,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1192,2018,Zamora,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1193,2019,Manabi,No definido,Socavon,Madera,Parcial,Servicio,Ecuador
+1194,2020,Napo,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1195,2021,Napo,No definido,Socavon,Acero,Parcial,Servicio,Ecuador
+1196,2022,Azuay,No definido,Socavon,Hormig�n armado,Total,Servicio,Ecuador
+1197,2022,Guayas,No definido,Socavon,Hormig�n armado,Parcial,Servicio,Ecuador
+1198,1850,Basse-Cha�ne Bridge,Suspension,Socavon,Acero,Total,Servicio,Francia
+1199,1852,Roche-Bernard,Suspension,Socavon,Acero,Total,Servicio,Francia
+1200,2015,Plaka,Arco,Socavon,Piedra,Total,Servicio,Grecia
+1201,2017,Kompsatos,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Grecia
+1202,1972,Katerini,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Grecia
+1203,2015,Plaka Bridge,Arco,Socavon,Hormig�n armado,Total,Servicio,Grecia
+1204,2009,Broadmeadow,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Irlanda
+1205,1982,Milan-Bologna,Arco,Socavon,Piedra,Parcial,Servicio,Italia
+1206,1983,Milan-Bologna,Arco,Socavon,Piedra,Parcial,Servicio,Italia
+1207,1984,Milan-Bologna,Arco,Socavon,Piedra,Parcial,Servicio,Italia
+1208,2018,Morandi Bridge,Atirantado,Socavon,Hormig�n armado,Total,Servicio,Italia
+1209,2023,Randklev,Armadura,Socavon,Acero,Total,Servicio,Noruega
+1210,1953,Whangaehu River bridge,Arco,Socavon,Acero,Total,Servicio,Nueva Zelanda
+1211,2001,Hintze Ribeiro,Viga,Socavon,Acero,Total,Servicio,Portugal
+1212,2001,Duoro,Armadura,Socavon,Acero,Total,Servicio,Portugal
+1213,No date,Hintze Ribeiro disaster,Armadura,Socavon,Hormig�n armado,Parcial,Servicio,Portugal
+1214,1968,Countess Wear,Arco,Socavon,Acero,Parcial,Servicio,Reino Unido
+1215,2009,RDG148,Arco,Socavon,Ladrillo,Parcial,Servicio,Reino Unido
+1216,2019,Bishopsford,Arco,Socavon,Hormig�n armado,Parcial,Servicio,Reino Unido
+1217,1914,Carr,Arco,Socavon,Ladrillo,Total,Servicio,Reino Unido
+1218,1993,Forteviot,Armadura,Socavon,Hormig�n armado,Parcial,Servicio,Reino Unido
+1219,1836,Brighton chain pier,Viga,Socavon,Madera,Total,Servicio,Reino Unido
+1220,1817,Dryburgh Abbey chain,Suspension,Socavon,Madera,Total,Servicio,Reino Unido
+1221,1926,Milcov,Arco,Socavon,Hormig�n armado,Parcial,Servicio,Rumania
+1222,1882,Osijeg,Armadura,Socavon,No definido,Parcial,Servicio,Serbia
+1223,1987,Wassen,Viga,Socavon,Hormig�n armado,Parcial,Servicio,Suiza
+1224,1974,M�nchenstein Bridge,Armadura,Socavon,Acero,Parcial,Servicio,Suiza
+1225,1987,Haderslis Bridge,Arco,Socavon,Hormig�n armado,Total,Servicio,Suiza
+1226,2011,Carrabassett River Bridge,Viga,Socavon,Hormig�n armado,Total,Servicio,USA
+1227,2017,Puente R�o Abajo,Atirantado,Socavon,Hormig�n armado,Total,Servicio,USA
+1228,1923,Allen Street Bridge (Old),Suspension,Socavon,Madera,Total,Servicio,USA
+1229,1933,Don Patricio Causeway,Viga,Socavon,Madera,Total,Servicio,USA
+1230,1945,Allenville Covered Bridge,Atirantado,Socavon,Madera,Total,Servicio,USA
+1231,1957,Waterworks Covered Bridge,Arco,Socavon,Madera,Total,Servicio,USA
+1232,1999,Bell Ford Covered Bridge,Atirantado,Socavon,Madera,Total,Servicio,USA
+1233,2011,Blenheim Bridge,Arco,Socavon,Madera,Total,Servicio,USA
+1234,2017,Puente R�o Grande de Manat�,Viga,Socavon,Madera,Total,Servicio,USA
+1235,1938,Panther Creek Bridge,Atirantado,Socavon,Hormig�n armado,Total,Servicio,USA
+1236,1989,Hatchie River Bridge,Viga,Socavon,Hormig�n armado,Total,Servicio,USA
+1237,2016,Highway 13 bridge,Viga,Socavon,Hormig�n armado,Total,Servicio,USA
+1238,1891,Ely Street Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1239,1900,Galveston Bay Wagon Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1240,1912,Fremont Wagon Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1241,1912,Newville Iron Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1242,1913,Main Street Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1243,1916,Carmi Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1244,1926,Okoboji Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1245,1936,McGregor Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1246,1949,Northport Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1247,1965,Melan Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1248,1972,White Wagon Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1249,1982,Hardy Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1250,1987,Schoharie Creek Bridge,Viga,Socavon,Acero,Total,Servicio,USA
+1251,1995,I-5 Coalinga Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1252,1996,Walnut Street Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1253,2005,L'Erable Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1254,2010,Popo Agie River Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1255,2010,Elkhorn River Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1256,2011,Elm River Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1257,2013,Big Bureau Creek Bridge,Armadura,Socavon,Acero,Total,Servicio,USA
+1258,2017,Millville Road Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1259,2018,New Hope Through Truss Bridge,Arco,Socavon,Acero,Total,Servicio,USA
+1260,1854,Wheeling�Bridge,Suspension,Socavon,Acero,Total,Servicio,USA
+1261,2017,Bartonsville Covered Bridge,Arco,Socavon,Madera,Total,Servicio,USA
+1262,1912,Lacey V. Murrow Memorial Bridge,Atirantado,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1263,1926,Rockaway River Bridge,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1264,1999,Hood Canal Bridge,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1265,2017,Garvin Brook Bridge,Armadura,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1266,2018,Ankeny Luten Arch,Arco,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1267,1949,Kinzua Viaduct,Armadura,Socavon,Madera,Parcial,Servicio,USA
+1268,No date,Bass Point Creek Trestle,Viga,Socavon,Madera,Parcial,Servicio,USA
+1269,1936,Fridley Bridge,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1270,1893,CRANDIC Cedar River Bridge,Armadura,Socavon,Acero,Parcial,Servicio,USA
+1271,2003,US52 Running Slough Bridge,Arco,Socavon,Acero,Parcial,Servicio,USA
+1272,No date,Fraser Bridge,Arco,Socavon,Acero,Parcial,Servicio,USA
+1273,No date,Quinebaug River Bridge,Viga,Socavon,Acero,Parcial,Servicio,USA
+1274,No date,Hidalgo-Reynosa International Bridge,Suspension,Socavon,Acero,Parcial,Servicio,USA
+1275,No date,Nueces Bay Causeway,Viga,Socavon,Acero,Parcial,Servicio,USA
+1276,No date,Sangamon River Bridge,Armadura,Socavon,Acero,Parcial,Servicio,USA
+1277,No date,Waubonsie Creek Bridge,Viga,Socavon,Acero,Parcial,Servicio,USA
+1278,No date,South Front Street Bridge,Armadura,Socavon,Acero,Parcial,Servicio,USA
+1279,2010,Stone Arch Bridge,Armadura,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1280,1989,Tennessee,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1281,2011,New York,Arco,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1282,2017,California,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1283,1933,Maryland,Viga,Socavon,Hormig�n armado,Parcial,Servicio,USA
+1284,2005,Louisiana,Trestle,Socavon,No definido,Parcial,Servicio,USA
+1285,2005,Mississippi,Trestle,Socavon,No definido,Parcial,Servicio,USA
+1286,2015,California,No definido,Socavon,No definido,Parcial,Servicio,USA
+1287,1965,South Carolina,No definido,Socavon,No definido,Parcial,Servicio,USA
+1288,1999,Tennessee,No definido,Socavon,No definido,Parcial,Servicio,USA
+1289,1962,South Dakota,Viga,Socavon,Acero,Total,Construccion,USA
+1290,1964,Montana,Armadura,Socavon,Acero,Total,Servicio,USA
+1291,1989,Mississippi,Armadura,Socavon,Acero,Total,Servicio,USA
+1292,1996,Pennsylvania,Armadura,Socavon,Acero,Total,Servicio,USA
+1293,1998,New York,Viga,Socavon,Acero,Total,Servicio,USA
+1294,2004,Missouri,Viga,Socavon,Acero,Total,Servicio,USA
+1295,2005,New York,Viga,Socavon,Acero,Total,Servicio,USA
+1296,2011,New York,Arco,Socavon,Acero,Total,Servicio,USA
+1297,2011,New York,Viga,Socavon,Acero,Total,Servicio,USA
+1298,2011,New York,Armadura,Socavon,Acero,Total,Servicio,USA
+1299,1986,Nevada,Viga,Socavon,Hormig�n armado,Total,Construccion,USA
+1300,1987,New Hampshire,No definido,Socavon,Hormig�n armado,Total,Servicio,USA
+1301,1977,New York,Puente movible,Socavon,Hormig�n armado,Total,Servicio,USA
+1302,1987,New York,No definido,Socavon,Hormig�n armado,Total,Servicio,USA
+1303,1989,Tennessee,Viga,Socavon,Madera,Total,Servicio,USA
+1304,1999,Mississippi,No definido,Socavon,Madera,Total,Servicio,USA
+1305,1962,Iowa,No definido,Socavon,No definido,Total,Servicio,USA
+1306,1995,California,No definido,Socavon,No definido,Total,Servicio,USA
+1307,1972,Maryland,Viga,Socavon,PC,Total,Servicio,USA
+1308,1995,South Carolina,No definido,Socavon,PC,Total,Servicio,USA
+1309,2007,C?n Th?,Atirantado,Socavon,Hormig�n armado,Parcial,Construccion,Vietnam
+1310,2018,Palu IV,Arco,Tsunami,Acero,Total,Servicio,Indonesia
