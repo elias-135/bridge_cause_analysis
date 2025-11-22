@@ -1,6 +1,6 @@
-N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-1.9,SSP1-1.9,SSP2-4.5,SSP3-7.0,SSP5-8.5
+Nï¿½,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-1.9,SSP1-1.9,SSP2-4.5,SSP3-7.0,SSP5-8.5
 1,1945,Ludendorff,Truss,Terrorism,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,-0.27856,-0.02144,-0.02468,0.08276,-0.02468
-2,2012,Rio Beaver,Trestle,Terrorism,Composite ,Total,Operational,Canada,North America,N.W.North America,1.58241,1.72676,1.92925,1.75697,1.971835
+2,2012,Rio Beaver,Trestle,Terrorism,Composite,Total,Operational,Canada,North America,N.W.North America,1.58241,1.72676,1.92925,1.75697,1.971835
 3,2024,Red,Beam,Terrorism,Reinforced concrete,Total,Operational,Canada,North America,N.W.North America,2.58803,2.722245,3.03332,2.2742,2.57836
 4,1997,La Granja,Not defined,Terrorism,Reinforced concrete,Total,Operational,Colombia,Central America,N.W.South America,0.50321,0.59091,0.5656,0.534405,0.50321
 5,1997,La Conguta,Not defined,Terrorism,Not defined,Partial,Operational,Colombia,Central America,N.W.South America,0.50321,0.59091,0.5656,0.534405,0.50321
@@ -22,7 +22,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 21,2001,El Mango,Not defined,Terrorism,Not defined,Partial,Operational,Colombia,Central America,N.W.South America,1.01592,0.835065,0.70428,0.702485,0.72869
 22,2001,Paso a desnivel,Not defined,Terrorism,Not defined,Partial,Operational,Colombia,Central America,N.W.South America,1.01592,0.835065,0.70428,0.702485,0.72869
 23,2001,El Caminito,Not defined,Terrorism,Steel,Partial,Operational,Colombia,Central America,N.W.South America,1.01592,0.835065,0.70428,0.702485,0.72869
-24,1984,Cuscatlán,Suspension,Terrorism,Reinforced concrete,Total,Operational,El Salvador,Central America,N.Central America,0.21845,0.167995,0.11754,0.167995,0.11489
+24,1984,Cuscatlï¿½n,Suspension,Terrorism,Reinforced concrete,Total,Operational,El Salvador,Central America,N.Central America,0.21845,0.167995,0.11754,0.167995,0.11489
 25,2002,Rafiganj,Truss,Terrorism,Not defined,Total,Operational,India,Asia,S.Asia,0.82288,0.611335,0.5956,0.55935,0.5956
 26,2015,Kudzum,Not defined,Terrorism,Reinforced concrete,Total,Operational,Nigeria,Africa,W.Africa,1.14998,1.082225,1.17717,1.283635,1.06007
 27,2014,Dilichim,Not defined,Terrorism,Not defined,Total,Operational,Nigeria,Africa,W.Africa,1.20418,1.109595,1.11847,1.1247,1.10072
@@ -42,10 +42,10 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 41,1861,Missouri,Not defined,Terrorism,Not defined,Partial,Operational,USA,North America,W. North America,0.0619,-0.00015,0.0244,-0.005755,-0.03591
 42,1966,Heiligenstedten,Beam,Collision events,Reinforced concrete,Total,Operational,Germany,Europe,West& Central-Europe ,-0.36346,-0.306055,-0.24865,-0.225425,-0.24865
 43,1998,Eschede,Not defined,Collision events,Not defined,Total,Operational,Germany,Europe,West& Central-Europe ,0.36885,0.470945,0.50696,0.801555,0.64242
-44,2015,Friesenbrücke,Truss,Collision events,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,0.96894,1.78409,1.65721,1.445855,1.41198
+44,2015,Friesenbrï¿½cke,Truss,Collision events,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,0.96894,1.78409,1.65721,1.445855,1.41198
 45,1837,Donaustauf,Not defined,Collision events,Not defined,Partial,Operational,Germany,Europe,West& Central-Europe ,ER,ER,ER,ER,ER
 46,1869,Hammer,Truss,Collision events,Steel,Partial,Operational,Germany,Europe,West& Central-Europe ,0.40503,0.348125,0.21938,0.24437,0.21938
-47,1908,Herrenbrücke,Suspension,Collision events,Wood,Partial,Operational,Germany,Europe,West& Central-Europe ,-0.37668,0.055205,-0.03791,-0.28186,-0.05782
+47,1908,Herrenbrï¿½cke,Suspension,Collision events,Wood,Partial,Operational,Germany,Europe,West& Central-Europe ,-0.37668,0.055205,-0.03791,-0.28186,-0.05782
 48,1947,Bremen,Not defined,Collision events,Not defined,Total,Operational,Germany,Europe,West& Central-Europe ,-0.05347,-0.065825,0.11378,-0.04279,0.08386
 49,1979,Over A2,Beam,Collision events,Reinforced concrete,Total,Operational,Germany,Europe,West& Central-Europe ,-0.01883,0.18345,0.26149,0.136105,0.11345
 50,1979,Over A3,Beam,Collision events,Reinforced concrete,Total,Operational,Germany,Europe,West& Central-Europe ,-0.01883,0.18345,0.26149,0.136105,0.11345
@@ -59,7 +59,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 58,1945,Oder bridge,Truss,Collision events,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,-0.27856,-0.02144,-0.02468,0.08276,-0.02468
 59,1945,Laasan Bridge,Arch,Collision events,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,-0.27856,-0.02144,-0.02468,0.08276,-0.02468
 60,1947,Freeman Bridge,Arch,Collision events,Steel,Total,Operational,Germany,Europe,West& Central-Europe ,-0.05347,-0.065825,0.11378,-0.04279,0.08386
-61,2005,Kattwykbrücke,Arch,Collision events,Steel,Partial,Operational,Germany,Europe,West& Central-Europe ,1.19678,1.27773,1.4646,1.25118,1.39183
+61,2005,Kattwykbrï¿½cke,Arch,Collision events,Steel,Partial,Operational,Germany,Europe,West& Central-Europe ,1.19678,1.27773,1.4646,1.25118,1.39183
 62,2007,Gosford ,Slab,Collision events,Reinforced concrete,Total,Operational,Australia,Australasia,N.Australia,0.82997,0.83638,0.77985,0.76796,0.82997
 63,1975,Tasman,Beam,Collision events,Reinforced concrete,Total,Operational,Australia,Australasia,N.Australia,0.36932,0.4722,0.36932,0.49446,0.36932
 64,1977,Granville,Beam,Collision events,Reinforced concrete,Total,Operational,Australia,Australasia,N.Australia,0.34381,0.348005,0.34326,0.358895,0.34381
@@ -93,7 +93,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 92,1947,Great Belt Fixed Link,Beam,Collision events,Reinforced concrete,Partial,Operational,Denmark,Europe,N.Europe,-0.4589,-0.19349,-0.05079,-0.15616,0.23395
 93,1938,Ferdan Bridge,Beam,Collision events,Reinforced concrete,Partial,Operational,Egypt,Africa,Sahara,0.3973,0.277995,0.25734,0.336185,0.25734
 94,2010,Laajasalo,Beam,Collision events,Reinforced concrete,Total,Operational,Finland,Europe,N.Europe,1.1474,1.31238,1.41185,1.302475,1.37314
-95,1907,Ponts de Cé,Truss,Collision events,Steel,Partial,Operational,France,Europe,West& Central-Europe ,-0.18769,-0.152435,-0.3557,-0.152435,-0.3557
+95,1907,Ponts de Cï¿½,Truss,Collision events,Steel,Partial,Operational,France,Europe,West& Central-Europe ,-0.18769,-0.152435,-0.3557,-0.152435,-0.3557
 96,1977,Beki,Truss,Collision events,Steel,Total,Operational,India,Asia,S.Asia,0.27277,0.28654,0.20447,0.25594,0.20447
 97,2002,Rafiganj Rail Bridge,Beam,Collision events,Steel,Total,Operational,India,Asia,S.Asia,0.82288,0.611335,0.5956,0.55935,0.5956
 98,2003,Cahir,Truss,Collision events,Steel,Total,Operational,Ireland,Europe,N.Europe,1.33325,1.265745,1.33004,1.302455,1.27487
@@ -101,22 +101,22 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 100,2006,Nimule,Not defined,Collision events,Not defined,Total,Operational,Kenya,Africa,S.Eastern Africa,0.78624,0.85738,0.81812,0.80208,0.80692
 101,1963,Kristiansund,Beam,Collision events,Reinforced concrete,Partial,Operational,Norway,Europe,N.Europe,-0.07614,0.404175,0.5813,0.404175,0.38155
 102,2000,Chagres,Beam,Collision events,Not defined,Partial,Operational,Panama,Central America,N.Central America,0.83988,0.802125,0.73152,0.690955,0.73152
-103,1999,Rio Chiriquí,Suspension,Collision events,Steel,Total,Operational,Panama,Central America,N.Central America,0.47822,0.620025,0.69233,0.67949,0.66665
+103,1999,Rio Chiriquï¿½,Suspension,Collision events,Steel,Total,Operational,Panama,Central America,N.Central America,0.47822,0.620025,0.69233,0.67949,0.66665
 104,1952,Harrow and Wealdstone,Not defined,Collision events,Not defined,Total,Operational,United Kingdom,Europe,N.Europe,-0.1337,-0.154435,0.06719,0.0895,0.06719
 105,1957,St. Johns station,Truss,Collision events,Steel,Total,Operational,United Kingdom,Europe,N.Europe,-0.37701,-0.111725,0.15063,-0.176765,0.15063
-106,1960,Severn,Arch,Collision events,Composite ,Total,Operational,United Kingdom,Europe,N.Europe,0.26606,0.286305,0.30655,0.216935,0.16781
+106,1960,Severn,Arch,Collision events,Composite,Total,Operational,United Kingdom,Europe,N.Europe,0.26606,0.286305,0.30655,0.216935,0.16781
 107,1922,Sheppey,Beam,Collision events,Not defined,Partial,Operational,United Kingdom,Europe,N.Europe,-0.58562,-0.344845,0.13727,-0.10768,0.13727
-108,1957,St John´s,Beam,Collision events,Reinforced concrete,Partial,Operational,United Kingdom,Europe,N.Europe,-0.37701,-0.111725,0.15063,-0.176765,0.15063
+108,1957,St Johnï¿½s,Beam,Collision events,Reinforced concrete,Partial,Operational,United Kingdom,Europe,N.Europe,-0.37701,-0.111725,0.15063,-0.176765,0.15063
 109,1975,M62,Suspension,Collision events,Reinforced concrete,Total,Operational,United Kingdom,Europe,N.Europe,0.08062,0.179085,0.33412,0.274355,0.33412
 110,2005,Codsall,Suspension,Collision events,Composite,Total,Operational,United Kingdom,Europe,N.Europe,1.43121,1.27234,1.296,1.307755,1.296
 111,2011,Severn Railway Bridge,Truss,Collision events,Steel,Partial,Operational,United Kingdom,Europe,N.Europe,1.24575,1.509655,1.50974,1.391395,1.50957
-112,2008,Stúdenka bridge,Beam,Collision events,Steel,Total,Operational,Republica Checa,Europe,West& Central-Europe ,0.89485,1.22032,1.41352,1.278865,1.41352
-113,1980,Almöbron,Arch,Collision events,Steel,Partial,Operational,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
+112,2008,Stï¿½denka bridge,Beam,Collision events,Steel,Total,Operational,Republica Checa,Europe,West& Central-Europe ,0.89485,1.22032,1.41352,1.278865,1.41352
+113,1980,Almï¿½bron,Arch,Collision events,Steel,Partial,Operational,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
 114,1977,Gothenburg Harbour,Not defined,Collision events,Not defined,Partial,Operational,Sweden,Europe,N.Europe,0.1309,0.361515,0.29861,0.214145,0.29861
-115,1980,Almö Sound,Arch,Collision events,Reinforced concrete,Total,Operational,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
+115,1980,Almï¿½ Sound,Arch,Collision events,Reinforced concrete,Total,Operational,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
 116,1980,Tjorn,Beam,Collision events,Not defined,Total,Operational,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
-117,1980,Almö Bridge,Truss,Collision events,Reinforced concrete,Total,Construction,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
-118,1891,Münchenstein Bridge,Arch,Collision events,Steel,Total,Operational,Switzerland,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
+117,1980,Almï¿½ Bridge,Truss,Collision events,Reinforced concrete,Total,Construction,Sweden,Europe,N.Europe,0.29151,0.388,0.40048,0.33878,0.40048
+118,1891,Mï¿½nchenstein Bridge,Arch,Collision events,Steel,Total,Operational,Switzerland,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
 119,No date,no definido,Beam,Collision events,Reinforced concrete,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 120,No date,no definido,Beam,Collision events,Reinforced concrete,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 121,No date,no definido,Beam,Collision events,Reinforced concrete,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
@@ -141,7 +141,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 140,2005,128th Avenue Bridge,Arch,Collision events,Wood,Total,Operational,USA,North America,W. North America,1.03956,1.021645,1.00373,0.97087,1.00373
 141,1930,Butler Bridge,Truss,Collision events,Steel,Total,Operational,USA,North America,W. North America,-0.00342,0.000435,0.03362,-0.001615,0.06808
 142,1947,Drake's Creek Bridge,Arch,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.07727,0.26019,0.26669,0.18095,0.2318
-143,1949,Jelly’s Ferry Road Bridge,Truss,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.21447,0.249905,0.28112,0.22729,0.25197
+143,1949,Jellyï¿½s Ferry Road Bridge,Truss,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.21447,0.249905,0.28112,0.22729,0.25197
 144,1957,Fassett Street Bridge,Arch,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.08313,0.12329,0.16345,0.027975,0.05915
 145,1957,Ashtabula River Bridge,Arch,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.08313,0.12329,0.16345,0.027975,0.05915
 146,1988,Calumet River Bridge,Arch,Collision events,Steel,Total,Operational,USA,North America,W. North America,0.31552,0.36088,0.37326,0.36895,0.37326
@@ -242,7 +242,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 241,1995,Virginia,Beam,Flood,Steel,Total,Operational,USA,North America,W. North America,1.46182,1.239885,1.04521,1.347745,1.104325
 242,1887,Alabama,Truss,Flood,Steel,Total,Operational,USA,North America,W. North America,0.54811,0.36153,0.4032,0.384025,0.36153
 243,2004,South Carolina,Beam,Flood,Reinforced concrete,Total,Operational,USA,North America,W. North America,0.77355,0.134055,0.18355,0.64969,0.18446
-244,1825,Saalebrücke bei Mönchen-Nienburg,Beam,Construction deficiencies,Not defined,Partial,Operational,Germany,Europe,West& Central-Europe ,0.00759,0.513815,0.52079,0.117055,0.49991
+244,1825,Saalebrï¿½cke bei Mï¿½nchen-Nienburg,Beam,Construction deficiencies,Not defined,Partial,Operational,Germany,Europe,West& Central-Europe ,0.00759,0.513815,0.52079,0.117055,0.49991
 245,1940,Theodor Heuss,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Germany,Europe,West& Central-Europe ,0.40277,0.06305,0.08299,0.074985,0.116255
 246,1945,Deutz,Suspension,Construction deficiencies,Steel,Total,Construction,Germany,Europe,West& Central-Europe ,-0.16957,0.6068,0.66331,0.53404,0.719445
 247,1971,Koblenz,Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Germany,Europe,West& Central-Europe ,0.37462,0.432745,0.67247,0.432745,0.609865
@@ -279,8 +279,8 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 278,2010,Zamora,Arch,Construction deficiencies,Steel,Total,Construction,Ecuador,Central America,N.W.South America,0.24725,0.274825,0.24725,0.146725,0.2514
 279,2011,Pichincha,Beam,Construction deficiencies,Concrete,Total,Construction,Ecuador,Central America,N.W.South America,0.24725,0.274825,0.24725,0.146725,0.2514
 280,2013,El Oro,Beam,Construction deficiencies,Concrete,Partial,Construction,Ecuador,Central America,N.W.South America,0.24725,0.274825,0.24725,0.146725,0.2514
-281,2005,Almuñécar,Not defined,Construction deficiencies,Reinforced concrete,Partial,Construction,Spain,Europe,S.Europe,0.24725,0.274825,0.24725,0.146725,0.2514
-282,1928,Kärevere Bridge,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Estonia,Europe,N.Europe,0.24725,0.274825,0.24725,0.146725,0.2514
+281,2005,Almuï¿½ï¿½car,Not defined,Construction deficiencies,Reinforced concrete,Partial,Construction,Spain,Europe,S.Europe,0.24725,0.274825,0.24725,0.146725,0.2514
+282,1928,Kï¿½revere Bridge,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Estonia,Europe,N.Europe,0.24725,0.274825,0.24725,0.146725,0.2514
 283,1846,Barentin,Truss,Construction deficiencies,Steel,Total,Construction,France,Europe,West& Central-Europe ,0.24725,0.274825,0.24725,0.146725,0.2514
 284,1985,Sully-sur-Loire,Suspension,Construction deficiencies,Reinforced concrete,Total,Operational,France,Europe,West& Central-Europe ,0.24725,0.274825,0.24725,0.146725,0.2514
 285,2007,Flyover,Not defined,Construction deficiencies,Not defined,Total,Construction,India,Asia,S.Asia,0.24725,0.274825,0.24725,0.146725,0.2514
@@ -303,9 +303,9 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 302,2006,Yekaterinburg,Not defined,Construction deficiencies,Not defined,Total,Construction,Russia,Europe,E.Europe ,1.05291,1.229175,1.24701,1.296995,1.21134
 303,1925,Mozyrow,Truss,Construction deficiencies,Reinforced concrete,Total,Construction,Russia,Europe,E.Europe ,0.28955,0.60666,0.56203,0.36478,0.63581
 304,2015,Grayston,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,South Africa,Africa,S.Eastern Africa,1.10664,1.15054,1.05589,1.240505,1.05788
-305,1939,Sandö,Arch,Construction deficiencies,Reinforced concrete,Total,Construction,Sweden,Europe,N.Europe,-0.19369,-0.11548,0.14531,-0.130675,0.09545
+305,1939,Sandï¿½,Arch,Construction deficiencies,Reinforced concrete,Total,Construction,Sweden,Europe,N.Europe,-0.19369,-0.11548,0.14531,-0.130675,0.09545
 306,1873,Payerne,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.02205,-0.025975,0.07092,-0.09037,-0.02205
-307,1883,Tüss,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.01729,-0.031065,-0.01729,0.04199,-0.14124
+307,1883,Tï¿½ss,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.01729,-0.031065,-0.01729,0.04199,-0.14124
 308,No date,no definido,Arch,Construction deficiencies,Reinforced concrete,Partial,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 309,No date,no definido,Arch,Construction deficiencies,Reinforced concrete,Partial,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 310,No date,no definido,Suspension,Construction deficiencies,Steel,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
@@ -335,7 +335,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 334,1905,Heidelberg,Truss,Construction deficiencies,Steel,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.4895,-0.326925,-0.30673,-0.326925,-0.4023
 335,1923,Flensburg,Arch,Construction deficiencies,Rock,Total,Construction,Germany,Europe,West& Central-Europe ,-0.40279,-0.16679,-0.13289,-0.154755,-0.14475
 336,1954,Kaiserslautern,Not defined,Construction deficiencies,Reinforced concrete,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.16154,-0.09817,-0.16154,-0.092515,-0.15023
-337,1956,Nordbrücke,Not defined,Construction deficiencies,Not defined,Partial,Construction,Germany,Europe,West& Central-Europe ,0.02405,0.33261,0.11048,0.02271,0.02405
+337,1956,Nordbrï¿½cke,Not defined,Construction deficiencies,Not defined,Partial,Construction,Germany,Europe,West& Central-Europe ,0.02405,0.33261,0.11048,0.02271,0.02405
 338,1960,Leda,Truss,Construction deficiencies,Reinforced concrete,Partial,Operational,Germany,Europe,West& Central-Europe ,0.05119,0.142195,0.29699,0.142195,0.15425
 339,1961,Limburg,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.07445,0.33033,0.16182,0.081515,0.09967
 340,1963,Heidingsfeld,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.27351,-0.01787,0.03982,-0.01787,0.17078
@@ -343,7 +343,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 342,1968,A2,Not defined,Construction deficiencies,Not defined,Partial,Operational,Germany,Europe,West& Central-Europe ,-0.86062,-0.38446,-0.30403,-0.48261,-0.31362
 343,1971,Wenigsen,Not defined,Construction deficiencies,Not defined,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.22572,-0.17599,-0.06294,-0.10537,-0.20418
 344,1971,Koblenz,Beam,Construction deficiencies,Steel,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.22572,-0.17599,-0.06294,-0.10537,-0.20418
-345,1972,Hangbrücke,Beam,Construction deficiencies,Not defined,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.27769,-0.05112,-0.08186,-0.00389,-0.08186
+345,1972,Hangbrï¿½cke,Beam,Construction deficiencies,Not defined,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.27769,-0.05112,-0.08186,-0.00389,-0.08186
 346,1973,Zeulenroda,Beam,Construction deficiencies,Steel,Partial,Construction,Germany,Europe,West& Central-Europe ,0.06635,0.085375,-0.00321,0.03157,0.06635
 347,1974,Kempten,Not defined,Construction deficiencies,Not defined,Total,Construction,Germany,Europe,West& Central-Europe ,-0.25991,-0.054805,0.01564,-0.1508,0.05665
 348,1977,Bad Cannstatt,Truss,Construction deficiencies,Wood,Total,Construction,Germany,Europe,West& Central-Europe ,-0.73136,-0.4108,-0.36418,-0.55979,-0.36418
@@ -354,7 +354,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 353,1995,Cologne-Wahn Airport,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.22693,0.222965,0.35001,0.374855,0.35001
 354,1970,West Gate,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Australia,Australasia,C.Australia,-0.16381,0.25031,0.48413,0.31559,0.21034
 355,1962,King street,Not defined,Construction deficiencies,Not defined,Partial,Operational,Australia,Australasia,S.Australia,0.22768,0.26918,0.19787,0.23703,0.19787
-356,1891,Bergbrücke,Truss,Construction deficiencies,Steel,Total,Construction,Austria,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
+356,1891,Bergbrï¿½cke,Truss,Construction deficiencies,Steel,Total,Construction,Austria,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
 357,1969,Fourth Danube,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Austria,Europe,West& Central-Europe ,-0.19728,-0.11384,0.04486,-0.02701,-0.02362
 358,1970,Soboth,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Austria,Europe,West& Central-Europe ,-0.79116,-0.251375,-0.44234,-0.06924,-0.07807
 359,1975,Tauern,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Austria,Europe,West& Central-Europe ,-0.44352,-0.363185,-0.32578,-0.43495,-0.32578
@@ -391,7 +391,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 390,2007,no definido,Not defined,Construction deficiencies,Not defined,Partial,Construction,Corea,Asia,E.Asia,0.7542,0.74042,0.73826,0.74042,0.733715
 391,1981,Cheju,Suspension,Construction deficiencies,Reinforced concrete,Total,Construction,Corea,Asia,E.Asia,-0.1927,0.060115,0.09465,-0.020485,-0.038155
 392,1994,Sungsu,Truss,Construction deficiencies,Reinforced concrete,Partial,Operational,Corea,Asia,E.Asia,0.00834,0.18827,0.1892,0.17673,0.18827
-393,1972,Fiskebækbroen,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,N.Europe,0.04028,0.372345,0.2323,0.2078,0.2323
+393,1972,Fiskebï¿½kbroen,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,N.Europe,0.04028,0.372345,0.2323,0.2078,0.2323
 394,1971,Ringsted,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,N.Europe,-0.12813,-0.01853,0.07099,0.025705,0.0288
 395,2006,Aalborg,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,N.Europe,1.34006,1.552375,1.61598,1.6767,1.48877
 396,2006,Zamora,Beam,Construction deficiencies,Concrete,Partial,Operational,Ecuador,Central America,N.W.South America,0.82411,0.831935,0.73954,0.77952,0.73954
@@ -415,14 +415,14 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 414,1991,Hiroshima,Not defined,Construction deficiencies,Not defined,Total,Construction,Japon,Asia,E.Asia,-0.07935,0.2193,0.24713,0.211745,0.211745
 415,1967,Mexico City,Beam,Construction deficiencies,Not defined,Total,Construction,Mexico,North America,N.Central America,-0.01243,0.11853,0.11853,0.11211,0.10588
 416,2013,E6 at Lade,Not defined,Construction deficiencies,Not defined,Total,Construction,Norway,Europe,N.Europe,1.34421,1.367145,1.45955,1.46117,1.45955
-417,2016,Perkolo,Truss,Construction deficiencies,Composite ,Total,Operational,Norway,Europe,N.Europe,1.74625,1.4048,1.55461,1.512335,1.57744
-418,2022,Tretten,Truss,Construction deficiencies,Composite ,Total,Operational,Norway,Europe,N.Europe,2.10535,1.802205,1.87587,2.01131,1.80477
+417,2016,Perkolo,Truss,Construction deficiencies,Composite,Total,Operational,Norway,Europe,N.Europe,1.74625,1.4048,1.55461,1.512335,1.57744
+418,2022,Tretten,Truss,Construction deficiencies,Composite,Total,Operational,Norway,Europe,N.Europe,2.10535,1.802205,1.87587,2.01131,1.80477
 419,1967,Willemstad,Beam,Construction deficiencies,Steel,Total,Construction,Paises Bajos,Europe,West& Central-Europe ,-0.22926,0.03185,-0.19025,-0.26828,-0.19025
 420,1996,Koror Babeldaob,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Palau,North America,S.Pcific-Ocean,0.32121,0.36121,0.36211,0.43654,0.36211
-421,1847,Dee bridge,Beam,Construction deficiencies,Composite ,Total,Operational,United Kingdom,Europe,N.Europe,ER,ER,ER,ER,ER
+421,1847,Dee bridge,Beam,Construction deficiencies,Composite,Total,Operational,United Kingdom,Europe,N.Europe,ER,ER,ER,ER,ER
 422,1970,Cleddau,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,United Kingdom,Europe,N.Europe,-0.51272,-0.13388,-0.08252,-0.13388,-0.08252
-423,1849,Britannia,Truss,Construction deficiencies,Composite ,Partial,Construction,United Kingdom,Europe,N.Europe,ER,ER,ER,ER,ER
-424,1892,Strathglass,Truss,Construction deficiencies,Composite ,Total,Construction,United Kingdom,Europe,N.Europe,0.13577,-0.154465,-0.19929,-0.10942,-0.10964
+423,1849,Britannia,Truss,Construction deficiencies,Composite,Partial,Construction,United Kingdom,Europe,N.Europe,ER,ER,ER,ER,ER
+424,1892,Strathglass,Truss,Construction deficiencies,Composite,Total,Construction,United Kingdom,Europe,N.Europe,0.13577,-0.154465,-0.19929,-0.10942,-0.10964
 425,1959,Barton,Not defined,Construction deficiencies,Not defined,Partial,Construction,United Kingdom,Europe,N.Europe,0.09942,0.12417,0.27908,0.19545,0.23282
 426,1962,Fife,Not defined,Construction deficiencies,Not defined,Partial,Construction,United Kingdom,Europe,N.Europe,0.1325,-0.099475,0.1325,0.192485,0.1325
 427,1967,Calder,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,United Kingdom,Europe,N.Europe,-0.24832,0.34135,0.43122,0.133595,0.25148
@@ -433,7 +433,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 432,1998,Injaka,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,South Africa,Africa,S.Eastern Africa,0.6119,0.626275,0.65239,0.614965,0.62977
 433,1959,Goteborg,Arch,Construction deficiencies,Not defined,Partial,Construction,Sweden,Europe,N.Europe,0.09942,0.12417,0.27908,0.19545,0.23282
 434,1884,Salez,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,0.15725,-0.68812,-0.55213,-0.456935,-0.55213
-435,1913,Gütikhausen,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.45968,-0.48285,-0.45968,-0.48285,-0.45968
+435,1913,Gï¿½tikhausen,Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.45968,-0.48285,-0.45968,-0.48285,-0.45968
 436,1973,Illarsaz,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Switzerland,Europe,West& Central-Europe ,0.06635,0.085375,-0.00321,0.03157,0.06635
 437,1973,Valengin,Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Switzerland,Europe,West& Central-Europe ,0.06635,0.085375,-0.00321,0.03157,0.06635
 438,No date,no definido,Truss,Construction deficiencies,Wood,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
@@ -479,7 +479,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 478,1997,Second Yibin Bridge,Truss,Design error,Reinforced concrete,Total,Operational,China,Asia,E.Asia,0.4484,0.48232,0.48634,0.49085,0.48232
 479,1850,Angers,Suspension,Design error,Wood,Total,Operational,France,Europe,West& Central-Europe ,-0.54792,-0.052655,0.1396,0.051,0.1396
 480,1907,La rasse,Truss,Design error,Steel,Total,Construction,France,Europe,West& Central-Europe ,-0.18769,-0.152435,-0.3557,-0.152435,-0.3557
-481,1884,Viaduc d’Evaux-les-Bains,Truss,Design error,Steel,Total,Operational,France,Europe,West& Central-Europe ,0.15725,-0.68812,-0.55213,-0.456935,-0.55213
+481,1884,Viaduc dï¿½Evaux-les-Bains,Truss,Design error,Steel,Total,Operational,France,Europe,West& Central-Europe ,0.15725,-0.68812,-0.55213,-0.456935,-0.55213
 482,1986,Amarube,Not defined,Design error,Not defined,Partial,Operational,Japon,Asia,E.Asia,-0.24568,0.09433,0.19169,0.09433,0.174525
 483,1879,Firth of Tay,Truss,Design error,Steel,Partial,Operational,United Kingdom,Europe,N.Europe,-0.07654,-0.055915,0.12342,-0.25917,0.12342
 484,2018,Tay Bridge,Beam,Design error,Steel,Partial,Operational,United Kingdom,Europe,N.Europe,2.08255,1.608745,1.6046,1.68345,1.75643
@@ -512,11 +512,11 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 511,1956,Ohio,Not defined,Design error,Not defined,Total,Operational,USA,North America,C.North-America,0.40598,0.337145,0.35517,0.34851,0.33244
 512,2010,Guaiba,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Brazil,Central and SouthAmerica,S.E.South America,0.81543,0.776475,0.82795,0.85103,0.84574
 513,1974,Zell am See,Suspension,Deterioration,Wood,Total,Operational,Austria,Europe,West& Central-Europe ,-0.25991,-0.054805,0.01564,-0.1508,0.05665
-514,1976,Reichsbrücke,Beam,Deterioration,Reinforced concrete,Total,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
+514,1976,Reichsbrï¿½cke,Beam,Deterioration,Reinforced concrete,Total,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
 515,1976,Voralberg,Suspension,Deterioration,Wood,Total,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
 516,2024,Juscelino de Oliveira,Beam,Deterioration,Reinforced concrete,Total,Operational,Brazil,Central and SouthAmerica,S.E.South America,1.08911,1.40208,1.36512,1.20727,1.39113
 517,2003,McBride,Trestle,Deterioration,Wood,Total,Operational,Canada,North America,N.W.North America,1.88408,1.63863,1.84148,1.70504,1.796925
-518,2019,Nanfang´ao,Beam,Deterioration,Reinforced concrete,Total,Operational,China,Asia,E.Asia,1.17643,1.16541,1.19474,0.911595,1.13847
+518,2019,Nanfangï¿½ao,Beam,Deterioration,Reinforced concrete,Total,Operational,China,Asia,E.Asia,1.17643,1.16541,1.19474,0.911595,1.13847
 519,1996,Purnio,Not defined,Deterioration,Reinforced concrete,Total,Construction,Colombia,Central America,N.W.South America,0.67987,0.6634,0.61498,0.630955,0.56786
 520,2006,Pastaza,Suspension,Deterioration,Wood,Total,Operational,Ecuador,Central America,N.W.South America,0.82411,0.831935,0.73954,0.77952,0.73954
 521,2013,Zamora,Beam,Deterioration,Steel,Total,Operational,Ecuador,Central America,N.W.South America,1.26929,0.891225,0.91786,0.905845,0.90916
@@ -562,7 +562,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 561,1854,California Avenue Overpass,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.08016,0.10009,0.09115,0.094595,0.09115
 562,1864,Valdosta,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.0901,0.056135,0.07896,0.049545,0.06578
 563,1875,Charilaos Trikoupis Bridge,Beam,Fire,Steel,Partial,Operational,Greece,Europe,S.Europe,0.18393,-0.101385,-0.06513,-0.017545,0.0594
-564,1875,M4 Sudáfrica,Beam,Fire,Reinforced concrete,Partial,Operational,South Africa,Africa,S.Eastern Africa,0.05176,0.10773,0.14598,0.138025,0.14598
+564,1875,M4 Sudï¿½frica,Beam,Fire,Reinforced concrete,Partial,Operational,South Africa,Africa,S.Eastern Africa,0.05176,0.10773,0.14598,0.138025,0.14598
 565,1875,Portageville Railroad Bridge,Truss,Fire,Wood,Total,Operational,USA,North America,C.North-America,0.17537,0.05721,0.03612,0.104855,0.03612
 566,1875,New York,Beam,Fire,Wood,Total,Operational,USA,North America,C.North-America,0.17537,0.05721,0.03612,0.104855,0.03612
 567,1881,Autobahn 57,Beam,Fire,Reinforced concrete,Partial,Operational,Germany,Europe,West& Central-Europe ,0.29037,0.179755,0.27712,0.279045,0.28097
@@ -622,7 +622,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 621,1989,Jeffersoncity,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.30332,0.43644,0.56164,0.43644,0.46482
 622,1989,Burbank,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.30332,0.43644,0.56164,0.43644,0.46482
 623,1993,Alexandra Bridge,Arch,Fire,Steel,Partial,Operational,Canada,North America,N.W.North America,0.41507,0.23867,0.57206,0.493565,0.493565
-624,1993,Kapellbrücke,Not defined,Fire,Wood,Partial,Operational,Switzerland,Europe,West& Central-Europe ,0.32179,0.37108,0.39362,0.335165,0.34854
+624,1993,Kapellbrï¿½cke,Not defined,Fire,Wood,Partial,Operational,Switzerland,Europe,West& Central-Europe ,0.32179,0.37108,0.39362,0.335165,0.34854
 625,1993,Birmingham 2004,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.19523,0.177935,0.14128,0.177935,0.14128
 626,1995,Sweetwater,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.49949,0.52246,0.58944,0.567435,0.58944
 627,1999,Highway M1,Beam,Fire,Reinforced concrete,Partial,Operational,United Kingdom,Europe,N.Europe,0.87642,0.890945,0.96751,0.94282,0.87642
@@ -636,7 +636,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 635,2004,Frankenlust township bridge,Arch,Fire,Wood,Partial,Operational,USA,North America,C.North-America,0.83992,0.83122,0.82252,0.82108,0.81964
 636,2004,Brooklyn Bridge ,Suspension,Fire,Steel,Partial,Operational,USA,North America,C.North-America,0.83992,0.83122,0.82252,0.82108,0.81964
 637,2004,Connecticut,Beam,Fire,Not defined,Partial,Operational,USA,North America,C.North-America,0.83992,0.83122,0.82252,0.82108,0.81964
-638,2005,Wiehltalbrücke,Beam,Fire,Steel,Partial,Operational,Germany,Europe,West& Central-Europe ,1.19678,1.27773,1.4646,1.25118,1.39183
+638,2005,Wiehltalbrï¿½cke,Beam,Fire,Steel,Partial,Operational,Germany,Europe,West& Central-Europe ,1.19678,1.27773,1.4646,1.25118,1.39183
 639,2005,Brooklyn Bridge Jul. 13,Suspension,Fire,Steel,Partial,Operational,USA,North America,C.North-America,1.03956,1.021645,1.00373,0.97087,1.00373
 640,2005,California,Arch,Fire,Wood,Partial,Operational,USA,North America,C.North-America,1.03956,1.021645,1.00373,0.97087,1.00373
 641,2006,Franklin (II),Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.795,0.823255,0.82946,0.823255,0.91136
@@ -644,7 +644,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 643,2007,California,Not defined,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.80627,0.83035,0.90131,0.83035,0.8904
 644,2007,California,Not defined,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.80627,0.83035,0.90131,0.83035,0.8904
 645,2009,Washington County,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.96703,0.98269,0.99838,0.98296,0.99835
-646,2010,Kapellbrücke Bridge,Beam,Fire,Wood,Partial,Operational,Switzerland,Europe,West& Central-Europe ,1.29281,1.56831,1.61932,1.49075,1.54513
+646,2010,Kapellbrï¿½cke Bridge,Beam,Fire,Wood,Partial,Operational,Switzerland,Europe,West& Central-Europe ,1.29281,1.56831,1.61932,1.49075,1.54513
 647,2013,Patullo Bridge,Truss,Fire,Wood,Partial,Operational,Canada,North America,N.W.North America,1.69712,1.74947,1.83551,1.67746,1.853095
 648,2013,Dismal Bridge,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,0.94489,1.04729,1.12986,1.090345,1.12986
 649,2013,Queensboro Bridge ,Arch,Fire,Steel,Partial,Operational,USA,North America,C.North-America,0.94489,1.04729,1.12986,1.090345,1.12986
@@ -710,7 +710,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 709,No date,Overpass Cypress/Spring,Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,C.North-America,ER,ER,ER,ER,ER
 710,No date,James Street Swing Bridge,Arch,Fire,Steel,Partial,Operational,Canada,North America,N.W.North America,ER,ER,ER,ER,ER
 711,1979,Rottachtal,Beam,Deterioration,Reinforced concrete,Partial,Construction,Germany,Europe,West& Central-Europe ,-0.01883,0.18345,0.26149,0.136105,0.11345
-712,1976,Reichsbrücke,Beam,Deterioration,Reinforced concrete,Total,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
+712,1976,Reichsbrï¿½cke,Beam,Deterioration,Reinforced concrete,Total,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
 713,1979,Illinois,Beam,Deterioration,Reinforced concrete,Partial,Construction,USA,North America,C.North-America,0.44279,0.40311,0.32108,0.371145,0.28981
 714,1982,Indiana,Not defined,Deterioration,Reinforced concrete,Total,Construction,USA,North America,C.North-America,0.09909,0.10269,0.18449,0.063445,0.09909
 715,1947,Bremen,Not defined,Overloading,Not defined,Total,Operational,Germany,Europe,West& Central-Europe ,-0.05347,-0.065825,0.11378,-0.04279,0.08386
@@ -868,7 +868,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 867,2013,Azuay,Beam,Flood,Wood,Total,Operational,Ecuador,Central America,N.W.South America,1.26929,0.891225,0.91786,0.905845,0.90916
 868,2013,Los Rios,Beam,Flood,Steel,Partial,Operational,Ecuador,South America,N.W.South America,1.26929,0.891225,0.91786,0.905845,0.90916
 869,2013,Napo,Beam,Flood,Steel,Partial,Operational,Ecuador,South America,N.W.South America,1.26929,0.891225,0.91786,0.905845,0.90916
-870,2013,Yar´randa,Not defined,Flood,Not defined,Total,Operational,Nigeria,Africa,W.Africa,1.00159,1.16265,1.21237,1.20749,1.23115
+870,2013,Yarï¿½randa,Not defined,Flood,Not defined,Total,Operational,Nigeria,Africa,W.Africa,1.00159,1.16265,1.21237,1.20749,1.23115
 871,2013,Odo pako,Not defined,Flood,Not defined,Total,Operational,Nigeria,Africa,W.Africa,1.00159,1.16265,1.21237,1.20749,1.23115
 872,2013,Eguho-Ebonyi,Not defined,Flood,Not defined,Partial,Operational,Nigeria,Africa,W.Africa,1.00159,1.16265,1.21237,1.20749,1.23115
 873,2014,Tungurahua,Slab,Flood,Concrete,Total,Operational,Ecuador,South America,N.W.South America,1.15234,0.902745,0.9002,0.902745,0.87358
@@ -914,7 +914,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 913,2024,Shangluo,Beam,Flood,Reinforced concrete,Partial,Operational,China,Asia,E.Asia,1.26279,1.438765,1.32652,1.190775,1.51152
 914,2024,Yakang,Beam,Flood,Reinforced concrete,Total,Operational,China,Asia,E.Asia,1.26279,1.438765,1.32652,1.190775,1.51152
 915,2024,Ponte di Visletto,Arch,Flood,Not defined,Partial,Operational,Switzerland,Europe,West& Central-Europe ,1.98403,1.77337,1.81125,1.679875,1.97761
-916,2024,Phong Châu,Truss,Flood,Steel,Total,Operational,Vietnam,Asia,S.E.Asia,1.08355,1.179085,1.1812,1.1037,1.16011
+916,2024,Phong Chï¿½u,Truss,Flood,Steel,Total,Operational,Vietnam,Asia,S.E.Asia,1.08355,1.179085,1.1812,1.1037,1.16011
 917,No date,no definido,Arch,Flood,Rock,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 918,No date,no definido,Arch,Flood,Rock,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 919,No date,no definido,Arch,Flood,Rock,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
@@ -986,7 +986,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 985,No date,no definido,Beam,Earthquake,Not defined,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 986,No date,no definido,Beam,Earthquake,Not defined,Total,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
 987,1989,California Cypress Freeway Overpass,Beam,Earthquake,Reinforced concrete,Total,Operational,USA,North America,N.Central America,0.30332,0.43644,0.56164,0.43644,0.46482
-988,1963,San Francisco–Oakland Bay Bridge,Truss,Earthquake,Steel,Partial,Operational,USA,North America,N.Central America,-0.05792,0.03327,0.07929,0.13228,0.05434
+988,1963,San Franciscoï¿½Oakland Bay Bridge,Truss,Earthquake,Steel,Partial,Operational,USA,North America,N.Central America,-0.05792,0.03327,0.07929,0.13228,0.05434
 989,1989,California,Truss,Earthquake,Steel,Partial,Operational,USA,North America,N.Central America,0.30332,0.43644,0.56164,0.43644,0.46482
 990,1994,California,Beam,Earthquake,Reinforced concrete,Partial,Operational,USA,North America,N.Central America,0.08687,0.41407,0.41279,0.379445,0.35403
 991,1980,California,Beam,Earthquake,Reinforced concrete,Partial,Operational,USA,North America,N.Central America,0.13303,0.190515,0.18978,0.18532,0.18086
@@ -1017,7 +1017,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1016,2011,Baihe,Not defined,Overloading,Not defined,Total,Operational,China,Asia,E.Asia,0.57581,0.72937,0.78311,0.728325,0.758185
 1017,2012,Yangmingtan,Suspension,Overloading,Reinforced concrete,Partial,Operational,China,Asia,E.Asia,0.6196,0.77213,0.78319,0.617615,0.77213
 1018,2019,Route 312,Beam,Overloading,Reinforced concrete,Partial,Operational,China,Asia,E.Asia,1.17643,1.16541,1.19474,0.911595,1.13847
-1019,1991,Xi´an,Not defined,Overloading,Not defined,Total,Operational,China,Asia,E.Asia,-0.07935,0.2193,0.24713,0.211745,0.211745
+1019,1991,Xiï¿½an,Not defined,Overloading,Not defined,Total,Operational,China,Asia,E.Asia,-0.07935,0.2193,0.24713,0.211745,0.211745
 1020,2004,Tianzhuangtai,Not defined,Overloading,Not defined,Partial,Operational,China,Asia,E.Asia,0.17656,0.530775,0.42931,0.530775,0.643555
 1021,2007,Yuncun,Not defined,Overloading,Not defined,Total,Operational,China,Asia,E.Asia,0.7542,0.74042,0.73826,0.74042,0.733715
 1022,1996,Rio Sevilla,Not defined,Overloading,Steel,Total,Operational,Colombia,South America,N.W.South America,0.67987,0.6634,0.61498,0.630955,0.56786
@@ -1029,7 +1029,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1028,2009,Los Rios,Beam,Overloading,Wood,Total,Operational,Ecuador,South America,N.W.South America,1.26101,0.870905,0.84682,0.93909,0.82792
 1029,2010,Zamora,Suspension,Overloading,Wood,Partial,Operational,Ecuador,South America,N.W.South America,0.99277,0.991395,0.99002,0.993035,0.98292
 1030,2013,Zamora,Beam,Overloading,Steel,Total,Operational,Ecuador,South America,N.W.South America,1.26929,0.891225,0.91786,0.905845,0.90916
-1031,2015,Cañar,Suspension,Overloading,Steel,Total,Operational,Ecuador,South America,N.W.South America,1.16181,1.17446,1.14392,1.226385,1.20474
+1031,2015,Caï¿½ar,Suspension,Overloading,Steel,Total,Operational,Ecuador,South America,N.W.South America,1.16181,1.17446,1.14392,1.226385,1.20474
 1032,2017,Manabi,Suspension,Overloading,Wood,Partial,Operational,Ecuador,South America,N.W.South America,1.2477,1.04087,1.29801,1.131355,1.10789
 1033,2017,Pichincha,Beam,Overloading,Steel,Partial,Operational,Ecuador,South America,N.W.South America,1.2477,1.04087,1.29801,1.131355,1.10789
 1034,2017,Guayas,Truss,Overloading,Steel,Partial,Operational,Ecuador,South America,N.W.South America,1.2477,1.04087,1.29801,1.131355,1.10789
@@ -1090,7 +1090,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1089,1977,Pushkino,Beam,Overloading,Not defined,Total,Operational,Russia,Europe,E.Europe ,-0.48545,-0.042085,0.57027,-0.055355,0.4613
 1090,2022,Ov?ar Banja,Suspension,Overloading,Not defined,Total,Operational,Serbia,Europe,E.Europe ,1.90855,2.072295,2.34447,1.886325,2.13919
 1091,1968,Titograd,Suspension,Overloading,Not defined,Total,Operational,Serbia,Europe,S.Europe,-0.12948,-0.0674,-0.02812,-0.03775,-0.04738
-1092,1891,Münchenstein,Truss,Overloading,Steel,Total,Operational,Switzerland,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
+1092,1891,Mï¿½nchenstein,Truss,Overloading,Steel,Total,Operational,Switzerland,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
 1093,1852,Peney,Suspension,Overloading,Not defined,Total,Construction,Switzerland,Europe,West& Central-Europe ,-0.01141,0.3207,0.17678,0.333125,0.17678
 1094,No date,no definido,Beam,Overloading,Steel,Partial,Operational,Turkye,Europe  ,West& Central-Europe ,ER,ER,ER,ER,ER
 1095,No date,no definido,Beam,Overloading,Steel,Partial,Operational,Turkye,Europe  ,E.Europe ,ER,ER,ER,ER,ER
@@ -1167,7 +1167,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1166,2021,Napo,Beam,Design error,Steel,Partial,Operational,Ecuador,South America,N.W.South America,1.37848,1.30474,1.20239,1.263535,1.20389
 1167,2022,Azuay,Beam,Design error,Concrete,Total,Operational,Ecuador,South America,N.W.South America,1.36579,1.260275,1.32675,1.261255,1.23259
 1168,2022,Guayas,Truss,Design error,Concrete,Partial,Operational,Ecuador,South America,N.W.South America,1.36579,1.260275,1.32675,1.261255,1.23259
-1169,1850,Basse-Chaîne Bridge,Suspension,Design error,Steel,Total,Operational,France,Europe,West& Central-Europe ,-0.54792,-0.052655,0.1396,0.051,0.1396
+1169,1850,Basse-Chaï¿½ne Bridge,Suspension,Design error,Steel,Total,Operational,France,Europe,West& Central-Europe ,-0.54792,-0.052655,0.1396,0.051,0.1396
 1170,1852,Roche-Bernard,Suspension,Design error,Steel,Total,Operational,France,Europe,West& Central-Europe ,-0.01141,0.3207,0.17678,0.333125,0.17678
 1171,2015,Plaka,Arch,Design error,Rock,Total,Operational,Greece,Europe,S.Europe,1.08168,1.250195,1.23876,1.22146,1.18534
 1172,2017,Kompsatos,Beam,Design error,Reinforced concrete,Partial,Operational,Greece,Europe,S.Europe,1.07316,1.21317,1.32165,1.33182,1.30993
@@ -1193,17 +1193,17 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1192,1926,Milcov,Arch,Design error,Reinforced concrete,Partial,Operational,Rumania,Europe,E.Europe ,0.74471,-0.03586,-0.09049,-0.00644,-0.09049
 1193,1882,Osijeg,Truss,Design error,Not defined,Partial,Operational,Serbia,Europe,West& Central-Europe ,-0.27927,-0.256525,-0.03715,0.07963,-0.00085
 1194,1987,Wassen,Beam,Design error,Reinforced concrete,Partial,Operational,Switzerland,Europe,West& Central-Europe ,0.07625,0.10586,0.13547,0.10586,0.13547
-1195,1974,Münchenstein Bridge,Truss,Design error,Steel,Partial,Operational,Switzerland,Europe,West& Central-Europe ,-0.25991,-0.054805,0.01564,-0.1508,0.05665
+1195,1974,Mï¿½nchenstein Bridge,Truss,Design error,Steel,Partial,Operational,Switzerland,Europe,West& Central-Europe ,-0.25991,-0.054805,0.01564,-0.1508,0.05665
 1196,1987,Haderslis Bridge,Arch,Design error,Reinforced concrete,Total,Operational,Switzerland,Europe,West& Central-Europe ,0.07625,0.10586,0.13547,0.10586,0.13547
 1197,2011,Carrabassett River Bridge,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,0.9702,0.92231,0.94214,0.934685,0.94214
-1198,2017,Puente Río Abajo,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
+1198,2017,Puente Rï¿½o Abajo,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
 1199,1923,Allen Street Bridge (Old),Suspension,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.05283,0.03346,0.05283,-0.01867,0.00921
 1200,1933,Don Patricio Causeway,Beam,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.14796,0.157,0.19857,0.18986,0.17016
 1201,1945,Allenville Covered Bridge,Beam,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.171,0.257445,0.2302,0.18414,0.27712
 1202,1957,Waterworks Covered Bridge,Arch,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.08313,0.12329,0.16345,0.027975,0.05915
 1203,1999,Bell Ford Covered Bridge,Beam,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.47822,0.620025,0.69233,0.67949,0.66665
 1204,2011,Blenheim Bridge,Arch,Design error,Wood,Total,Operational,USA,North America,N.Central America,0.9702,0.92231,0.94214,0.934685,0.94214
-1205,2017,Puente Río Grande de Manatí,Beam,Design error,Wood,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
+1205,2017,Puente Rï¿½o Grande de Manatï¿½,Beam,Design error,Wood,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
 1206,1938,Panther Creek Bridge,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,0.28162,0.130215,0.16859,0.14903,0.12947
 1207,1989,Hatchie River Bridge,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,0.30332,0.43644,0.56164,0.43644,0.46482
 1208,2016,Highway 13 bridge,Beam,Design error,Reinforced concrete,Total,Operational,USA,North America,N.Central America,1.13035,1.17316,1.20663,0.9813,1.19312
@@ -1229,7 +1229,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1228,2013,Big Bureau Creek Bridge,Truss,Design error,Steel,Total,Operational,USA,North America,N.Central America,0.94489,1.04729,1.12986,1.090345,1.12986
 1229,2017,Millville Road Bridge,Arch,Design error,Steel,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
 1230,2018,New Hope Through Truss Bridge,Arch,Design error,Steel,Total,Operational,USA,North America,N.Central America,1.27376,1.17971,1.25355,1.208535,1.3041
-1231,1854,Wheeling Bridge,Suspension,Design error,Steel,Total,Operational,USA,North America,N.Central America,0.08016,0.10009,0.09115,0.094595,0.09115
+1231,1854,Wheelingï¿½Bridge,Suspension,Design error,Steel,Total,Operational,USA,North America,N.Central America,0.08016,0.10009,0.09115,0.094595,0.09115
 1232,2017,Bartonsville Covered Bridge,Arch,Design error,Wood,Total,Operational,USA,North America,N.Central America,1.12047,1.179495,1.16717,1.163,1.28349
 1233,1912,Lacey V. Murrow Memorial Bridge,Beam,Design error,Reinforced concrete,Partial,Operational,USA,North America,N.Central America,-0.02115,-0.02309,-0.0757,-0.160685,-0.14609
 1234,1926,Rockaway River Bridge,Beam,Design error,Reinforced concrete,Partial,Operational,USA,North America,N.Central America,0.01572,0.0473,0.04793,0.041895,0.04793
@@ -1295,7 +1295,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1294,2022,Antonivka Road,Beam,Terrorism,Reinforced concrete,Partial,Operational,Ukraine,Europe,E.Europe ,1.90855,2.072295,2.34447,1.886325,2.13919
 1295,2022,Siverskyi Donets ,Beam,Terrorism,Reinforced concrete,Total,Operational,Ukraine,Europe,E.Europe ,1.90855,2.072295,2.34447,1.886325,2.13919
 1296,2009, Larivot,Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Guyana Francesa,South America,S.Pacific-Ocean,0.96703,0.99835,0.99838,0.98296,0.99835
-1297,2020,Cuisalá,Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Nicaragua,South America,N.Central America,1.73886,1.195095,1.37406,1.27553,1.4483
+1297,2020,Cuisalï¿½,Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Nicaragua,South America,N.Central America,1.73886,1.195095,1.37406,1.27553,1.4483
 1298,2024, El Hubuto,Beam,Flood,Reinforced concrete,Partial,Operational,Nicaragua,South America,N.Central America,1.51785,1.452825,1.39924,1.311425,1.55148
 1299,1998,Choluteca,Beam,Flood,Reinforced concrete,Total,Operational,Honduras,South America,N.Central America,0.51961,0.61272,0.62289,0.60807,0.62289
 1300,2020,Ulua ,Beam,Flood,Reinforced concrete,Total,Operational,Honduras,South America,N.Central America,1.73886,1.195095,1.37406,1.27553,1.4483
@@ -1314,13 +1314,13 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1313,2021,Tacuati,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Paraguay,South America,S.Pacific-Ocean,1.38443,1.34863,1.40299,1.13418,1.22964
 1314,2024, Bailey,Beam,Construction deficiencies,Steel,Total,Operational,Uruguay,South America,S.South America,0.90099,1.00268,1.00047,0.93406,0.97666
 1315,1986,Kegum,Beam,Design error,Reinforced concrete,Total,Operational,Latvia,Europe,N.Europe,0.65362,0.74299,0.86152,0.78288,0.83236
-1316,2023,Kamništa Bistrica,Beam,Flood,Reinforced concrete,Partial,Operational,Slovenia,Europe,S.Europe,1.49184,1.49121,1.52791,1.426955,1.5308
+1316,2023,Kamniï¿½ta Bistrica,Beam,Flood,Reinforced concrete,Partial,Operational,Slovenia,Europe,S.Europe,1.49184,1.49121,1.52791,1.426955,1.5308
 1317,2010,Niko Strugar,Beam,Flood,Reinforced concrete,Partial,Operational,Montenegro,Europe,S.Europe,1.30374,1.3268,1.34986,1.3268,1.30374
 1318,2010,Marsenic bridge,Beam,Flood,Reinforced concrete,Partial,Operational,Montenegro,Europe,S.Europe,1.30374,1.3268,1.34986,1.3268,1.30374
 1319,2010,Seoca bridge,Beam,Flood,Reinforced concrete,Partial,Operational,Montenegro,Europe,S.Europe,1.30374,1.3268,1.34986,1.3268,1.30374
 1320,2022,Zogu bridge,Arch,Flood,Reinforced concrete,Partial,Operational,Albania,Europe,S.Europe,1.60335,1.40914,1.78445,1.61952,1.4907
 1321,2022,Mavrova and Rostusha,Beam,Flood,Reinforced concrete,Partial,Operational,Macedonia,Europe,S.Europe,1.60335,1.40914,1.78445,1.61952,1.4907
-1322,2015,Borgarfjörður,Beam,Flood,Reinforced concrete,Total,Operational,Iceland,Europe,N.Europe,1.66555,1.35205,1.63941,1.659195,1.60491
+1322,2015,Borgarfjï¿½rï¿½ur,Beam,Flood,Reinforced concrete,Total,Operational,Iceland,Europe,N.Europe,1.66555,1.35205,1.63941,1.659195,1.60491
 1323,2022,Zatoka bridge,Beam,Terrorism,Reinforced concrete,Partial,Operational,Ukraine,Europe,E.Europe ,1.90855,2.072295,2.34447,1.886325,2.13919
 1324,2022,Rail bridge,Truss,Terrorism,Composite,Partial,Operational,Ukraine,Europe,E.Europe ,1.90855,2.072295,2.34447,1.886325,2.13919
 1325,2024, Lovua,Truss,Overloading,Composite,Partial,Operational,Republica Democratica del Congo,Africa,C.Africa,1.50836,1.46678,1.51825,1.04377,1.43378
@@ -1332,16 +1332,16 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1331,2008,Bridge at Kalapara in Patuakhali district,Beam,Flood,Reinforced concrete,Total,Operational,Bangladesh,Asia,S.Asia,0.56101,0.582965,0.58256,0.570875,0.58256
 1332,1964,Showa Bridge,Beam,Earthquake,Steel,Total,Operational,Japon,Asia,E.Asia,-0.19202,-0.03426,0.00939,-0.012265,-0.03426
 1333,1936,Akashi Kaikyo Bridge,Suspension,Earthquake,Steel,Total,Operational,Japon,Asia,E.Asia,0.11614,0.101735,0.06377,0.08177,0.07555
-1334,1982,Rheinbrücke near Höchst/ Vorarlberg (Rhine River),Beam,Design error,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.10192,0.137375,0.10798,0.06834,0.10798
+1334,1982,Rheinbrï¿½cke near Hï¿½chst/ Vorarlberg (Rhine River),Beam,Design error,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.10192,0.137375,0.10798,0.06834,0.10798
 1335,1982,2-span truss bridge between Linz and Selzthal (Traun River),Truss,Flood,Steel,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.10192,0.137375,0.10798,0.06834,0.10798
 1336,1990,5-span box girder Motorway bridge near Kufstein (Inn River),Beam,Flood,Reinforced concrete,Total,Operational,Austria,Europe,West& Central-Europe ,0.3049,0.70698,0.49412,0.70698,0.63243
 1337,1995,Bridge in Braz/ Vorarlberg,Truss,Flood,Composite,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.22693,0.222965,0.35001,0.374855,0.35001
-1338,1976,Reichsbrücke over Danube River/ Vienna,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
-1339,1975,Prestressed concrete bridge Gmünd,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.44352,-0.363185,-0.32578,-0.43495,-0.32578
+1338,1976,Reichsbrï¿½cke over Danube River/ Vienna,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.16056,-0.008145,0.0132,-0.07913,-0.02949
+1339,1975,Prestressed concrete bridge Gmï¿½nd,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.44352,-0.363185,-0.32578,-0.43495,-0.32578
 1340,1970,Soboth,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.79116,-0.251375,-0.44234,-0.06924,-0.07807
 1341,1969,Fourth Danube,Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,-0.19728,-0.11384,0.04486,-0.02701,-0.02362
 1342,1959,Motorway bridge,Beam,Flood,Reinforced concrete,Partial,Operational,Austria,Europe,West& Central-Europe ,0.04337,0.301025,0.36324,0.1896,0.27225
-1343,1891,Bergbrücke,Truss,Construction deficiencies,Steel,Total,Operational,Austria,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
+1343,1891,Bergbrï¿½cke,Truss,Construction deficiencies,Steel,Total,Operational,Austria,Europe,West& Central-Europe ,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635
 1344,1886, Salzburg-Tiroler Bah near Hopfengarten,Truss,Flood,Steel,Total,Operational,Austria,Europe,West& Central-Europe ,-0.10544,-0.21955,-0.30223,-0.11992,-0.13687
 1345,2001, Castelo de Paiva and Penafiel,Truss,Flood,Steel,Partial,Operational,Portugal,Europe,West& Central-Europe ,0.77374,0.882675,0.94393,0.89831,0.94393
 1346,2018,The A1-A14 highway overpass in Bologna,Beam,Fire,Reinforced concrete,Partial,Operational,Italy,Europe,S.Europe,1.1134,1.3816,1.31495,1.13993,1.35073
@@ -1404,7 +1404,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1403,2015,Zaham,Beam,Terrorism,Reinforced concrete,Partial,Out of service,Yemen,Asia,West Asia ,1.01493,1.62501,1.57548,1.780485,1.521
 1404,2022,no definido,Beam,Flood,Reinforced concrete,Total,Out of service,Oman,Asia,West Asia ,1.67402,1.71746,1.90001,1.42777,1.68157
 1405,2024,Tajar,Beam,Flood,Reinforced concrete,Partial,Out of service,Kazakhstan,Asia,E.C.Asia,1.63794,1.942085,1.97745,0.41026,1.9336
-1406,2015,Youth Lake,Cable-stayed,Overloading,Composite ,Partial,Out of service,Uzbekistan,Asia,E.C.Asia,1.43234,1.62501,1.57548,0.2428,1.521
+1406,2015,Youth Lake,Cable-stayed,Overloading,Composite,Partial,Out of service,Uzbekistan,Asia,E.C.Asia,1.43234,1.62501,1.57548,0.2428,1.521
 1407,2023,Mubarak,Beam,Overloading,Reinforced concrete,Total,Out of service,Uzbekistan,Asia,E.C.Asia,1.56771,1.76885,1.68791,0.47932,1.74666
 1408,2024,Oqbuyra,Not defined,Flood,Not defined,Total,Out of service,Uzbekistan,Asia,E.C.Asia,1.63794,1.942085,1.97745,0.41026,1.9336
 1409,2025,Bishkek-Issyk-Ata-Kant,Beam,Overloading,Reinforced concrete,Partial,Out of service,Kyrgyzstan,Asia,E.C.Asia,2.24613,1.95889,1.87199,0.56093,1.91278
@@ -1428,46 +1428,46 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1427,2004,Kratie,Beam,Overloading,Reinforced concrete,Total,Operational,Cambodia,Asia,S.E.Asia,0.77149,0.7739,0.77631,0.7739,0.77631
 1428,2004,Ramu,Truss,Construction deficiencies,Steel,Total,Operational,Papua New Guinea,Asia,S.Pcific-Ocean,0.51104,0.51704,0.51909,0.557895,0.51909
 1429,2005,Mekong river,Beam,Collision events,Reinforced concrete,Partial,Construction,Thailand,Asia,S.E.Asia,0.85563,0.71571,0.70391,0.78238,0.70391
-1430,1970,Rheinbrücke Schaan–Buchs,Beam,Design error,Steel,Total,Operational,Liechtenstein,Europe,W.Africa,0.32574,0.350655,0.33575,0.33291,0.33007
-1431,2014,Puente provisional sobre vías de Bettembourg,Truss,Design error,Steel,Total,Operational,Luxembourg,Europe,W.Africa,1.20418,1.109595,1.11847,1.1247,1.10072
-1432,2022,Puente en río Linthipe (Lirangwe),Beam,Flood,Reinforced concrete,Total,Out of service,Malawi,Africa,S.Europe,1.60335,1.40914,1.78445,1.61952,1.4907
+1430,1970,Rheinbrï¿½cke Schaanï¿½Buchs,Beam,Design error,Steel,Total,Operational,Liechtenstein,Europe,W.Africa,0.32574,0.350655,0.33575,0.33291,0.33007
+1431,2014,Puente provisional sobre vï¿½as de Bettembourg,Truss,Design error,Steel,Total,Operational,Luxembourg,Europe,W.Africa,1.20418,1.109595,1.11847,1.1247,1.10072
+1432,2022,Puente en rï¿½o Linthipe (Lirangwe),Beam,Flood,Reinforced concrete,Total,Out of service,Malawi,Africa,S.Europe,1.60335,1.40914,1.78445,1.61952,1.4907
 1433,2024,Puente Mchesi (Lilongwe suburbio),Beam,Deterioration,Reinforced concrete,Total,Out of service,Malawi,Africa,S.Eastern Africa,1.33595,1.43295,1.52473,1.290915,1.36572
-1434,2024,Puente Kyungu (Karonga–Songwe Rd.),Beam,Flood,Reinforced concrete,Total,Operational,Malawi,Africa,S.Eastern Africa,1.33595,1.43295,1.52473,1.290915,1.36572
-1435,2024,Puente Nankhumwa (ciclón Freddy),Beam,Ciclon,Reinforced concrete,Total,Construction,Malawi,Africa,S.Eastern Africa,1.33595,1.43295,1.52473,1.290915,1.36572
-1436,2024,Puente sobre río Bagoe (Kenieba),Beam,Collision events,Steel,Partial,Operational,Mali,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
+1434,2024,Puente Kyungu (Karongaï¿½Songwe Rd.),Beam,Flood,Reinforced concrete,Total,Operational,Malawi,Africa,S.Eastern Africa,1.33595,1.43295,1.52473,1.290915,1.36572
+1435,2024,Puente Nankhumwa (ciclï¿½n Freddy),Beam,Ciclon,Reinforced concrete,Total,Construction,Malawi,Africa,S.Eastern Africa,1.33595,1.43295,1.52473,1.290915,1.36572
+1436,2024,Puente sobre rï¿½o Bagoe (Kenieba),Beam,Collision events,Steel,Partial,Operational,Mali,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
 1437,2024,Puente ferroviario de Kassaro,Beam,Design error,Reinforced concrete,Total,Construction,Mali,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
 1438,1941,St?Elmo Bridge,Suspension,Terrorism,Steel,Total,Out of service,Malta,Europe,S.Europe,0.17946,0.147375,0.17946,0.16994,0.17946
-1439,2025,Mallet Bridge (Poudre-d’Or),Truss,Deterioration,Rock,Partial,Construction,Mauritius,Africa,S.Eastern Africa,1.4697,1.517035,1.23152,1.369955,1.60229
+1439,2025,Mallet Bridge (Poudre-dï¿½Or),Truss,Deterioration,Rock,Partial,Construction,Mauritius,Africa,S.Eastern Africa,1.4697,1.517035,1.23152,1.369955,1.60229
 1440,2025,Tranquebar Bridge (Bru. Giquelle Street),Beam,Overloading,Steel,Total,Out of service,Mauritius,Africa,S.Eastern Africa,1.4697,1.517035,1.23152,1.369955,1.60229
-1441,2025,Puente sobre río Aonab (B1/ Rehoboth),Beam,Flood,Reinforced concrete,Total,Construction,Namibia,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
-1442,2019,Cantiléver de fosfato,Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,small islands,S.Pcific-Ocean,0.73725,0.748915,0.80114,0.82623,0.83418
-1443,2018,Puente Malanville (Benín–Níger),Beam,Flood,Steel,Partial,Construction,Niger,Africa,W.Africa,1.04774,1.30665,1.16919,1.340965,1.14561
+1441,2025,Puente sobre rï¿½o Aonab (B1/ Rehoboth),Beam,Flood,Reinforced concrete,Total,Construction,Namibia,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
+1442,2019,Cantilï¿½ver de fosfato,Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,small islands,S.Pcific-Ocean,0.73725,0.748915,0.80114,0.82623,0.83418
+1443,2018,Puente Malanville (Benï¿½nï¿½Nï¿½ger),Beam,Flood,Steel,Partial,Construction,Niger,Africa,W.Africa,1.04774,1.30665,1.16919,1.340965,1.14561
 1444,2024,Puente en Mossi?Paga (Sud?Oeste),Beam,Terrorism,Steel,Total,Out of service,Niger,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
 1445,2025,Puente en Mokwa (Niger State/ Nigeria)*,Beam,Flood,Reinforced concrete,Total,Construction,Nigeria,Africa,W.Africa,1.57352,1.52396,1.32506,1.351885,1.60314
 1446,2013,Puente Saye?Voir (Bangui),Beam,Flood,Reinforced concrete,Total,Operational,Central African Republic,Africa,C.Africa,1.05783,1.009605,1.01711,0.835015,1.05424
-1447,2016,Puente de Sapéké (Bangui/ provisional),Beam,Flood,Prestressed concrete,Total,Operational,Central African Republic,Africa,C.Africa,1.0712,1.127325,1.03334,0.87143,1.13492
+1447,2016,Puente de Sapï¿½kï¿½ (Bangui/ provisional),Beam,Flood,Prestressed concrete,Total,Operational,Central African Republic,Africa,C.Africa,1.0712,1.127325,1.03334,0.87143,1.13492
 1448,2024,Puente de Mann (cerca de Bocaranga),Beam,Deterioration,Not defined,Total,Out of service,Central African Republic,Africa,C.Africa,1.50836,1.46678,1.51825,1.04377,1.43378
 1449,2022,Pasarela peatonal en Mont?Ngafula/ Kinshasa,Beam,Construction deficiencies,Steel,Partial,Construction,Republic of the Congo,Africa,C.Africa,1.27963,1.196075,1.19122,1.09067,1.23522
 1450,2020,Acera/barranco de La Corniche/ Brazzaville,Truss,Flood,Reinforced concrete,Partial,Construction,Republic of the Congo,Africa,C.Africa,1.62795,1.42139,1.00786,0.956225,1.23755
 1451,2024,Puente sobre arroyo Blanco (Espaillat),Beam,Flood,Reinforced concrete,Total,Out of service,Dominican Republic,North America,Caribbean,2.58803,1.15496,1.20863,1.04377,1.13041
 1452,2025,Speed bump bridge/ Bayacanes (La Vega),Beam,Flood,Reinforced concrete,Total,Out of service,Dominican Republic,North America,Caribbean,2.75266,1.233155,1.12086,1.15823,1.21809
-1453,no date,Puente Dajabón–Juana Méndez (frontera Haití–RD),Beam,Deterioration,Composite ,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
-1454,No date,Puente Francisco Sánchez (Puente de la 17),Truss,Construction deficiencies,Composite ,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
-1455,2023,Puente Gahira (Rongi–Ruli/ Nyabarongo),Beam,Flood,Reinforced concrete,Total,Construction,Rwanda,Africa,S.Eastern Africa,1.31786,1.297425,1.31747,1.34464,1.34694
-1456,2004,Puente Cascade (Mahé),Truss,Flood,Composite ,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.30105,0.9437,0.91107,0.954695,0.91107
-1457,2010,Puente Anse?Aux?Pins,Beam,Deterioration,Composite ,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.07488,0.921685,0.87774,0.921685,0.87774
-1458,2013,Varios puentes/ Farquhar,Beam,Ciclon,Composite ,Total,Operational,Seychelles,small islands,S.Eastern Africa,1.2221,0.926005,0.96388,0.947865,0.96388
-1459,2024,Mahelayhun Bridge (Kamakwie),Beam,Overloading,Composite ,Total,Construction,Sierra Lona,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
-1460,2004,Nicoll Highway Viaduct,Truss,Design error,Composite ,Total,Operational,Singapore,Asia,S.E.Asia,0.77149,0.7739,0.77631,0.7739,0.77631
-1461,2019,Puente en Yozgand (Sangvor),Beam,Flood,Composite ,Total,Out of service,Tajikistan,Asia,E.C.Asia,1.68875,1.584225,1.69901,0.39205,1.79845
-1462,2022,Puente en Ak?Suu (Kok?Tash?Ak?Sai road),Beam,Construction deficiencies,Composite ,Total,Out of service,Tajikistan,Asia,E.C.Asia,1.59803,1.71746,1.90001,0.5417,1.68157
-1463,2024,Peatonal Agoè–Zongo (Lomé),Beam,Collision events,Composite ,Total,Out of service,Togo,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
-1464,2025,Eua land bridge (‘Ohonua–Ta’anga),Beam,Flood,Not defined,Partial,Out of service,Tonga,Small islands,S.Pcific-Ocean,0.84015,0.87943,0.89744,0.92006,0.9183
-1465,2024,St John’s Branch Trace (Fyzabad),Beam,Flood,Composite ,Total,Out of service,Trinidad and Tobago,Small islands,Caribbean,2.58803,1.15496,1.20863,1.04377,1.13041
-1466,2024,Factory Road Bridge (Chaguanas),Beam,Deterioration,Composite ,Partial,Out of service,Trinidad and Tobago,Small islands,Caribbean,2.58803,1.15496,1.20863,1.04377,1.13041
-1467,2018,Puente sobre Oued El Hogueff (Kasserine),Beam,Flood,Composite ,Partial,Construction,Tunez ,Africa,Sahara,1.30609,1.48244,1.5055,1.64371,1.6556
-1468,2002,Teouma Bridge (Efate/ Port Vila)** (original),Beam,Earthquake,Composite ,Total,Operational,Vanuatu,Small islands,S.Pcific-Ocean,0.58318,0.554735,0.55856,0.581415,0.55856
-1469,2024,Tagabe / Blacksand Bridges (Port Vila/ Efate),Beam,Earthquake,Composite ,Partial,Out of service,Vanuatu,Small islands,S.Pcific-Ocean,0.84596,0.892235,0.86303,0.865645,0.88898
+1453,no date,Puente Dajabï¿½nï¿½Juana Mï¿½ndez (frontera Haitï¿½RD),Beam,Deterioration,Composite,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
+1454,No date,Puente Francisco Sï¿½nchez (Puente de la 17),Truss,Construction deficiencies,Composite,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
+1455,2023,Puente Gahira (Rongiï¿½Ruli/ Nyabarongo),Beam,Flood,Reinforced concrete,Total,Construction,Rwanda,Africa,S.Eastern Africa,1.31786,1.297425,1.31747,1.34464,1.34694
+1456,2004,Puente Cascade (Mahï¿½),Truss,Flood,Composite,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.30105,0.9437,0.91107,0.954695,0.91107
+1457,2010,Puente Anse?Aux?Pins,Beam,Deterioration,Composite,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.07488,0.921685,0.87774,0.921685,0.87774
+1458,2013,Varios puentes/ Farquhar,Beam,Ciclon,Composite,Total,Operational,Seychelles,small islands,S.Eastern Africa,1.2221,0.926005,0.96388,0.947865,0.96388
+1459,2024,Mahelayhun Bridge (Kamakwie),Beam,Overloading,Composite,Total,Construction,Sierra Lona,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
+1460,2004,Nicoll Highway Viaduct,Truss,Design error,Composite,Total,Operational,Singapore,Asia,S.E.Asia,0.77149,0.7739,0.77631,0.7739,0.77631
+1461,2019,Puente en Yozgand (Sangvor),Beam,Flood,Composite,Total,Out of service,Tajikistan,Asia,E.C.Asia,1.68875,1.584225,1.69901,0.39205,1.79845
+1462,2022,Puente en Ak?Suu (Kok?Tash?Ak?Sai road),Beam,Construction deficiencies,Composite,Total,Out of service,Tajikistan,Asia,E.C.Asia,1.59803,1.71746,1.90001,0.5417,1.68157
+1463,2024,Peatonal Agoï¿½Zongo (Lomï¿½),Beam,Collision events,Composite,Total,Out of service,Togo,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
+1464,2025,Eua land bridge (ï¿½Ohonuaï¿½Taï¿½anga),Beam,Flood,Not defined,Partial,Out of service,Tonga,Small islands,S.Pcific-Ocean,0.84015,0.87943,0.89744,0.92006,0.9183
+1465,2024,St Johnï¿½s Branch Trace (Fyzabad),Beam,Flood,Composite,Total,Out of service,Trinidad and Tobago,Small islands,Caribbean,2.58803,1.15496,1.20863,1.04377,1.13041
+1466,2024,Factory Road Bridge (Chaguanas),Beam,Deterioration,Composite,Partial,Out of service,Trinidad and Tobago,Small islands,Caribbean,2.58803,1.15496,1.20863,1.04377,1.13041
+1467,2018,Puente sobre Oued El Hogueff (Kasserine),Beam,Flood,Composite,Partial,Construction,Tunez ,Africa,Sahara,1.30609,1.48244,1.5055,1.64371,1.6556
+1468,2002,Teouma Bridge (Efate/ Port Vila)** (original),Beam,Earthquake,Composite,Total,Operational,Vanuatu,Small islands,S.Pcific-Ocean,0.58318,0.554735,0.55856,0.581415,0.55856
+1469,2024,Tagabe / Blacksand Bridges (Port Vila/ Efate),Beam,Earthquake,Composite,Partial,Out of service,Vanuatu,Small islands,S.Pcific-Ocean,0.84596,0.892235,0.86303,0.865645,0.88898
 1470,2025,Sesame Bridge (Gokwe South),Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
 1471,2025,Majazi Bridge (Bulilima District),Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
 1472,2025,Chilonga Bridge (Chiredzi South),Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
@@ -1484,7 +1484,7 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1483,2018,Temburong Bridge,Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Brunei,Asia,S.E.Asia,1.03846,0.92643,1.0123,0.959065,0.94507
 1484,2016,Nzi River Railway Bridge ,Truss,Collision events,Iron,Partial,Operational,Burkina,Africa,W.Africa,0.99857,1.184435,1.11846,1.165575,1.30125
 1485,2021,Kirasa River Bridge,Beam,Flood,Reinforced concrete,Total,Operational,Burundi,Africa,West Asia ,2.01204,1.653555,1.63459,1.73134,1.8474
-1486,2012,Ribeira d’Água Bridge,Beam,Flood,Reinforced concrete,Total,Operational,Cabo Verde,Africa,W.Africa,1.15512,1.147855,1.11463,1.10441,1.13491
+1486,2012,Ribeira dï¿½ï¿½gua Bridge,Beam,Flood,Reinforced concrete,Total,Operational,Cabo Verde,Africa,W.Africa,1.15512,1.147855,1.11463,1.10441,1.13491
 1487,2013,Lusali,Truss,Overloading,Steel,Partial,Construction,Qatar,Asia,West Asia ,1.26306,1.27813,1.42,1.220175,1.42
 1488,2000,Bragoto River ,Beam,Flood,Rock,Total,Operational,Chad,Africa,C.Africa,0.91179,0.794375,0.75201,0.61651,0.75201
 1489,2025,Cheonan,Beam,No definido,Reinforced concrete,Total ,Construction,Corea del sur,Asia,E.Asia,1.51286,1.42379,1.3006,1.14071,1.387645
@@ -1521,9 +1521,9 @@ N°,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP1-
 1520,2021,Capulispamba,Truss,Flood,Steel,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"137,848","130,474","120,239","1,263,535","120,389"
 1521,2013,Rio Jamboe,Not defined,Flood,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"126,929",0.891225,0.91786,0.905845,0.90916
 1522,2025,Panguintza,Truss,Flood,Steel,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
-1523,2025,Asazán,Not defined,Flood,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
+1523,2025,Asazï¿½n,Not defined,Flood,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
 1524,2021,Ventana 2,Beam,Flood,Steel,Partial,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"137,848","130,474","120,239","1,263,535","120,389"
-1525,2006,Atacames-Súa,Not defined,Deterioration,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,0.82411,0.831935,0.73954,0.77952,0.73954
+1525,2006,Atacames-Sï¿½a,Not defined,Deterioration,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,0.82411,0.831935,0.73954,0.77952,0.73954
 1526,2023,Rio de union,Truss,Flood,Steel,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"150,814","134,482","134,482","1,390,525","127,517"
 1527,2017,La Estancilla,Cable-stayed,Overloading,Steel,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"12,477","104,087","129,801","1,131,355","110,789"
 1528,2025,Maria Luisa,Not defined,Flood,Not defined,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"

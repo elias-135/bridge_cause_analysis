@@ -670,7 +670,7 @@ Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Moroco,Af
 Truss,Flood,Steel,Total,Operational,Ghana,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,1
 Truss,Construction deficiencies,Steel,Partial,Operational,Camerun,Africa,2004,1.20993,1.002755,0.9686,0.77004,0.87498,1
 Beam,Flood,Reinforced concrete,Total,Operational,Libya,Africa,2023,1.81903,1.724995,1.90594,1.77233,1.82225,0
-Cable-stayed,Construction deficiencies,Reinforced concrete,Partial,Operational,Senegal,Africa,2021,1.44703,1.41142,1.32286,1.36694,1.51949,1
+Cable-stayed,Construction deficiencies,Reinforced concrete,Partial,Operational,Senegal,Africa,2021,1.44703,1.41142,1.32286,1.36694,1.51949,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Lithuania,Europe,2023,2.03459,1.75939,1.5347,1.948195,1.58214,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Belarus,Europe,2022,1.90855,2.072295,2.34447,1.886325,2.13919,0
 Beam,Flood,Reinforced concrete,Partial,Operational,Bolivia,South America,2003,0.76479,0.82038,0.84775,0.834065,0.84775,0
