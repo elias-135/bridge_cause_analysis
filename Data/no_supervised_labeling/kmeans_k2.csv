@@ -39,7 +39,7 @@ Truss,Collision events,Steel,Total,Operational,Ireland,Europe,2003,1.33325,1.265
 Beam,Collision events,Reinforced concrete,Partial,Operational,Norway,Europe,1963,-0.07614,0.404175,0.5813,0.404175,0.38155,0
 Suspension,Collision events,Steel,Total,Operational,Panama,Central America,1999,0.47822,0.620025,0.69233,0.67949,0.66665,1
 Truss,Collision events,Steel,Total,Operational,United Kingdom,Europe,1957,-0.37701,-0.111725,0.15063,-0.176765,0.15063,1
-Arch,Collision events,Composite ,Total,Operational,United Kingdom,Europe,1960,0.26606,0.286305,0.30655,0.216935,0.16781,0
+Arch,Collision events,Composite,Total,Operational,United Kingdom,Europe,1960,0.26606,0.286305,0.30655,0.216935,0.16781,0
 Beam,Collision events,Reinforced concrete,Partial,Operational,United Kingdom,Europe,1957,-0.37701,-0.111725,0.15063,-0.176765,0.15063,0
 Suspension,Collision events,Reinforced concrete,Total,Operational,United Kingdom,Europe,1975,0.08062,0.179085,0.33412,0.274355,0.33412,1
 Suspension,Collision events,Composite,Total,Operational,United Kingdom,Europe,2005,1.43121,1.27234,1.296,1.307755,1.296,0
@@ -202,14 +202,14 @@ Beam,Construction deficiencies,Steel,Partial,Operational,Cameroon,Africa,2004,1.
 Beam,Construction deficiencies,Steel,Total,Operational,Canada,North America,1857,0.54776,-0.01203,-0.22668,0.333355,0.29431,0
 Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Canada,North America,2000,1.46182,1.239885,1.04521,1.347745,1.104325,0
 Truss,Construction deficiencies,Steel,Partial,Construction,Canada,North America,1916,0.54811,0.36153,0.4032,0.384025,0.36153,1
-Suspension,Construction deficiencies,Reinforced concrete,Partial,Operational,Canada,North America,1957,0.77355,0.134055,0.18355,0.64969,0.18446,1
+Suspension,Construction deficiencies,Reinforced concrete,Partial,Operational,Canada,North America,1957,0.77355,0.134055,0.18355,0.64969,0.18446,0
 Arch,Construction deficiencies,Reinforced concrete,Total,Construction,Canada,North America,1966,0.40277,0.06305,0.08299,0.074985,0.116255,0
 Arch,Construction deficiencies,Reinforced concrete,Total,Construction,Canada,North America,1982,-0.16957,0.6068,0.66331,0.53404,0.719445,0
 Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Canada,North America,1984,0.37462,0.432745,0.67247,0.432745,0.609865,0
 Arch,Construction deficiencies,Steel,Total,Operational,China,Asia,1999,0.44772,0.424935,0.5335,0.497555,0.467825,0
 Beam,Construction deficiencies,Reinforced concrete,Total,Construction,China,Asia,2005,0.80748,0.76284,0.7793,0.72801,0.76928,0
 Arch,Construction deficiencies,Reinforced concrete,Partial,Operational,Corea,Asia,1994,0.00834,0.18827,0.1892,0.17673,0.18827,0
-Suspension,Construction deficiencies,Reinforced concrete,Total,Construction,Corea,Asia,1981,-0.1927,0.060115,0.09465,-0.020485,-0.038155,1
+Suspension,Construction deficiencies,Reinforced concrete,Total,Construction,Corea,Asia,1981,-0.1927,0.060115,0.09465,-0.020485,-0.038155,0
 Truss,Construction deficiencies,Reinforced concrete,Partial,Operational,Corea,Asia,1994,0.00834,0.18827,0.1892,0.17673,0.18827,1
 Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,1972,0.04028,0.372345,0.2323,0.2078,0.2323,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Denmark,Europe,1971,-0.12813,-0.01853,0.07099,0.025705,0.0288,0
@@ -226,12 +226,12 @@ Beam,Construction deficiencies,Reinforced concrete,Total,Operational,Israel,Asia
 Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Italy,Europe,2018,1.1134,1.3816,1.31495,1.13993,1.35073,0
 Arch,Construction deficiencies,Reinforced concrete,Total,Operational,Italy,Europe,2020,1.02784,1.22118,1.33399,1.25217,1.43,0
 Beam,Construction deficiencies,Reinforced concrete,Total,Construction,Japon,Asia,1984,-0.26543,0.015945,0.01009,0.015945,0.015945,0
-Truss,Construction deficiencies,Composite ,Total,Operational,Norway,Europe,2016,1.74625,1.4048,1.55461,1.512335,1.57744,1
-Truss,Construction deficiencies,Composite ,Total,Operational,Norway,Europe,2022,2.10535,1.802205,1.87587,2.01131,1.80477,1
+Truss,Construction deficiencies,Composite,Total,Operational,Norway,Europe,2016,1.74625,1.4048,1.55461,1.512335,1.57744,1
+Truss,Construction deficiencies,Composite,Total,Operational,Norway,Europe,2022,2.10535,1.802205,1.87587,2.01131,1.80477,1
 Beam,Construction deficiencies,Steel,Total,Construction,Paises Bajos,Europe,1967,-0.22926,0.03185,-0.19025,-0.26828,-0.19025,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,Palau,North America,1996,0.32121,0.36121,0.36211,0.43654,0.36211,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,United Kingdom,Europe,1970,-0.51272,-0.13388,-0.08252,-0.13388,-0.08252,0
-Truss,Construction deficiencies,Composite ,Total,Construction,United Kingdom,Europe,1892,0.13577,-0.154465,-0.19929,-0.10942,-0.10964,0
+Truss,Construction deficiencies,Composite,Total,Construction,United Kingdom,Europe,1892,0.13577,-0.154465,-0.19929,-0.10942,-0.10964,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Construction,United Kingdom,Europe,1967,-0.24832,0.34135,0.43122,0.133595,0.25148,0
 Beam,Construction deficiencies,Reinforced concrete,Total,Construction,South Africa,Africa,1998,0.6119,0.626275,0.65239,0.614965,0.62977,0
 Truss,Construction deficiencies,Steel,Total,Construction,Switzerland,Europe,1884,0.15725,-0.68812,-0.55213,-0.456935,-0.55213,1
@@ -293,7 +293,7 @@ Beam,Design error,Steel,Total,Operational,USA,North America,2018,1.27376,1.17971
 Truss,Design error,Steel,Partial,Operational,USA,North America,1980,0.13303,0.190515,0.18978,0.18532,0.18086,1
 Arch,Design error,Steel,Partial,Operational,USA,North America,2015,1.12477,1.096685,1.19433,1.07949,1.20361,0
 Truss,Design error,Steel,Partial,Construction,USA,North America,1893,0.0038,0.02321,0.0038,-0.00926,0.0038,1
-Suspension,Design error,Reinforced concrete,Total,Operational,USA,North America,1940,0.00594,0.124135,0.17107,0.093425,0.10775,1
+Suspension,Design error,Reinforced concrete,Total,Operational,USA,North America,1940,0.00594,0.124135,0.17107,0.093425,0.10775,0
 Truss,Design error,Reinforced concrete,Total,Operational,USA,North America,1944,-0.21122,0.076475,0.12889,-0.02355,0.0656,1
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Brazil,Central and SouthAmerica,2010,0.81543,0.776475,0.82795,0.85103,0.84574,0
 Beam,Overloading,Reinforced concrete,Total,Operational,Argentina,Central America,2014,0.50736,0.589625,0.80182,0.68137,0.82771,0
@@ -307,7 +307,7 @@ Beam,Overloading,Reinforced concrete,Partial,Operational,USA,North America,2007,
 Truss,Overloading,Steel,Total,Operational,USA,North America,1920,-0.00929,-0.029495,-0.00929,-0.016285,-0.00929,1
 Truss,Overloading,Steel,Total,Operational,USA,North America,1912,-0.02115,-0.02309,-0.0757,-0.160685,-0.14609,1
 Truss,Overloading,Steel,Total,Operational,USA,North America,1876,0.10499,0.0575,0.08905,0.048575,0.08905,1
-Suspension,Overloading,Reinforced concrete,Total,Operational,USA,North America,1967,-0.01243,0.112205,0.11853,0.11211,0.10588,1
+Suspension,Overloading,Reinforced concrete,Total,Operational,USA,North America,1967,-0.01243,0.112205,0.11853,0.11211,0.10588,0
 Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,1850,-0.02618,-0.00903,-0.04273,-0.00903,-0.02618,0
 Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,1852,-0.03679,0.012495,-0.026,0.034855,-0.026,0
 Beam,Fire,Reinforced concrete,Partial,Operational,USA,North America,1854,0.08016,0.10009,0.09115,0.094595,0.09115,0
@@ -491,7 +491,7 @@ Suspension,Overloading,Reinforced concrete,Partial,Operational,Canada,North Amer
 Truss,Overloading,Steel,Total,Operational,Canada,North America,1896,0.1086,-0.117415,-0.16482,0.01141,-0.108895,1
 Suspension,Overloading,Steel,Partial,Operational,Chile,South America,2016,0.69761,0.812715,0.85576,0.715765,0.87178,1
 Truss,Overloading,Reinforced concrete,Partial,Operational,China,Asia,2011,0.57581,0.72937,0.78311,0.728325,0.758185,1
-Suspension,Overloading,Reinforced concrete,Partial,Operational,China,Asia,2012,0.6196,0.77213,0.78319,0.617615,0.77213,1
+Suspension,Overloading,Reinforced concrete,Partial,Operational,China,Asia,2012,0.6196,0.77213,0.78319,0.617615,0.77213,0
 Beam,Overloading,Reinforced concrete,Partial,Operational,China,Asia,2019,1.17643,1.16541,1.19474,0.911595,1.13847,0
 Truss,Overloading,Steel,Total,Operational,Ecuador,South America,2005,1.16701,0.888215,0.81348,0.870005,0.81348,1
 Truss,Overloading,Steel,Total,Operational,Ecuador,South America,2007,0.71594,0.853215,0.87193,0.931825,0.87193,1
@@ -513,11 +513,11 @@ Truss,Overloading,Steel,Total,Operational,Ecuador,South America,2020,1.65745,1.4
 Beam,Overloading,Steel,Partial,Operational,Ecuador,South America,2021,1.37848,1.30474,1.20239,1.263535,1.20389,0
 Truss,Overloading,Wood,Total,Operational,Spain,Europe,1978,-0.12713,0.001765,-0.01801,0.039635,0.02154,1
 Truss,Overloading,Reinforced concrete,Total,Operational,Philippines,Asia,2022,1.07728,1.026195,1.02212,1.047035,1.04549,1
-Truss,Overloading,Composite,Total,Operational,Philippines,Asia,1972,0.19752,0.186395,0.19752,0.195275,0.17527,1
+Truss,Overloading,Composite,Total,Operational,Philippines,Asia,1972,0.19752,0.186395,0.19752,0.195275,0.17527,0
 Truss,Overloading,Reinforced concrete,Partial,Operational,Philippines,Asia,1977,0.21318,0.31855,0.31896,0.32018,0.30712,1
 Suspension,Overloading,Wood,Total,Operational,Philippines,Asia,1983,0.25775,0.179635,0.18518,0.22091,0.18518,1
 Beam,Overloading,Reinforced concrete,Total,Operational,France,Europe,2019,1.52578,1.38414,1.72328,1.3311,1.79887,0
-Suspension,Overloading,Reinforced concrete,Total,Construction,France,Europe,1931,-0.002,-0.30067,-0.002,0.09532,-0.002,1
+Suspension,Overloading,Reinforced concrete,Total,Construction,France,Europe,1931,-0.002,-0.30067,-0.002,0.09532,-0.002,0
 Truss,Overloading,Wood,Total,Operational,Hungria,Europe,1877,0.0018,0.00526,0.11136,0.03122,0.06064,1
 Beam,Overloading,Reinforced concrete,Partial,Operational,India,Asia,2018,1.04248,0.90212,0.82881,1.03925,0.92171,0
 Truss,Overloading,Reinforced concrete,Total,Operational,India,Asia,1977,0.27277,0.28654,0.20447,0.25594,0.20447,1
@@ -525,13 +525,13 @@ Suspension,Overloading,Wood,Total,Operational,Indonesia,Asia,2016,0.9174,0.85509
 Truss,Overloading,Steel,Total,Operational,Ireland,Europe,2007,1.45774,1.38315,1.30856,1.38315,1.30856,1
 Suspension,Overloading,Wood,Total,Operational,Malaysia,Asia,1988,0.0748,0.157955,0.2523,0.229715,0.229715,1
 Suspension,Overloading,Composite,Total,Operational,Mexico,North America,2005,1.03956,1.03956,1.00373,0.97087,1.00373,0
-Suspension,Overloading,Reinforced concrete,Total,Operational,Myanmar,Asia,2018,1.03846,0.92643,1.0123,0.959065,0.94507,1
+Suspension,Overloading,Reinforced concrete,Total,Operational,Myanmar,Asia,2018,1.03846,0.92643,1.0123,0.959065,0.94507,0
 Suspension,Overloading,Wood,Total,Operational,Peru,South America,1981,0.25357,0.237135,0.25357,0.28983,0.25357,1
 Beam,Overloading,Steel,Total,Operational,United Kingdom,Europe,1860,0.16771,0.26147,0.27329,0.17294,0.27329,0
 Truss,Overloading,Steel,Total,Operational,United Kingdom,Europe,1861,0.51605,0.445495,0.26885,0.223285,0.19272,1
 Beam,Overloading,Steel,Total,Operational,United Kingdom,Europe,1891,-0.33001,-0.469445,-0.7224,-0.62027,-0.68551,0
 Truss,Overloading,Steel,Total,Operational,United Kingdom,Europe,1898,0.25243,0.301285,0.25243,0.301285,0.35014,1
-Suspension,Overloading,Reinforced concrete,Partial,Operational,United Kingdom,Europe,1978,0.00448,0.45533,0.4609,0.35473,0.44976,1
+Suspension,Overloading,Reinforced concrete,Partial,Operational,United Kingdom,Europe,1978,0.00448,0.45533,0.4609,0.35473,0.44976,0
 Truss,Overloading,Steel,Total,Operational,Switzerland,Europe,1891,-0.60637,-0.614985,-0.62635,-0.541365,-0.62635,1
 Truss,Overloading,Steel,Partial,Operational,USA,North America,2013,0.94489,1.04729,1.12986,1.090345,1.12986,1
 Beam,Overloading,Reinforced concrete,Partial,Operational,USA,North America,2000,0.83988,0.802125,0.73152,0.690955,0.73152,0
@@ -545,7 +545,7 @@ Truss,Overloading,Steel,Total,Operational,USA,North America,2019,1.25219,1.22718
 Truss,Overloading,Steel,Total,Operational,USA,North America,1937,0.01984,0.16003,0.20457,0.171525,0.17602,1
 Truss,Overloading,Steel,Total,Operational,USA,North America,1979,0.44279,0.40311,0.32108,0.371145,0.28981,1
 Truss,Overloading,Steel,Total,Operational,USA,North America,1979,0.44279,0.40311,0.32108,0.371145,0.28981,1
-Suspension,Overloading,Reinforced concrete,Total,Operational,USA,North America,2000,0.83988,0.802125,0.73152,0.690955,0.73152,1
+Suspension,Overloading,Reinforced concrete,Total,Operational,USA,North America,2000,0.83988,0.802125,0.73152,0.690955,0.73152,0
 Truss,Overloading,Steel,Total,Operational,USA,North America,1873,-0.00122,0.07175,0.04013,0.038405,0.04013,1
 Truss,Overloading,Steel,Total,Operational,USA,North America,1876,0.10499,0.0575,0.08905,0.048575,0.08905,1
 Truss,Overloading,Steel,Total,Construction,USA,North America,1893,0.0038,0.02321,0.0038,-0.00926,0.0038,1
@@ -699,14 +699,14 @@ Beam,Flood,Reinforced concrete,Partial,Operational,Montenegro,Europe,2010,1.3037
 Arch,Flood,Reinforced concrete,Partial,Operational,Albania,Europe,2022,1.60335,1.40914,1.78445,1.61952,1.4907,0
 Beam,Flood,Reinforced concrete,Partial,Operational,Macedonia,Europe,2022,1.60335,1.40914,1.78445,1.61952,1.4907,0
 Beam,Flood,Reinforced concrete,Total,Operational,Iceland,Europe,2015,1.66555,1.35205,1.63941,1.659195,1.60491,0
-Truss,Overloading,Composite,Partial,Operational,Republica Democratica del Congo,Africa,2024,1.50836,1.46678,1.51825,1.04377,1.43378,1
+Truss,Overloading,Composite,Partial,Operational,Republica Democratica del Congo,Africa,2024,1.50836,1.46678,1.51825,1.04377,1.43378,0
 Beam,Flood,Composite,Total,Operational,Pakistan,Asia,2006,0.75258,0.711505,0.65142,0.67038,0.65142,0
 Beam,Flood,Reinforced concrete,Partial,Operational,Camerun,Africa,2007,0.90085,0.901215,0.90085,0.671115,0.90085,0
 Beam,Flood,Reinforced concrete,Total,Operational,Bangladesh,Asia,2008,0.56101,0.582965,0.58256,0.570875,0.58256,0
 Beam,Design error,Reinforced concrete,Partial,Operational,Austria,Europe,1982,-0.10192,0.137375,0.10798,0.06834,0.10798,0
 Truss,Flood,Steel,Partial,Operational,Austria,Europe,1982,-0.10192,0.137375,0.10798,0.06834,0.10798,1
 Beam,Flood,Reinforced concrete,Total,Operational,Austria,Europe,1990,0.3049,0.70698,0.49412,0.70698,0.63243,0
-Truss,Flood,Composite,Partial,Operational,Austria,Europe,1995,-0.22693,0.222965,0.35001,0.374855,0.35001,1
+Truss,Flood,Composite,Partial,Operational,Austria,Europe,1995,-0.22693,0.222965,0.35001,0.374855,0.35001,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,1976,-0.16056,-0.008145,0.0132,-0.07913,-0.02949,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,1975,-0.44352,-0.363185,-0.32578,-0.43495,-0.32578,0
 Beam,Construction deficiencies,Reinforced concrete,Partial,Operational,Austria,Europe,1970,-0.79116,-0.251375,-0.44234,-0.06924,-0.07807,0
@@ -745,7 +745,7 @@ Beam,Flood,Reinforced concrete,Total,Out of service,Yemen,Asia,2023,1.77671,1.76
 Beam,Construction deficiencies,Reinforced concrete,Partial,Out of service,Yemen,Asia,2024,1.8838,1.942085,1.97745,1.647425,1.9336,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Oman,Asia,2022,1.67402,1.71746,1.90001,1.42777,1.68157,0
 Beam,Flood,Reinforced concrete,Partial,Out of service,Kazakhstan,Asia,2024,1.63794,1.942085,1.97745,0.41026,1.9336,0
-Cable-stayed,Overloading,Composite ,Partial,Out of service,Uzbekistan,Asia,2015,1.43234,1.62501,1.57548,0.2428,1.521,0
+Cable-stayed,Overloading,Composite,Partial,Out of service,Uzbekistan,Asia,2015,1.43234,1.62501,1.57548,0.2428,1.521,0
 Beam,Overloading,Reinforced concrete,Total,Out of service,Uzbekistan,Asia,2023,1.56771,1.76885,1.68791,0.47932,1.74666,0
 Beam,Overloading,Reinforced concrete,Partial,Out of service,Kyrgyzstan,Asia,2025,2.24613,1.95889,1.87199,0.56093,1.91278,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Kyrgyzstan,Asia,2024,1.63794,1.942085,1.97745,0.41026,1.9336,0
@@ -774,7 +774,7 @@ Beam,Collision events,Steel,Partial,Operational,Mali,Africa,2024,1.73924,1.552,1
 Beam,Design error,Reinforced concrete,Total,Construction,Mali,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,0
 Beam,Overloading,Steel,Total,Out of service,Mauritius,Africa,2025,1.4697,1.517035,1.23152,1.369955,1.60229,0
 Beam,Flood,Reinforced concrete,Total,Construction,Namibia,Africa,2025,1.4065,1.454585,1.35131,1.452015,1.58366,0
-Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,small islands,2019,0.73725,0.748915,0.80114,0.82623,0.83418,1
+Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,Small islands,2019,0.73725,0.748915,0.80114,0.82623,0.83418,1
 Beam,Flood,Steel,Partial,Construction,Niger,Africa,2018,1.04774,1.30665,1.16919,1.340965,1.14561,0
 Beam,Flood,Reinforced concrete,Total,Construction,Nigeria,Africa,2025,1.57352,1.52396,1.32506,1.351885,1.60314,0
 Beam,Flood,Reinforced concrete,Total,Operational,Central African Republic,Africa,2013,1.05783,1.009605,1.01711,0.835015,1.05424,0
@@ -784,14 +784,14 @@ Truss,Flood,Reinforced concrete,Partial,Construction,Republic of the Congo,Afric
 Beam,Flood,Reinforced concrete,Total,Out of service,Dominican Republic,North America,2024,2.58803,1.15496,1.20863,1.04377,1.13041,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Dominican Republic,North America,2025,2.75266,1.233155,1.12086,1.15823,1.21809,0
 Beam,Flood,Reinforced concrete,Total,Construction,Rwanda,Africa,2023,1.31786,1.297425,1.31747,1.34464,1.34694,0
-Truss,Flood,Composite ,Partial,Operational,Seychelles,small islands,2004,1.30105,0.9437,0.91107,0.954695,0.91107,1
-Beam,Overloading,Composite ,Total,Construction,Sierra Lona,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,0
-Truss,Design error,Composite ,Total,Operational,Singapore,Asia,2004,0.77149,0.7739,0.77631,0.7739,0.77631,1
-Beam,Flood,Composite ,Total,Out of service,Tajikistan,Asia,2019,1.68875,1.584225,1.69901,0.39205,1.79845,0
-Beam,Construction deficiencies,Composite ,Total,Out of service,Tajikistan,Asia,2022,1.59803,1.71746,1.90001,0.5417,1.68157,0
-Beam,Collision events,Composite ,Total,Out of service,Togo,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,0
-Beam,Flood,Composite ,Total,Out of service,Trinidad and Tobago,Small islands,2024,2.58803,1.15496,1.20863,1.04377,1.13041,0
-Beam,Flood,Composite ,Partial,Construction,Tunez ,Africa,2018,1.30609,1.48244,1.5055,1.64371,1.6556,0
+Truss,Flood,Composite,Partial,Operational,Seychelles,Small islands,2004,1.30105,0.9437,0.91107,0.954695,0.91107,0
+Beam,Overloading,Composite,Total,Construction,Sierra Lona,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,0
+Truss,Design error,Composite,Total,Operational,Singapore,Asia,2004,0.77149,0.7739,0.77631,0.7739,0.77631,0
+Beam,Flood,Composite,Total,Out of service,Tajikistan,Asia,2019,1.68875,1.584225,1.69901,0.39205,1.79845,0
+Beam,Construction deficiencies,Composite,Total,Out of service,Tajikistan,Asia,2022,1.59803,1.71746,1.90001,0.5417,1.68157,0
+Beam,Collision events,Composite,Total,Out of service,Togo,Africa,2024,1.73924,1.552,1.55315,1.42252,1.50216,0
+Beam,Flood,Composite,Total,Out of service,Trinidad and Tobago,Small islands,2024,2.58803,1.15496,1.20863,1.04377,1.13041,0
+Beam,Flood,Composite,Partial,Construction,Tunez ,Africa,2018,1.30609,1.48244,1.5055,1.64371,1.6556,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,2025,1.4065,1.454585,1.35131,1.452015,1.58366,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,2025,1.4065,1.454585,1.35131,1.452015,1.58366,0
 Beam,Flood,Reinforced concrete,Total,Out of service,Zimbabwe,Africa,2025,1.4065,1.454585,1.35131,1.452015,1.58366,0

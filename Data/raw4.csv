@@ -1440,7 +1440,7 @@ N�,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP
 1439,2025,Mallet Bridge (Poudre-d�Or),Truss,Deterioration,Rock,Partial,Construction,Mauritius,Africa,S.Eastern Africa,1.4697,1.517035,1.23152,1.369955,1.60229
 1440,2025,Tranquebar Bridge (Bru. Giquelle Street),Beam,Overloading,Steel,Total,Out of service,Mauritius,Africa,S.Eastern Africa,1.4697,1.517035,1.23152,1.369955,1.60229
 1441,2025,Puente sobre r�o Aonab (B1/ Rehoboth),Beam,Flood,Reinforced concrete,Total,Construction,Namibia,Africa,S.Eastern Africa,1.4065,1.454585,1.35131,1.452015,1.58366
-1442,2019,Cantil�ver de fosfato,Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,small islands,S.Pcific-Ocean,0.73725,0.748915,0.80114,0.82623,0.83418
+1442,2019,Cantil�ver de fosfato,Truss,Construction deficiencies,Steel,Total,Out of service,Nauru,Small islands,S.Pcific-Ocean,0.73725,0.748915,0.80114,0.82623,0.83418
 1443,2018,Puente Malanville (Ben�n�N�ger),Beam,Flood,Steel,Partial,Construction,Niger,Africa,W.Africa,1.04774,1.30665,1.16919,1.340965,1.14561
 1444,2024,Puente en Mossi?Paga (Sud?Oeste),Beam,Terrorism,Steel,Total,Out of service,Niger,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
 1445,2025,Puente en Mokwa (Niger State/ Nigeria)*,Beam,Flood,Reinforced concrete,Total,Construction,Nigeria,Africa,W.Africa,1.57352,1.52396,1.32506,1.351885,1.60314
@@ -1454,9 +1454,9 @@ N�,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP
 1453,no date,Puente Dajab�n�Juana M�ndez (frontera Hait�RD),Beam,Deterioration,Composite,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
 1454,No date,Puente Francisco S�nchez (Puente de la 17),Truss,Construction deficiencies,Composite,Partial,Out of service,Dominican Republic,North America,Caribbean,ER,ER,ER,ER,ER
 1455,2023,Puente Gahira (Rongi�Ruli/ Nyabarongo),Beam,Flood,Reinforced concrete,Total,Construction,Rwanda,Africa,S.Eastern Africa,1.31786,1.297425,1.31747,1.34464,1.34694
-1456,2004,Puente Cascade (Mah�),Truss,Flood,Composite,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.30105,0.9437,0.91107,0.954695,0.91107
-1457,2010,Puente Anse?Aux?Pins,Beam,Deterioration,Composite,Partial,Operational,Seychelles,small islands,S.Eastern Africa,1.07488,0.921685,0.87774,0.921685,0.87774
-1458,2013,Varios puentes/ Farquhar,Beam,Ciclon,Composite,Total,Operational,Seychelles,small islands,S.Eastern Africa,1.2221,0.926005,0.96388,0.947865,0.96388
+1456,2004,Puente Cascade (Mah�),Truss,Flood,Composite,Partial,Operational,Seychelles,Small islands,S.Eastern Africa,1.30105,0.9437,0.91107,0.954695,0.91107
+1457,2010,Puente Anse?Aux?Pins,Beam,Deterioration,Composite,Partial,Operational,Seychelles,Small islands,S.Eastern Africa,1.07488,0.921685,0.87774,0.921685,0.87774
+1458,2013,Varios puentes/ Farquhar,Beam,Ciclon,Composite,Total,Operational,Seychelles,Small islands,S.Eastern Africa,1.2221,0.926005,0.96388,0.947865,0.96388
 1459,2024,Mahelayhun Bridge (Kamakwie),Beam,Overloading,Composite,Total,Construction,Sierra Lona,Africa,W.Africa,1.73924,1.552,1.55315,1.42252,1.50216
 1460,2004,Nicoll Highway Viaduct,Truss,Design error,Composite,Total,Operational,Singapore,Asia,S.E.Asia,0.77149,0.7739,0.77631,0.7739,0.77631
 1461,2019,Puente en Yozgand (Sangvor),Beam,Flood,Composite,Total,Out of service,Tajikistan,Asia,E.C.Asia,1.68875,1.584225,1.69901,0.39205,1.79845
@@ -1487,7 +1487,7 @@ N�,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP
 1486,2012,Ribeira d��gua Bridge,Beam,Flood,Reinforced concrete,Total,Operational,Cabo Verde,Africa,W.Africa,1.15512,1.147855,1.11463,1.10441,1.13491
 1487,2013,Lusali,Truss,Overloading,Steel,Partial,Construction,Qatar,Asia,West Asia ,1.26306,1.27813,1.42,1.220175,1.42
 1488,2000,Bragoto River ,Beam,Flood,Rock,Total,Operational,Chad,Africa,C.Africa,0.91179,0.794375,0.75201,0.61651,0.75201
-1489,2025,Cheonan,Beam,No definido,Reinforced concrete,Total ,Construction,Corea del sur,Asia,E.Asia,1.51286,1.42379,1.3006,1.14071,1.387645
+1489,2025,Cheonan,Beam,No definido,Reinforced concrete,Total,Construction,Corea del sur,Asia,E.Asia,1.51286,1.42379,1.3006,1.14071,1.387645
 1490,2008,Dimbokro,Truss,No definido,Steel,Partial,Operational,Costa de marfil,Africa,W.Africa,1.0196,0.86107,0.87807,1.012795,0.87807
 1491,No date,Moa,Beam,Huricane,Composite,Partial,Construction,Cuba,Small islands,Caribbean,ER,ER,ER,ER,ER
 1492,2025,Bayacanes Bridge,Beam,Flood,Rock,Total,Operational,Dominicana,Small islands,Caribbean,2.75266,1.233155,1.12086,1.15823,1.21809
@@ -1508,7 +1508,7 @@ N�,Date,Name,Type,Cause,Material,Collapse,Status,Country,Region,Sub-region,SSP
 1507,2022,El Quelite,Beam,Construction deficiencies,Composite,Total,Operational,Mexico,North America,N.Central America,1.42284,1.46604,1.65549,1.28859,1.42562
 1508,2025,Napo,Beam,Deterioration,Steel,Total,Operational,Ecuador,South America,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
 1509,2025,Guizhou ,Beam,Flood,Concrete,Partial,Operational,China,South America,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
-1510,2025,Miteri,Arch,Flood,Concrete,Total ,Operational,Nepal ,South America,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
+1510,2025,Miteri,Arch,Flood,Concrete,Total,Operational,Nepal ,South America,N.W.South America,"155,121","132,869","132,869","1,400,375","148,139"
 1511,2023,Rio cristal,Beam,Flood,Steel,Partial,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"150,814","134,482","134,482","1,390,525","127,517"
 1512,2019,Rio Blanco,Beam,Flood,Steel,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,1.20058,1.338295,1.28168,1.2266,1.14276
 1513,2021,Quismis,Beam,No data,Concrete,Total,Operational,Ecuador,Central /SouthAmerica,N.W.South America,"137,848","130,474","120,239","1,263,535","120,389"
